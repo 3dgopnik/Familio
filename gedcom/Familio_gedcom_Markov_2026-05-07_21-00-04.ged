@@ -1,0 +1,6402 @@
+0 HEAD
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 SOUR FAMILIO
+2 VERS 1.0.1
+2 CORP Familio.org
+1 DEST FAMILIO
+1 DATE 7 MAY 2026
+0 @I1@ INDI
+1 _UID 2c7426f0-9f26-4a70-8033-be7616697e51
+1 NAME Надежда /Булатникова (Васильева)/
+2 GIVN Надежда
+2 SURN Васильева
+2 _MARNM Булатникова
+1 SEX F
+1 BIRT
+2 DATE 28 JUN 1949
+2 PLAC Ливны, Россия
+2 _UID 45d3433d-fe55-45d4-a609-715899718c51
+1 RESI
+2 _UID b02c435b-2e4a-4146-92e5-39d46cfcf5b0
+1 RESI
+2 PLAC Мира
+2 _UID b867915c-ebbd-4f7c-b7cc-a3e1bc828a6f
+1 FAMC @F19@
+1 FAMS @F1@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/ce9de44f-44b7-48bf-a3b1-b926bc7916e1.jpg
+0 @I2@ INDI
+1 _UID 1e5f6553-06c0-4ef1-88e5-90e6d835ada3
+1 NAME Семен /Скуридин/
+2 GIVN Семен
+1 SEX M
+1 BIRT
+2 DATE 1894
+2 _UID 9aaa0461-baf6-4dcb-8980-e3e5ded20bde
+1 DEAT
+2 CAUS инфаркт
+2 DATE 1947
+2 _UID a0f69f7d-f95d-4b8e-8b77-6ef8ae6f4783
+1 FAMS @F2@
+0 @I3@ INDI
+1 _UID 819a11c0-357e-482a-bbd2-da0310a95cfa
+1 NAME Анастасия /Коромыслова (Оськина)/
+2 GIVN Анастасия
+2 SURN Оськина
+2 _MARNM Коромыслова
+1 SEX F
+1 BIRT
+2 _UID 09a94b6d-ed39-41bf-a6f5-1eb54aa03f6d
+1 RESI
+2 _UID 92e5f1f3-1189-4974-b63c-d9005d71f494
+1 FAMS @F3@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/c057f015-aa8e-42c6-9a47-3cc6298cf1a1.jpg
+0 @I4@ INDI
+1 _UID fca95bfc-c2ae-44d0-85bb-ac4576b0bf5a
+1 NAME Елисей /Захаренко/
+2 GIVN Елисей
+1 SEX M
+1 BIRT
+2 DATE 4 FEB 2014
+2 _UID 425be54d-3e94-4715-b708-b21dca9e3667
+1 FAMC @F73@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/98e499c1-41ac-4246-a08e-7342997fc8d2.jpg
+0 @I5@ INDI
+1 _UID aefba5e2-cbbe-4e41-92e6-ecd7785b3377
+1 NAME Юрий //
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 _UID cbce60d2-1da9-4a9e-84e2-dfa477af26d9
+1 DEAT
+2 _UID 56be2b10-7045-4971-a436-b2586f0e2890
+1 FAMS @F4@
+0 @I6@ INDI
+1 _UID 7e78f689-57f1-4c24-895c-b5505db1ce82
+1 NAME Николай /Миронов/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 _UID 62952e59-9584-47ae-8667-6481f9e0850b
+1 FAMC @F130@
+0 @I7@ INDI
+1 _UID a73666f6-5a1e-49cf-b952-3a55c0d25ff3
+1 NAME Надежда /Федорова (Оськина)/
+2 GIVN Надежда
+2 SURN Оськина
+2 _MARNM Федорова
+1 SEX F
+1 BIRT
+2 DATE 20 MAY 1940
+2 _UID 906de867-6b7e-4afb-98e6-cae96106fe77
+1 FAMC @F131@
+1 FAMS @F5@
+0 @I8@ INDI
+1 _UID 4e940ae1-933f-40a0-a113-77500800655f
+1 NAME Любовь /Полухина (Тупоршина)/
+2 GIVN Любовь
+2 SURN Тупоршина
+2 _MARNM Полухина
+1 SEX F
+1 BIRT
+2 _UID 220bcd95-3495-42e6-9e22-b0ff10f3e04e
+1 FAMS @F6@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/1d0764d7-7115-44a9-8be3-7cf5c167db1e.jpg
+0 @I9@ INDI
+1 _UID ed99d2c1-12f8-4822-a125-3de11dafdbd9
+1 NAME Дмитрий /Череваткин/
+2 GIVN Дмитрий
+1 SEX M
+1 BIRT
+2 _UID 47b7ef1d-d5b7-4487-80e6-3c7cee1c263a
+1 DEAT
+2 _UID 0e94e674-4fb6-4e31-a1a3-f46e47946bd6
+1 FAMS @F7@
+0 @I10@ INDI
+1 _UID f6a105eb-74d5-459e-80eb-dfe4e8554711
+1 NAME Фаина /Маркова/
+2 GIVN Фаина
+2 _MARNM Маркова
+1 SEX F
+1 BIRT
+2 DATE 11 FEB 1927
+2 PLAC Бологое, Россия
+2 _UID 59413eac-32ac-4642-8288-4705ca8a47ae
+1 RESI
+2 PLAC мкр. Давыдовский, д.4 кв.49
+2 _UID 9c5c9bdf-f65f-4cf6-8712-83977ffe6b22
+1 RESI
+2 _UID 67cbef44-df8c-4572-b8d0-48a855d62412
+1 FAMC @F70@
+1 FAMS @F8@
+0 @I11@ INDI
+1 _UID 9a2ff0d7-8d8a-4052-9b27-49e587f6e7bc
+1 NAME Виктор /Грибов/
+2 GIVN Виктор
+1 SEX M
+1 BIRT
+2 _UID 952922fb-8bff-4310-81df-0763c50b376c
+1 FAMS @F9@
+0 @I12@ INDI
+1 _UID 4586c1a5-ef85-4e68-9909-2e3068cf72fb
+1 NAME Павел Иванович /Малышенко/
+2 GIVN Павел Иванович
+1 SEX M
+1 BIRT
+2 DATE 18 JUL 1940
+2 PLAC с. Шуерецкое, Беломорский район, Карелия
+2 _UID ba329f16-7165-4d4e-9228-2270d8895fd2
+1 FAMS @F10@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/c09fb870-1cec-428b-a9bb-b6039864a24f.jpg
+0 @I13@ INDI
+1 _UID ab813f2e-c0c3-45de-aeeb-6cd80808a8ae
+1 NAME Иван /Занин/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 _UID 847cbac4-87a5-4cf8-9cb8-5c3e5303c48a
+1 FAMS @F11@
+0 @I14@ INDI
+1 _UID fcb4f657-89c4-4212-b303-bc7b939b7888
+1 NAME Дарья / (Хахалина)/
+2 GIVN Дарья
+2 SURN Хахалина
+1 SEX F
+1 BIRT
+2 _UID 2891fcb3-a35d-4726-8dbc-20d7d36fb474
+1 DEAT
+2 _UID 561d5dc1-87e1-491d-a794-6b6b00e69eec
+1 FAMC @F132@
+0 @I15@ INDI
+1 _UID 79601196-4af1-4919-bcfc-b347e96c9e22
+1 NAME Сергей /Куц/
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 _UID fb93584a-f30d-4687-8d30-ccd04394ca98
+1 FAMS @F12@
+0 @I16@ INDI
+1 _UID 9d4e1de3-9d17-41d1-ab32-2d64ea39e560
+1 NAME Евтефий /Жолкин/
+2 GIVN Евтефий
+1 SEX M
+1 BIRT
+2 _UID 0212f673-56e2-4674-b3fa-c38503c57b15
+1 DEAT
+2 _UID 602f3af7-1c7b-45a9-ac1d-d776d4ea19af
+1 FAMS @F13@
+0 @I17@ INDI
+1 _UID de910af4-9570-41d0-959d-9c433cb848f0
+1 NAME София / (Маркова)/
+2 GIVN София
+2 SURN Маркова
+1 SEX F
+1 BIRT
+2 DATE 27 JAN 2014
+2 PLAC Варна, Болгария
+2 _UID e663ae94-5551-4507-9590-974e31cf0fdd
+1 FAMC @F120@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/06e87b85-d4dc-4f1c-9b03-a3dfca592098.jpg
+0 @I18@ INDI
+1 _UID d4f38eb1-d4b7-4b05-81c7-02ecd2ac45b9
+1 NAME Гавриил /Рачеев/
+2 GIVN Гавриил
+1 SEX M
+1 BIRT
+2 _UID 4f25fe97-6395-46fd-9a56-dfa6f498b3f9
+1 FAMS @F14@
+0 @I19@ INDI
+1 _UID 487c2167-cb6b-4d51-a5da-b6a9d7e84629
+1 NAME Григорий Михайлович /Нестеров/
+2 GIVN Григорий Михайлович
+1 SEX M
+1 BIRT
+2 DATE 4 JAN 1885
+2 _UID b8eb4615-2135-4de4-8d5a-2079967bd009
+1 DEAT
+2 DATE 1944
+2 _UID d53cc49d-9330-48e2-86c0-f8c10ac0ba0f
+1 FAMS @F15@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/02130b39-5b16-43a2-a5c5-05d0f68d3c9c.jpg
+0 @I20@ INDI
+1 _UID c1964013-be5a-474c-b050-e7b39a99e39d
+1 NAME Михаил /Скуридин/
+2 GIVN Михаил
+1 SEX M
+1 BIRT
+2 DATE 1974
+2 _UID cf9df6a4-75b0-483c-b932-86723c09ee25
+1 DEAT
+2 CAUS автокатастрофа
+2 DATE 25 JAN 2009
+2 _UID d10488c1-9967-485d-a9fe-c530f2e8bbd5
+1 FAMC @F133@
+0 @I21@ INDI
+1 _UID e50d4eea-3253-4f2e-ae40-68e904e99b12
+1 NAME Игорь /Петров/
+2 GIVN Игорь
+1 SEX M
+1 NOTE вытегра    22 июня 1957 г
+1 BIRT
+2 DATE 27 JUN 1933
+2 PLAC п. Андреевский Шольского р-на Вологодской обл.
+2 _UID 573309d1-af5e-488f-b4e0-ba5643ce55f9
+1 RESI
+2 PLAC ул. Вешних Вод, д.8, к.3, кв. 49
+2 _UID 13a7e26d-b538-4c15-9550-4107b7062da7
+1 RESI
+2 _UID 20c05abd-a426-410e-8a4c-c6f51fe1f60a
+1 FAMC @F95@
+1 FAMS @F16@
+0 @I22@ INDI
+1 _UID 251d5a22-e7b0-4495-b90a-af26553c1073
+1 NAME Елена /Глухова (Оськина)/
+2 GIVN Елена
+2 SURN Оськина
+2 _MARNM Глухова
+1 SEX F
+1 BIRT
+2 _UID c28d6532-4d10-48bd-bd5c-e736876abe02
+1 DEAT
+2 _UID 86184b75-c735-4aa2-a83b-e71a1a680273
+1 FAMC @F131@
+1 FAMS @F134@
+0 @I23@ INDI
+1 _UID 0be55343-06ec-438a-a24c-b8c9cf46f8f3
+1 NAME Надежда /Дронова (Варнакова)/
+2 GIVN Надежда
+2 SURN Варнакова
+2 _MARNM Дронова
+1 SEX F
+1 BIRT
+2 _UID 3903ef85-cf83-4f0c-bb57-559aa5bfc376
+1 FAMC @F63@
+1 FAMS @F17@
+0 @I24@ INDI
+1 _UID 4a8869fc-adfc-4a36-9547-4987a95db80b
+1 NAME Семен /Теплов/
+2 GIVN Семен
+1 SEX M
+1 NOTE Унаследовал родовое поместье под Пензой - Ахуны. Пропил его и прокутил с цыганами. Любил цыганку (возможно был    женат на ней)
+1 BIRT
+2 _UID c4054cf7-9c71-4ccd-9693-5764a34d3aa4
+1 FAMS @F18@
+0 @I25@ INDI
+1 _UID 89a8159c-a013-497c-bdea-3a0f42d925ac
+1 NAME Виктория /Викторова (Викторова)/
+2 GIVN Виктория
+2 SURN Викторова
+2 _MARNM Викторова
+1 SEX F
+1 BIRT
+2 PLAC Саратов, Россия
+2 _UID 94153f16-bdec-49d9-bed3-6e20e2376e68
+1 FAMS @F135@
+0 @I26@ INDI
+1 _UID 4ed8c78b-cd14-407e-88b7-6e34ee99cf18
+1 NAME Лидия /Васильева (Маркова)/
+2 GIVN Лидия
+2 SURN Маркова
+2 _MARNM Васильева
+1 SEX F
+1 BIRT
+2 DATE 29 JAN 1927
+2 PLAC Ливны, Россия
+2 _UID 66692055-a170-451c-ac6d-a1223b2435fd
+1 RESI
+2 _UID 613437de-f43d-4a27-a4bb-ebef3f56b7ba
+1 RESI
+2 PLAC Селишева, 18/2
+2 _UID 40583da0-ed6d-466e-9e52-13dc354d758c
+1 FAMC @F46@
+1 FAMS @F19@
+0 @I27@ INDI
+1 _UID 4fb4a3db-e83f-444c-a4d3-7814dd75fcb4
+1 NAME Валентина /Оськина/
+2 GIVN Валентина
+2 _MARNM Оськина
+1 SEX F
+1 BIRT
+2 PLAC Самара
+2 _UID d39d51cb-dfc5-414a-9287-e9f9a4d80927
+1 DEAT
+2 _UID f85824f5-af49-42d1-aaa8-bd4168bf0ef6
+1 FAMS @F20@
+0 @I28@ INDI
+1 _UID 904d6259-6983-43e0-b6d6-f922a00d17b9
+1 NAME Ирина / (Лахман)/
+2 GIVN Ирина
+2 SURN Лахман
+1 SEX F
+1 BIRT
+2 _UID 358a91f5-0411-4f85-8703-3804bc009978
+1 FAMC @F21@
+0 @I29@ INDI
+1 _UID 567e56c2-eee9-441d-a2b7-040bf6c7893a
+1 NAME Константин /Миронов/
+2 GIVN Константин
+1 SEX M
+1 BIRT
+2 _UID 7ba16cab-4189-47f5-a889-fe9a52e6eb1b
+1 RESI
+2 _UID 25594587-c67b-4d1f-8599-66d975fc7e6b
+1 FAMC @F136@
+0 @I30@ INDI
+1 _UID 2c7eebe7-ae0e-43bd-b043-6cc18dc850ae
+1 NAME Клара /Лахман/
+2 GIVN Клара
+2 _MARNM Лахман
+1 SEX F
+1 BIRT
+2 _UID 6e9e949e-bb72-445d-b847-6c6ab5149965
+1 FAMC @F44@
+1 FAMS @F21@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/69d97ece-7ea2-458b-8e6c-545a72fec28e.jpg
+0 @I31@ INDI
+1 _UID 354b90d3-5e6a-41de-8f73-f7258a64e267
+1 NAME Екатерина /Чередникова (Грибова)/
+2 GIVN Екатерина
+2 SURN Грибова
+2 _MARNM Чередникова
+1 SEX F
+1 BIRT
+2 _UID 553c1b28-755b-446c-9224-0f2ad5693705
+1 OCCU
+2 NOTE секретарь горисполкома
+2 _UID a1286c4b-56b4-4a9d-beed-34dfd28a437b
+1 EDUC
+2 NOTE учитель
+2 _UID b4f044db-0e34-43e7-a773-81c55ab199ab
+1 RESI
+2 _UID 64bb5d92-0c78-4818-b137-8bda5a90188a
+1 FAMC @F9@
+1 FAMS @F22@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/5f95fdad-4990-41a7-9662-9b23e54a0130.jpg
+0 @I32@ INDI
+1 _UID 469e1962-7570-484a-8229-b595d8ac30a9
+1 NAME Ирина / (Красова)/
+2 GIVN Ирина
+2 SURN Красова
+1 SEX F
+1 BIRT
+2 DATE 1992
+2 _UID 2752f3c7-09c1-450a-a79b-c4bf4238aaf4
+1 FAMC @F137@
+0 @I33@ INDI
+1 _UID b7e1c3a1-7af9-42e3-b8cd-3b5284f70de8
+1 NAME Евгения /Захаренко (Маркова)/
+2 GIVN Евгения
+2 SURN Маркова
+2 _MARNM Захаренко
+1 SEX F
+1 BIRT
+2 DATE 17 AUG 1954
+2 PLAC Ливны, Россия
+2 _UID f8fc1579-3993-4374-b7da-2b66ba0377ef
+1 OCCU
+2 NOTE финансовый директор
+2 _UID ef2c5497-7421-45b6-9e76-940a3fdddfa1
+1 RESI
+2 _UID 57046da4-1e01-4bdd-9a73-1fd91a549855
+1 FAMC @F104@
+1 FAMS @F23@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/9877c04d-ba4f-4c43-af3a-0c23c7d9b5aa.jpg
+0 @I34@ INDI
+1 _UID 6561f61f-c457-46d9-b5c5-cd6d6b6b7cb1
+1 NAME Анатолий /Булатников/
+2 GIVN Анатолий
+1 SEX M
+1 BIRT
+2 _UID e3738d88-bd44-40d2-95f0-688dd450b2fc
+1 FAMS @F1@
+0 @I35@ INDI
+1 _UID 56d93753-3afb-4de5-aaf2-d40fc7a68860
+1 NAME Яна /Савельева (Миронова)/
+2 GIVN Яна
+2 SURN Миронова
+2 _MARNM Савельева
+1 SEX F
+1 BIRT
+2 DATE 31 JAN 1963
+2 PLAC Полярный, Россия
+2 _UID 9d098ec7-d4ab-4269-a8c9-73f67cda871c
+1 RESI
+2 PLAC Керамический проезд
+2 _UID 19f3c37d-cc5b-49e6-be92-004dface1955
+1 FAMC @F10@
+1 FAMS @F24@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/466bcbb7-df0d-49eb-b5bc-091c4b273428.jpg
+0 @I36@ INDI
+1 _UID 38fc4cb6-6f0d-4712-b207-cba498946daa
+1 NAME Антонина /Грибова (Матвеева)/
+2 GIVN Антонина
+2 SURN Матвеева
+2 _MARNM Грибова
+1 SEX F
+1 BIRT
+2 DATE 2 FEB 1933
+2 _UID efb26f05-24b8-4923-8733-d0a125951083
+1 OCCU
+2 NOTE учитель истории и права
+2 _UID 24fd8ae8-be50-46c8-9d50-a05a19baea1d
+1 RESI
+2 PLAC ул. Маяковского, 14
+2 _UID e0c5214d-db0b-49e4-885d-fe2acc11982a
+1 FAMC @F138@
+1 FAMS @F9@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/52642526-904f-4be4-bc12-be09d2be21e6.jpg
+0 @I37@ INDI
+1 _UID c913690e-3657-42b0-a894-8cb6c1ee07a1
+1 NAME Маргарита / (Шматова)/
+2 GIVN Маргарита
+2 SURN Шматова
+1 SEX F
+1 BIRT
+2 DATE 1 MAY 2014
+2 _UID a3f535ff-37fd-49b3-bc30-005bd1e4582d
+1 FAMC @F33@
+0 @I38@ INDI
+1 _UID 40ba20f0-743b-4929-87a4-aad027d0083c
+1 NAME ? /Красова/
+2 GIVN ?
+2 _MARNM Красова
+1 SEX F
+1 BIRT
+2 _UID 42d9da04-c32e-4229-96ed-afc9ff3c1a5d
+1 FAMS @F137@
+0 @I39@ INDI
+1 _UID a0d17121-efa2-4b67-8659-baf8c73ef68d
+1 NAME Клавдия /Оськина (Хахалина)/
+2 GIVN Клавдия
+2 SURN Хахалина
+2 _MARNM Оськина
+1 SEX F
+1 BIRT
+2 DATE 16 JAN 1937
+2 PLAC Саратов, Россия
+2 _UID 4c179c1a-544c-4742-ae1a-f5a60ff449c9
+1 DEAT
+2 DATE 28 MAY 2008
+2 PLAC Фрязино
+2 _UID 6add8ebf-7591-41d2-8fba-6806c14e4bd9
+1 FAMC @F139@
+1 FAMS @F140@
+0 @I40@ INDI
+1 _UID 20f578db-de87-4700-9914-d262d6668368
+1 NAME Раиса /Ефимова (Филлипова)/
+2 GIVN Раиса
+2 SURN Филлипова
+2 _MARNM Ефимова
+1 SEX F
+1 BIRT
+2 DATE 3 SEP 1934
+2 PLAC пос. Синенькие
+2 _UID f9ba7661-9c0f-45cf-80cb-aff9d5988ed8
+1 FAMC @F94@
+1 FAMS @F25@
+0 @I41@ INDI
+1 _UID f0cac260-818a-43ba-a910-e07640c0cef2
+1 NAME Марина / (Миронова)/
+2 GIVN Марина
+2 SURN Миронова
+1 SEX F
+1 BIRT
+2 _UID cc6a9fc2-002a-4352-887b-c6d80bdbbc85
+1 FAMC @F141@
+0 @I42@ INDI
+1 _UID 967c6dbb-1a47-4cec-b111-0866f5aa96f0
+1 NAME Матвей //
+2 GIVN Матвей
+1 SEX M
+1 BIRT
+2 _UID 4f11dbb5-ef74-4f96-a6f8-ad2ae37067df
+1 DEAT
+2 _UID 478c6802-d013-411d-b72d-f6f489c00923
+1 FAMS @F26@
+0 @I43@ INDI
+1 _UID 307b2abf-dd06-4175-ad87-d3a721c5ea21
+1 NAME Нина /Скуридина/
+2 GIVN Нина
+2 _MARNM Скуридина
+1 SEX F
+1 BIRT
+2 DATE 21 JUL 1927
+2 PLAC Ливны, Россия
+2 _UID 9e4a5821-c0da-4743-8144-d75ed7953cbf
+1 FAMS @F27@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/fb524d4f-43a3-4ba5-9a34-d37982df7ce1.jpg
+0 @I44@ INDI
+1 _UID d5d5267f-aa22-4118-8b74-a5d1bfc72161
+1 NAME Елена / (Носовская)/
+2 GIVN Елена
+2 SURN Носовская
+1 SEX F
+1 BIRT
+2 _UID db71d8a3-b87a-410c-bb85-611d64ebf7f9
+1 RESI
+2 _UID d6f25e6e-6268-4dd7-a7ed-0d2611d4b583
+1 OCCU
+2 NOTE главный бухгалтер
+2 _UID dd0b8c59-2af2-4b61-92d1-0e1cdd3c2315
+1 FAMC @F87@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/2ef21400-cb6a-499f-9bbc-a0005836e250.jpg
+0 @I45@ INDI
+1 _UID 15be68c7-0b38-4fce-8ae6-f622ae7a2937
+1 NAME Анна / (Жукова)/
+2 GIVN Анна
+2 SURN Жукова
+1 SEX F
+1 BIRT
+2 DATE 10 JAN 1995
+2 PLAC Калуга
+2 _UID a8afe156-0380-4b94-a5b8-2467c9f2f173
+1 RESI
+2 _UID bb110fea-577f-4508-b1f1-9cae997f848a
+1 FAMC @F98@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/9fbc7283-aad0-4943-96c4-a105e51a2d25.jpg
+0 @I46@ INDI
+1 _UID b6cc5716-f082-4cd9-af44-e8713221516f
+1 NAME Федор /Рачеев/
+2 GIVN Федор
+1 SEX M
+1 BIRT
+2 PLAC д. Нагажма
+2 _UID 855ba5c5-4ee3-4acc-bca5-655184491846
+1 DEAT
+2 _UID c3c9c363-254f-4638-9303-03cb6fbe67ca
+1 FAMC @F14@
+1 FAMS @F28@
+0 @I47@ INDI
+1 _UID 0ba60763-f124-4502-b199-429f9008fa61
+1 NAME Наталья / (Гончарова)/
+2 GIVN Наталья
+2 SURN Гончарова
+1 SEX F
+1 BIRT
+2 _UID 983e5ff3-f4a7-4113-9ece-e71a5d9a6f09
+1 FAMC @F65@
+1 FAMS @F142@
+0 @I48@ INDI
+1 _UID ccbc2edb-7d35-4718-8230-38c310683835
+1 NAME Дарья /Миронова/
+2 GIVN Дарья
+2 _MARNM Миронова
+1 SEX F
+1 BIRT
+2 _UID 4d0bd209-667f-4057-9a86-0cbd4919f92c
+1 DEAT
+2 _UID cbd70fca-4be1-4f56-ba8e-834407cbcb3e
+1 FAMS @F29@
+0 @I49@ INDI
+1 _UID 7f9d2c20-1f45-46df-bdda-bd4ecc989031
+1 NAME Мария / (Хахалина)/
+2 GIVN Мария
+2 SURN Хахалина
+1 SEX F
+1 BIRT
+2 _UID c2c9ff0b-96f7-4561-8822-cd8e3d5f4ba2
+1 DEAT
+2 _UID a7026cb0-7f75-4d81-b9ce-a9d436f0f71d
+1 FAMC @F132@
+0 @I50@ INDI
+1 _UID ce17e993-5787-4c9d-a33c-3a476a4e6d50
+1 NAME Георгий /Худяков/
+2 GIVN Георгий
+1 SEX M
+1 BIRT
+2 _UID 272ffe97-55e7-4541-9b04-3267a2b7e00c
+1 DEAT
+2 _UID cf0c01e5-e117-49cb-86eb-fa3ad7126070
+1 FAMC @F31@
+0 @I51@ INDI
+1 _UID fc3f33ba-1445-4b6d-aeb7-f14afcb9e84c
+1 NAME Иван /Мишин/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 DATE 28 APR 2004
+2 PLAC Вытегра, Россия
+2 _UID 8ae0e127-14c2-470c-a2e3-6d93ad865474
+1 FAMC @F100@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/ce080776-2102-4a49-9ead-414adda47105.jpg
+0 @I52@ INDI
+1 _UID 322c6122-1662-4b89-96b5-0399ec1045ad
+1 NAME Таисия /Худакова (Худякова)/
+2 GIVN Таисия
+2 SURN Худякова
+2 _MARNM Худакова
+1 SEX F
+1 BIRT
+2 DATE 23 MAY 1906
+2 _UID 45041e5e-3f7f-4983-9701-1c7c19320a97
+1 DEAT
+2 _UID a266df35-9d72-4ecf-b1ed-9b2413d63974
+1 FAMC @F31@
+1 FAMS @F30@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/cee47c35-be74-4611-b3e9-9e60cf6097e2.jpg
+0 @I53@ INDI
+1 _UID 29137271-130a-45e8-883d-51d1d42f9129
+1 NAME Валентина / (Миронова)/
+2 GIVN Валентина
+2 SURN Миронова
+1 SEX F
+1 BIRT
+2 _UID 7e25ece3-dddb-4e98-b333-384f529d724c
+1 FAMC @F53@
+0 @I54@ INDI
+1 _UID 8f651793-1149-4613-b0fb-072e6abc25b6
+1 NAME Фёдор /Худяков/
+2 GIVN Фёдор
+1 SEX M
+1 BIRT
+2 _UID af3c2718-ae0c-4a9b-8f09-834b64f76cbb
+1 DEAT
+2 _UID ea37d5e9-521e-4452-b1ff-3b3924014a95
+1 FAMS @F31@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/ad930423-5f0f-4662-99df-6ff43a5fb2c5.jpg
+0 @I55@ INDI
+1 _UID 97e6e474-fb32-4daf-a2e4-e1d58b975d08
+1 NAME Николай /Потюпкин/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 DATE 12 JAN 1983
+2 PLAC Таллинн, Эстония
+2 _UID 19c69a3c-d0a8-4c96-b781-7cc743a1d0a8
+1 RESI
+2 _UID 0bd2b5dc-e037-4151-b110-ce965d839c77
+1 RESI
+2 _UID 8a29f471-2c7f-40cd-a820-7df6d8a33c55
+1 FAMC @F64@
+0 @I56@ INDI
+1 _UID 64f48fd3-cb16-4ed6-a35a-d4d2bb626517
+1 NAME Анастасия /Седякина (Рачеева)/
+2 GIVN Анастасия
+2 SURN Рачеева
+2 _MARNM Седякина
+1 SEX F
+1 BIRT
+2 _UID 432b4d9a-2c48-4608-a209-50ca14a3fe21
+1 DEAT
+2 _UID 40424429-65ea-4b4f-a07c-0212655c0847
+1 FAMC @F28@
+1 FAMS @F32@
+0 @I57@ INDI
+1 _UID 0ae2dfa2-7858-47f2-a743-69e6001445b4
+1 NAME Марина //
+2 GIVN Марина
+1 SEX F
+1 BIRT
+2 DATE 1997
+2 _UID 8bb54bea-005f-4544-8677-b0699e44fc9e
+1 FAMC @F48@
+0 @I58@ INDI
+1 _UID 75d2778f-ea8d-4435-a3bd-b018279770a0
+1 NAME Анатолий /Марков/
+2 GIVN Анатолий
+1 SEX M
+1 BIRT
+2 DATE 11 FEB 1929
+2 _UID 089e41f3-18e0-45c0-8058-2a03e31a35e1
+1 DEAT
+2 CAUS Рак
+2 DATE 28 MAY 2008
+2 PLAC Кострома, Россия
+2 _UID 2271ac46-59b3-4505-ad84-1cfa03568385
+1 FAMC @F46@
+1 FAMS @F8@
+0 @I59@ INDI
+1 _UID 5709f86f-4d7c-457a-9d45-fe43e02c4841
+1 NAME Андрей /Шматов/
+2 GIVN Андрей
+1 SEX M
+1 BIRT
+2 DATE 9 AUG 1980
+2 _UID 19a60271-15e8-425c-aae3-87d4d3b8ca51
+1 OCCU
+2 NOTE военный врач
+2 _UID dbf750dc-69c8-491a-bdad-f3407fcdf106
+1 FAMC @F58@
+1 FAMS @F33@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/59500d43-e7db-43ff-a033-d9ed3945d92f.jpg
+0 @I60@ INDI
+1 _UID 47511ccf-6c33-43bc-888a-3657e42a67d8
+1 NAME Дочка //
+2 GIVN Дочка
+1 SEX F
+1 BIRT
+2 _UID ce116d8c-a870-4fc9-a6ce-784658df2534
+1 FAMC @F143@
+0 @I61@ INDI
+1 _UID 734f90af-bc6c-48e2-9c3a-a713097f4016
+1 NAME Александр /Лазунин/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 DATE 1976
+2 PLAC Тольятти
+2 _UID 5f80ddfd-858b-477f-a5ef-2f70ed8e90af
+1 FAMC @F39@
+0 @I62@ INDI
+1 _UID e29296d9-4275-441e-8f34-822a3728720c
+1 NAME Дмитрий /Случанко/
+2 GIVN Дмитрий
+1 SEX M
+1 BIRT
+2 DATE 23 JUL 1983
+2 PLAC Москва, Россия
+2 _UID a86b1dac-a0e3-4ecf-9295-66fd37a1f6ae
+1 FAMC @F76@
+1 FAMS @F34@
+0 @I63@ INDI
+1 _UID 24f87c64-9978-4480-a20f-06c953ef498e
+1 NAME Зинаида /Борзенкова (Захаренко)/
+2 GIVN Зинаида
+2 SURN Захаренко
+2 _MARNM Борзенкова
+1 SEX F
+1 BIRT
+2 _UID 3ba15b56-6bdc-43d1-a669-f448051ca476
+1 FAMC @F124@
+1 FAMS @F4@
+1 FAMS @F35@
+0 @I64@ INDI
+1 _UID 69bd06bf-664f-4ab5-b91b-dab617f0407b
+1 NAME Валерий /Марков/
+2 GIVN Валерий
+1 SEX M
+1 BIRT
+2 _UID b09c1408-8aae-4b8f-96bd-b28b59e25167
+1 RESI
+2 _UID abce1a3d-8ad6-4543-ae2f-11eca41c6580
+1 FAMC @F8@
+0 @I65@ INDI
+1 _UID c7b6ce86-af7b-4dfd-9345-828e495feb99
+1 NAME Нина /Петрова/
+2 GIVN Нина
+2 _MARNM Петрова
+1 SEX F
+1 BIRT
+2 _UID 292ddc89-9259-49af-8948-2673b8a579df
+1 FAMS @F36@
+0 @I66@ INDI
+1 _UID 5e6c1b5c-b18a-4cbe-b790-f76bba4fa8f0
+1 NAME Антонина /Захаренко (Пашинина)/
+2 GIVN Антонина
+2 SURN Пашинина
+2 _MARNM Захаренко
+1 SEX F
+1 BIRT
+2 DATE 6 SEP 1931
+2 PLAC д. Брянцево, Красненский район, Липецкая область, Россия
+2 _UID 1ec7fa1f-0bd8-4e2f-8d61-0919ef24ceee
+1 FAMC @F124@
+1 FAMS @F37@
+0 @I67@ INDI
+1 _UID 197bcb92-7562-4753-99ac-29622cf95f90
+1 NAME Сергей /Пронин/
+2 GIVN Сергей
+1 SEX M
+1 NOTE Со второй семьей живет в Германии, есть дочь от второго брака
+1 BIRT
+2 DATE 27 MAY 1959
+2 _UID 48c4e785-4fdf-433b-a817-cb84f3fd7348
+1 FAMC @F68@
+1 FAMS @F38@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/816cb241-2485-4896-81ef-f7543449a91a.jpg
+0 @I68@ INDI
+1 _UID 56b810df-dd42-4f9b-91c3-0798f8ecdc55
+1 NAME Андрей Петрович /Савельев/
+2 GIVN Андрей Петрович
+1 SEX M
+1 BIRT
+2 DATE 16 JAN 1963
+2 PLAC Саранск, Россия
+2 _UID 27678d14-c8d1-4cb0-87ec-fcf6cfa8b476
+1 RESI
+2 _UID d669c3e7-ce38-456f-a230-242e6eb3e0f7
+1 FAMS @F24@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/64b19c39-2b50-481e-a258-d004e45cbf08.jpg
+0 @I69@ INDI
+1 _UID 568ee586-c7ab-449e-9191-8696580c8bd3
+1 NAME Алексей /Маратаев/
+2 GIVN Алексей
+1 SEX M
+1 BIRT
+2 DATE 25 MAR 1969
+2 PLAC Вытегра, Россия
+2 _UID 0b4cf256-e944-4cf9-9b6b-4cf48d7b8f7b
+1 EDUC
+2 PLAC Институт гидросооружений, Ленинград
+2 NOTE высшее
+2 _UID 7379138a-86f7-4a67-9df4-5a0e40091b1f
+1 OCCU
+2 NOTE ВРГС, обслуживание шлюзов, электрик
+2 _UID dba23ae1-eff4-45d4-8f94-ba95fe9f02a2
+1 RESI
+2 PLAC Урицкого,д 7. кв.4
+2 _UID d9108664-2e24-4575-9e9b-538eca5230a2
+1 FAMC @F128@
+1 FAMS @F144@
+0 @I70@ INDI
+1 _UID 07ddf3fb-25e5-488b-9720-8b7bb2410178
+1 NAME Наталия / (Худякова)/
+2 GIVN Наталия
+2 SURN Худякова
+1 SEX F
+1 BIRT
+2 _UID 7c13d2f7-4967-4ad4-b311-2a48ad65cba4
+1 DEAT
+2 _UID 8179f2c0-8be7-428d-9cfc-48fd3dd0e3d6
+1 FAMC @F31@
+0 @I71@ INDI
+1 _UID 3a6d01c1-0580-4ded-a660-a294329e3416
+1 NAME Юрий /Федоров/
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 _UID e46a3494-a12a-420a-aeda-03bb89d8b1de
+1 DEAT
+2 DATE 2012
+2 _UID 0882638c-ddab-492f-a068-10b430210e32
+1 FAMS @F5@
+0 @I72@ INDI
+1 _UID 4c3bcfab-9777-446a-9cbe-9edd662348a2
+1 NAME Алексей /Седякин/
+2 GIVN Алексей
+1 SEX M
+1 BIRT
+2 PLAC с. Поджа
+2 _UID 5aa3fc2d-f894-4985-b002-add26d50ea6e
+1 DEAT
+2 _UID e409f5e8-7218-445d-b35a-aee7ef516a30
+1 FAMC @F96@
+1 FAMS @F32@
+0 @I73@ INDI
+1 _UID c928c95f-a4d1-4d41-8518-d068bcd760eb
+1 NAME Геннадий /Лазунин/
+2 GIVN Геннадий
+1 SEX M
+1 BIRT
+2 DATE 8 JUN 1940
+2 _UID a386225c-eff8-4187-b065-4f4165c7e20a
+1 DEAT
+2 DATE 17 FEB 2010
+2 _UID ea790ac4-ff9f-4e7a-96f3-b46a7998be99
+1 FAMC @F134@
+1 FAMS @F39@
+0 @I74@ INDI
+1 _UID e1ab7450-0812-4143-860e-ee85cb06e8ea
+1 NAME Мария / (Теплова)/
+2 GIVN Мария
+2 SURN Теплова
+1 SEX F
+1 NOTE участник ВОВ (Беларуссия)
+1 BIRT
+2 DATE 10 OCT 1920
+2 PLAC Пензенская обл., Литвинский р-н, с. Николо-Борнуки
+2 NOTE Район образован 16 июля 1928 года под названием Литвинский в составе Кузнецкого округа Средне-Волжской области.С 1929 
+3 CONC года район в составе Средневолжского (Куйбышевского) края, с 1936 года — в Куйбышевской области.939 года район передан в сост
+3 CONC ав вновь образованной Пензенской области.17 февраля 1940 года рабочий посёлок Литвино переименован в Сосновоборск, а район —
+3 CONC в Сосновоборский.
+2 _UID b1e0f90d-69cd-4536-9ff6-6ca98849b6e9
+1 EVEN
+2 TYPE Награда (военная)
+2 DATE 30 AUG 1944
+2 NOTE Орден Красной Звезды
+2 _UID c94b06c9-9c00-4c05-9ddf-a22a30fcd1dc
+1 OCCU
+2 NOTE доктор
+2 _UID 6f9fe43f-8eb1-4f11-b547-af153468ec18
+1 EVEN
+2 TYPE Служба в армии
+2 DATE 15 APR 1943
+2 PLAC Саранский ГВК, Мордовская АССР
+2 NOTE призвана в должности ст. лейтенант, потои капитан медслужбы |в РККА с __.__.1943 года
+2 _UID d3fec996-4b37-4da2-9875-46c2d29621b1
+1 RESI
+2 PLAC Курчатова, д 14. кв.22
+2 _UID 752eedca-10d9-4be1-9620-bdb89db6005f
+1 EVEN
+2 TYPE Награда (военная)
+2 DATE 28 MAY 1945
+2 NOTE Медаль «За боевые заслуги»
+2 _UID d1ab17ab-214b-4620-9d2c-8b1c64238891
+1 FAMC @F91@
+1 FAMS @F145@
+0 @I75@ INDI
+1 _UID b8d9d8aa-56ce-40a6-91db-0632be622d53
+1 NAME Вадим /Красов/
+2 GIVN Вадим
+1 SEX M
+1 BIRT
+2 DATE 1989
+2 _UID c00c8404-b620-42fa-b53a-65139feb8505
+1 FAMC @F146@
+0 @I76@ INDI
+1 _UID c7b9c6b2-e575-418f-86e9-be963389ba35
+1 NAME Василий /Захаренко/
+2 GIVN Василий
+1 SEX M
+1 BIRT
+2 _UID b5113277-d295-4bd0-b244-435f5b6fa992
+1 FAMS @F40@
+0 @I77@ INDI
+1 _UID d312982e-3524-4947-b65b-5acdf5c91695
+1 NAME Виктор /Гончаров/
+2 GIVN Виктор
+1 SEX M
+1 BIRT
+2 PLAC Саратов, Россия
+2 _UID 7466fffb-0a48-4cfd-aeb9-1bf62b5206c6
+1 DEAT
+2 DATE 26 AUG 1978
+2 PLAC Саратов, Россия
+2 _UID 9e636d40-2bee-4d77-bd97-5ef86001536f
+1 FAMC @F65@
+1 FAMS @F41@
+0 @I78@ INDI
+1 _UID 8383f85f-6896-4878-9e95-60c17342db76
+1 NAME Ефим /Хахалин/
+2 GIVN Ефим
+1 SEX M
+1 BIRT
+2 _UID cb38a938-2121-4ccd-9f41-34e6b286d017
+1 DEAT
+2 _UID f6746b4a-a54f-43f8-b85e-867a407a16f2
+1 FAMS @F132@
+0 @I79@ INDI
+1 _UID 035b979e-42fd-4aae-bc84-0bfb2f6b2ba7
+1 NAME Алексей /Чередников/
+2 GIVN Алексей
+1 SEX M
+1 BIRT
+2 _UID fb7acc2d-2892-46cc-a206-463807ad15ce
+1 FAMC @F22@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/ef3870bd-c464-4370-8af9-9cc2cde5fe20.jpg
+0 @I80@ INDI
+1 _UID c5c3cad9-a42b-4876-8f9b-8fd100a9161a
+1 NAME Клавдия /Красова (Скуридина)/
+2 GIVN Клавдия
+2 SURN Скуридина
+2 _MARNM Красова
+1 SEX F
+1 BIRT
+2 DATE 27 JUN 1935
+2 PLAC с. Беломестное, Орловская область
+2 _UID dc07f181-b60b-4323-8238-25b3fc40caa2
+1 OCCU
+2 NOTE медсестра
+2 _UID 9fcab1e3-ed3c-4872-9145-bca9c350d246
+1 RESI
+2 PLAC ул. Капитана Филиппова
+2 _UID 8bab2263-65a1-4208-bff1-e71996128822
+1 RESI
+2 _UID 0e66fee9-6f9e-4aa3-814e-8292793f5cf9
+1 FAMC @F2@
+1 FAMS @F42@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/e05c786f-e51e-4f82-9a5c-e1cf2fb194eb.jpg
+0 @I81@ INDI
+1 _UID a5d5268e-3857-4b16-b880-07f8b557aaa6
+1 NAME Кристина / (Лазунина)/
+2 GIVN Кристина
+2 SURN Лазунина
+1 SEX F
+1 BIRT
+2 DATE 1985
+2 _UID cb42a15f-b7df-440a-a349-4c9ab4dc8d63
+1 FAMC @F147@
+0 @I82@ INDI
+1 _UID f8049cf2-b8b9-4f1c-9c54-24ddcec6cbb4
+1 NAME Варвара / (Савельева)/
+2 GIVN Варвара
+2 SURN Савельева
+1 SEX F
+1 BIRT
+2 DATE 22 MAR 2009
+2 PLAC Москва, Россия
+2 _UID 5e385705-5741-459b-b6c8-24c52a8f5302
+1 FAMC @F24@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/dfb01d0b-cc6a-4838-a731-e992a404f8f3.jpg
+0 @I83@ INDI
+1 _UID 719b5521-cb51-4909-85ad-3ed4f1cc7932
+1 NAME Илья /Николаев/
+2 GIVN Илья
+1 SEX M
+1 BIRT
+2 DATE 12 NOV 1963
+2 _UID c3d87288-7a93-4663-92e0-3c5a760b4f91
+1 RESI
+2 _UID 02b3ce50-ce5c-4631-9249-f7ba4e776213
+1 FAMC @F45@
+1 FAMS @F43@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/5077a58b-ea4f-49ae-900c-0f6e4f553337.jpg
+0 @I84@ INDI
+1 _UID 784962d0-5d96-4338-a808-eeb49cf126ca
+1 NAME Евдокия / (Худякова)/
+2 GIVN Евдокия
+2 SURN Худякова
+1 SEX F
+1 BIRT
+2 _UID 855e6d14-aa3d-4e28-9ee6-36d3f174a770
+1 FAMC @F31@
+1 FAMS @F44@
+0 @I85@ INDI
+1 _UID 02e2422a-e4cd-4ba0-bc22-4c68bcf3fe11
+1 NAME Тамара /Николаева (Худякова)/
+2 GIVN Тамара
+2 SURN Худякова
+2 _MARNM Николаева
+1 SEX F
+1 BIRT
+2 DATE 21 FEB 1929
+2 PLAC Архангельск
+2 _UID f5af3703-e9a4-432d-98e6-a3076c1461d2
+1 DEAT
+2 CAUS Рак
+2 DATE 15 NOV 1996
+2 _UID 3bcbf964-3621-4b2a-881e-363e4484d1d8
+1 FAMC @F30@
+1 FAMS @F45@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/87475d35-b540-4986-9ae6-3c6c3382e717.jpg
+0 @I86@ INDI
+1 _UID 0e3d97c6-facc-45e6-8fd3-a2ffbaf6bbb4
+1 NAME Федор /Марков/
+2 GIVN Федор
+1 SEX M
+1 BIRT
+2 PLAC Оренбургская область
+2 _UID aa0067b6-60a9-4e72-b022-a32e78381d89
+1 DEAT
+2 _UID ec7fddad-de36-4dd2-9f88-8ed51d3bcc5e
+1 FAMC @F69@
+1 FAMS @F46@
+0 @I87@ INDI
+1 _UID 16f956f6-ec0c-43c4-9b02-77afa4cd51db
+1 NAME Людмила / (Степанова)/
+2 GIVN Людмила
+2 SURN Степанова
+1 SEX F
+1 BIRT
+2 _UID 05a4d2fb-9d8c-44ed-913e-a9cd3cb1c9d3
+1 DEAT
+2 _UID 110bad59-a38d-4742-aaee-ec6b01e796c3
+1 FAMC @F148@
+0 @I88@ INDI
+1 _UID ae680ff6-0e26-426c-8c14-5aff63dd7256
+1 NAME Юрий /Крюков/
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 DATE 6 JAN 1959
+2 PLAC Жигулевск
+2 _UID 10cc246b-71b7-405c-9779-863ae33b178f
+1 FAMC @F149@
+1 FAMS @F47@
+0 @I89@ INDI
+1 _UID c26b077a-58fd-4289-a763-c754cae9a2a3
+1 NAME Николай /Петров/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 DATE 25 JUL 1930
+2 PLAC п. Андреевский Шольского р-на Вологодской обл.
+2 _UID b7373e44-298f-4364-bda2-8381180e5a33
+1 OCCU
+2 NOTE плотник
+2 _UID c41bf5bb-2762-424a-a0d2-25878b0c3a67
+1 DEAT
+2 CAUS опухоль
+2 DATE 19 DEC 1989
+2 PLAC Кострома
+2 _UID 60bd4cb8-807c-4e1b-ad91-b50e0f0bb7a5
+1 BURI
+2 PLAC Кострома
+2 _UID 6dc4ef13-d1af-4932-a6a7-7d2287137973
+1 FAMC @F95@
+1 FAMS @F36@
+0 @I90@ INDI
+1 _UID c7409395-34e9-4989-9ddb-49a823aa7047
+1 NAME Александр /Агеев/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 DATE 16 JUL 1980
+2 PLAC с. Белоусово
+2 _UID c9af0162-0ea8-44f8-bf6a-77254a2fd6b7
+1 RESI
+2 _UID 0cfda9b6-4a0d-4b3c-bd41-24b42ece7b88
+1 RESI
+2 _UID 430f71ff-5a22-4a9f-9a02-072748184981
+1 FAMC @F123@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/fb87c9b2-5194-4cd7-abdf-86325f93ffa5.jpg
+0 @I91@ INDI
+1 _UID 29810852-7864-4230-85fb-73b5fe3ce3b5
+1 NAME Мурман //
+2 GIVN Мурман
+1 SEX M
+1 BIRT
+2 PLAC Грузин
+2 _UID b4eb8e95-20a6-4fa9-a3e1-2d515a478d05
+1 DEAT
+2 _UID fc57aae1-76d9-43d9-9632-b616a9ae1860
+1 FAMS @F48@
+0 @I92@ INDI
+1 _UID 9176a1a7-8730-48e8-bdec-f298d4141370
+1 NAME Леонид /Гончаров/
+2 GIVN Леонид
+1 SEX M
+1 BIRT
+2 PLAC Саратов, Россия
+2 _UID 3aca47fb-0984-4a8d-b8d5-157ac3132cd5
+1 FAMC @F142@
+0 @I93@ INDI
+1 _UID 2100b7e0-7c6d-4c6d-9c50-befaf6666c5c
+1 NAME Борис /Никитин/
+2 GIVN Борис
+1 SEX M
+1 BIRT
+2 _UID dd5a52c2-2fe5-42a4-a056-a4224252dd50
+1 FAMS @F49@
+0 @I94@ INDI
+1 _UID b5d680b4-33e5-4588-84c2-0018eeeca60e
+1 NAME Дмитрий /Потюпкин/
+2 GIVN Дмитрий
+1 SEX M
+1 BIRT
+2 DATE 19 MAR 1978
+2 PLAC Таллинн, Эстония
+2 _UID b8bfe7bf-1ad5-48f7-a659-89e950b8ae10
+1 RESI
+2 _UID ca58cbc2-ef68-4b2d-b51a-554c086b56cd
+1 RESI
+2 _UID 41a05a36-2eb0-44ea-8565-fd67d5956424
+1 FAMC @F64@
+0 @I95@ INDI
+1 _UID 55aa7dfb-7ec3-4670-8e40-ef1d1e6b2ab0
+1 NAME Анатолий /Скуридин/
+2 GIVN Анатолий
+1 SEX M
+1 NOTE | Доцент, кандидат наук
+1 BIRT
+2 DATE 22 APR 1951
+2 PLAC пос. Проведение, Чукотская АССР
+2 _UID abca1f67-224b-4480-bbde-76756cccdb47
+1 DEAT
+2 CAUS рак
+2 DATE 11 APR 2000
+2 _UID dfddc02d-c867-4301-80fa-5ec0bdc7d4fd
+1 EDUC
+2 PLAC МГУ
+2 _UID 73b4b0fc-43cc-4e2f-8ba2-98a0090b0838
+1 OCCU
+2 PLAC Москва
+2 NOTE физик-математик
+2 _UID 9ca3d790-fbfa-4e23-9223-4eb630c63156
+1 FAMC @F27@
+1 FAMS @F133@
+0 @I96@ INDI
+1 _UID d3a0337a-8cfe-42a7-ad4c-52f4dc990054
+1 NAME Николай /Случанко/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 DATE 2 JAN 1987
+2 PLAC Москва, Россия
+2 _UID 3df08e44-1720-4a68-a010-c23d4eb77d0c
+1 FAMC @F76@
+1 FAMS @F50@
+0 @I97@ INDI
+1 _UID a6bc1567-dfbe-4049-bb30-a52fc389923f
+1 NAME Алексей /Филлипов/
+2 GIVN Алексей
+1 SEX M
+1 BIRT
+2 _UID aabd97b4-1762-4312-863e-197d00153c0c
+1 DEAT
+2 _UID 23fe9a0d-eee4-44ae-a527-8126f0473949
+1 FAMS @F51@
+0 @I98@ INDI
+1 _UID 0c8ca2c9-340d-49ad-a070-3d501eb180c2
+1 NAME Николай /Миронов/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 _UID b88ea981-8f9a-452f-912d-a86c565755d8
+1 DEAT
+2 PLAC ВОВ
+2 _UID dde26e6e-a388-4a11-b4cd-ecac5e273e72
+1 FAMC @F53@
+0 @I99@ INDI
+1 _UID b85b9f4b-66b2-4b8b-9a00-26a182fbbd63
+1 NAME Мария /Королева (Емельянова)/
+2 GIVN Мария
+2 SURN Емельянова
+2 _MARNM Королева
+1 SEX F
+1 BIRT
+2 DATE 17 APR 1913
+2 _UID 140e640a-3b16-4454-8429-7e17795a6419
+1 BURI
+2 PLAC Елшанка, уч. 105
+2 _UID a982d132-2214-40b7-b484-5794e4d5010f
+1 DEAT
+2 DATE 10 FEB 1994
+2 PLAC Саратов, Россия
+2 _UID a6ddc71b-c6e1-4202-84a8-529a99a942cb
+1 FAMC @F61@
+0 @I100@ INDI
+1 _UID 29fa4071-d149-4355-a201-aded79202dc1
+1 NAME Иван /Коромыслов/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 _UID 08958787-f0d9-4ab6-8025-b80407d3e8da
+1 FAMS @F52@
+0 @I101@ INDI
+1 _UID 00053e99-6c3c-4383-94b6-13e795ab70af
+1 NAME Анна Филлиповна /Миронова (Зайцева)/
+2 GIVN Анна Филлиповна
+2 SURN Зайцева
+2 _MARNM Миронова
+1 SEX F
+1 BIRT
+2 DATE 1895
+2 PLAC д. Захарово, Вашкинский район, Вологодская обл.
+2 _UID 8236747f-da19-4d26-a181-85c26cd19cba
+1 DEAT
+2 DATE 28 DEC 1948
+2 PLAC Шугино, Россия
+2 _UID e003b9ae-9faf-486d-8790-882d60b6073c
+1 FAMS @F53@
+0 @I102@ INDI
+1 _UID 891894ea-8931-4f30-95ac-c81b4e43ff00
+1 NAME Елена / (Борзенкова)/
+2 GIVN Елена
+2 SURN Борзенкова
+1 SEX F
+1 BIRT
+2 DATE 1956
+2 PLAC д. Брянцево, Красненский район, Липецкая область
+2 _UID 590cdfc9-1cfd-4f49-a9b7-ffe08ce393a9
+1 FAMC @F35@
+0 @I103@ INDI
+1 _UID 3e9db5ed-ad01-470c-b371-423977d5fa29
+1 NAME Юрий /Теплов/
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 DATE 14 AUG 1928
+2 _UID 44f012da-142f-4e37-a7cf-d501a6d476e4
+1 OCCU
+2 NOTE фотограф
+2 _UID 8fdcb796-ff1d-42b6-915f-cdb2f015b430
+1 DEAT
+2 CAUS Рак
+2 DATE ABT 18 MAR 1985
+2 PLAC Саратов, Россия
+2 _UID 43ea2fb6-9612-4798-93e8-504a489d54cd
+1 BURI
+2 PLAC Елшанка, уч.109
+2 _UID ee1f13e7-a149-4707-9c48-793718bd72d1
+1 FAMC @F91@
+1 FAMS @F54@
+0 @I104@ INDI
+1 _UID 015f4d4a-317f-4fd5-9b89-9faafb58d890
+1 NAME Дмитрий /Бабий/
+2 GIVN Дмитрий
+1 SEX M
+1 BIRT
+2 DATE 10 JUL 1981
+2 PLAC Киев, Украина
+2 _UID 2a506a54-747c-4780-8d4e-bd6515e2fed6
+1 RESI
+2 _UID f8d68f08-ad4f-440f-8009-3ee22da2b76a
+1 FAMC @F71@
+1 FAMS @F55@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/0fe9f0d3-2278-4c89-ae24-df14dd65f37d.jpg
+0 @I105@ INDI
+1 _UID 1e555b91-856e-4b6f-a1fd-46cc6f9ce89e
+1 NAME Ольга / (Маркова)/
+2 GIVN Ольга
+2 SURN Маркова
+1 SEX F
+1 BIRT
+2 _UID 1cf041d0-7974-41a9-8e2e-eb76aff1d90f
+1 DEAT
+2 _UID e03b9978-6767-4f23-af88-1af102a702a5
+1 FAMC @F46@
+1 FAMS @F150@
+0 @I106@ INDI
+1 _UID aec2845a-5868-4f5c-b83c-2f0ab60f3f37
+1 NAME Антонина / (Степанова)/
+2 GIVN Антонина
+2 SURN Степанова
+1 SEX F
+1 BIRT
+2 _UID d2871cf2-320f-483a-8bd2-ed188f3ec698
+1 DEAT
+2 PLAC Мурманск
+2 _UID 41ec49e7-2dfc-4184-9e49-425cefef8376
+1 FAMC @F119@
+1 FAMS @F148@
+0 @I107@ INDI
+1 _UID 75aa721a-2f50-4bf9-ba7b-e3c0738435eb
+1 NAME Александр /Полухин/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 DATE 29 SEP 1980
+2 _UID d62c782a-1bca-4c5f-99c1-677b4abec409
+1 RESI
+2 _UID 90fe5d36-b584-4d4b-b43e-17c91dd42f66
+1 RESI
+2 _UID 43449d63-15b0-4f65-a478-aefea215ff33
+1 OCCU
+2 PLAC Северсталь
+2 _UID 60891473-0c55-4abc-a917-a802c80c43f7
+1 FAMC @F6@
+1 FAMS @F56@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/f5b27017-0118-4525-94a6-98b61a892a7c.jpg
+0 @I108@ INDI
+1 _UID 474aaf6c-8109-4923-9f2f-70d6a411109d
+1 NAME Наталья Петровна /Миронова (Кучаева)/
+2 GIVN Наталья Петровна
+2 SURN Кучаева
+2 _MARNM Миронова
+1 SEX F
+1 BIRT
+2 DATE 16 JUN 1978
+2 PLAC Кузнецк, Россия
+2 _UID 987218a5-4860-4674-b185-1c93ce80cdb5
+1 FAMS @F57@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/f784b482-9888-4020-ad8b-e56d5dbfbec7.jpg
+0 @I109@ INDI
+1 _UID 0d13f865-0a1e-44b8-88df-a5a8a84b301c
+1 NAME Павел /Шматов/
+2 GIVN Павел
+1 SEX M
+1 BIRT
+2 _UID 9524c70f-b2bd-4c1d-8046-dfec7917f88a
+1 FAMS @F58@
+0 @I110@ INDI
+1 _UID 22e0c891-ecb6-477c-989e-43cb03e3a199
+1 NAME Николай //
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 _UID 7726fa9d-abc6-448e-bd9b-a4b3a3421ecb
+1 FAMC @F150@
+0 @I111@ INDI
+1 _UID 45adb537-62f5-4039-8c75-d8840a24b2be
+1 NAME Ниночка / (Хахалина)/
+2 GIVN Ниночка
+2 SURN Хахалина
+1 SEX F
+1 BIRT
+2 DATE 1940
+2 _UID 3ce543b6-82a4-4e24-a2a0-12b2b44e673a
+1 DEAT
+2 DATE 1943
+2 _UID ec33cc34-74bc-4a0b-be45-f0583486615a
+1 FAMC @F139@
+0 @I112@ INDI
+1 _UID 3e90373f-4ca0-4924-a0c5-0db32196e92c
+1 NAME Иван /Пронин/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 DATE 10 MAY 2007
+2 PLAC Королев, МО
+2 _UID 0de19b55-c04c-44f2-8ed9-cda422103728
+1 FAMC @F151@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/6ecf3d62-7449-469b-99a6-f0b3d5971bf7.jpg
+0 @I113@ INDI
+1 _UID 81be414a-54aa-4fda-95cb-57d3a14151a0
+1 NAME Василий /Миронов/
+2 GIVN Василий
+1 SEX M
+1 BIRT
+2 _UID a54d855d-7426-49de-ae80-32d3c4cc4f7a
+1 DEAT
+2 PLAC Петрозаводск
+2 _UID 97dfbb89-365f-40af-8f75-a5b95d753886
+1 FAMC @F53@
+1 FAMS @F130@
+0 @I114@ INDI
+1 _UID d21014af-9375-4710-bf27-0035cb6272cb
+1 NAME Дочка / (Федорова)/
+2 GIVN Дочка
+2 SURN Федорова
+1 SEX F
+1 BIRT
+2 _UID d0c083a0-42ee-48b9-b524-fef592fd6be7
+1 FAMC @F152@
+0 @I115@ INDI
+1 _UID c220a3c3-45bd-4258-9f1c-35e036dbd5bb
+1 NAME Галина /Лазунина/
+2 GIVN Галина
+2 _MARNM Лазунина
+1 SEX F
+1 BIRT
+2 DATE 1 JAN 1940
+2 _UID 67fcd788-55bf-4068-8ce1-4a95c3d768b8
+1 FAMS @F39@
+0 @I116@ INDI
+1 _UID 54f49d1b-b1d6-46ee-9c19-787c84e2add6
+1 NAME Даниил //
+2 GIVN Даниил
+1 SEX M
+1 BIRT
+2 DATE (10 SEP)
+2 _UID 82ce4349-51e1-4f3a-9ad6-9cefabb33b43
+1 FAMC @F103@
+0 @I117@ INDI
+1 _UID dc606638-b819-4030-9ad3-45fd917d6020
+1 NAME Ирина /Теплова/
+2 GIVN Ирина
+2 _MARNM Теплова
+1 SEX F
+1 BIRT
+2 _UID 3f3c23b8-2a37-4d94-969f-90668861806a
+1 FAMS @F59@
+0 @I118@ INDI
+1 _UID c588b12b-774e-456c-b789-09515627a4f4
+1 NAME Валентина /Теплова (Филлипова)/
+2 GIVN Валентина
+2 SURN Филлипова
+2 _MARNM Теплова
+1 SEX F
+1 BIRT
+2 DATE 15 MAY 1929
+2 PLAC Саратов, Россия
+2 _UID 74f0dc37-65a9-4e5f-931b-4e91c42e5b49
+1 FAMC @F94@
+1 FAMS @F54@
+0 @I119@ INDI
+1 _UID 36446fe4-65fe-4a1f-a961-cb57138b1571
+1 NAME Дмитрий /Агеев/
+2 GIVN Дмитрий
+1 SEX M
+1 BIRT
+2 DATE 3 JAN 1927
+2 PLAC д. Анхимово
+2 _UID c39b49a2-12c3-4542-b959-3de84b5ab689
+1 OCCU
+2 NOTE водитель
+2 _UID b3e06ccc-b31c-4135-8737-571410eaec8d
+1 FAMC @F99@
+1 FAMS @F60@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/5bf717b9-6567-47f1-b2ee-4492ee4f1990.jpg
+0 @I120@ INDI
+1 _UID 26a9324f-f96e-4311-845e-deae684244f9
+1 NAME Павел /Крюков/
+2 GIVN Павел
+1 SEX M
+1 BIRT
+2 DATE 2 JUL 1933
+2 PLAC Винница
+2 _UID 0f984991-4895-4366-bc82-cd179b082466
+1 DEAT
+2 DATE 17 APR 1999
+2 PLAC Жигулевск
+2 _UID 461a480e-29bf-4a49-89ab-ed51fee1d133
+1 FAMC @F153@
+1 FAMS @F149@
+0 @I121@ INDI
+1 _UID 410ac280-e292-48f6-9a84-e422dd537b40
+1 NAME Михаил /Скуридин/
+2 GIVN Михаил
+1 SEX M
+1 BIRT
+2 DATE 21 NOV 1924
+2 PLAC с. Беломестное, Орловская область
+2 _UID 27090bb0-6f2c-4764-a8ce-c834ded23f6c
+1 RESI
+2 _UID 3797ff68-8362-4c3c-b005-491109fe1bf7
+1 RESI
+2 PLAC Курсы Выстрел, д.27 кв. 39
+2 _UID b0221a2c-8a53-41b7-91f6-8c34fc097f40
+1 RESI
+2 _UID a2faedbc-81df-4661-91e6-52783f7642ef
+1 FAMC @F2@
+1 FAMS @F27@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/172db824-167f-4208-9bf8-fb70637e54b2.jpg
+0 @I122@ INDI
+1 _UID 81cad23e-3a3a-452d-b235-02e171293cb1
+1 NAME Анна / (Занина)/
+2 GIVN Анна
+2 SURN Занина
+1 SEX F
+1 BIRT
+2 _UID dbe92b1a-e0cb-4940-8312-788a82b8cf0b
+1 FAMC @F154@
+0 @I123@ INDI
+1 _UID a7715dd4-e4c3-4989-8ecc-12fbc5ddfee2
+1 NAME Татьяна /Емельянова/
+2 GIVN Татьяна
+2 _MARNM Емельянова
+1 SEX F
+1 BIRT
+2 _UID 67d1fd53-464b-43a4-a8ea-118bee2503e3
+1 DEAT
+2 _UID 574cd91d-6aeb-4617-9d75-b4a72cb5c987
+1 FAMC @F26@
+1 FAMS @F61@
+0 @I124@ INDI
+1 _UID ecb59a4d-6d3b-4661-8bd4-d40797ea6af0
+1 NAME Александр /Скуридин/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 DATE 1922
+2 _UID f5869d79-fe81-4520-8644-7d6c8e18fa9b
+1 DEAT
+2 CAUS война
+2 DATE 1944
+2 _UID d5b8a81e-81b5-45a0-9855-434b2bce599a
+1 FAMC @F2@
+0 @I125@ INDI
+1 _UID 09ced77e-eb47-4fb3-85b7-e89181bd6541
+1 NAME Клавдий /Худяков/
+2 GIVN Клавдий
+1 SEX M
+1 BIRT
+2 _UID 6b23b56f-d0a2-49de-9b4d-9dcca18a16f5
+1 FAMC @F31@
+0 @I126@ INDI
+1 _UID f02cba9f-b7c4-4f68-8737-a501bfcc9a6b
+1 NAME Сергей /Бабий/
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 DATE 18 SEP 1987
+2 PLAC Вытегра, Россия
+2 _UID d0af4a69-bcaf-4127-be46-51897773fb6c
+1 RESI
+2 _UID 84ebb753-e44e-4758-bc5b-57d6169ddd43
+1 FAMC @F71@
+1 FAMS @F62@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/8669c9f8-1c65-4d39-853b-e3bf224d848d.jpg
+0 @I127@ INDI
+1 _UID 11c2a7b4-ec30-4847-905f-b51817ae1aff
+1 NAME Вера /Варнакова (Оськина)/
+2 GIVN Вера
+2 SURN Оськина
+2 _MARNM Варнакова
+1 SEX F
+1 BIRT
+2 _UID c16b2cdf-f024-4731-acab-86967c70f54b
+1 DEAT
+2 _UID 520760d7-1e45-429b-a970-89d4e8de2a52
+1 FAMC @F131@
+1 FAMS @F63@
+0 @I128@ INDI
+1 _UID b2bd642a-b1e4-4dc1-bd51-e8968e2d529e
+1 NAME Татьяна /Потюпкина (Маркова)/
+2 GIVN Татьяна
+2 SURN Маркова
+2 _MARNM Потюпкина
+1 SEX F
+1 BIRT
+2 DATE 16 JUN 1954
+2 PLAC Санкт-Петербург, Россия
+2 _UID d4eb6ffe-c5af-4bf1-9a4d-58c045279f6f
+1 RESI
+2 _UID 33faf324-e376-446a-9055-18e15c8f5379
+1 FAMC @F8@
+1 FAMS @F64@
+0 @I129@ INDI
+1 _UID 5a60f693-f131-4dd8-80de-9e3a36c1540f
+1 NAME Геннадий /Красов/
+2 GIVN Геннадий
+1 SEX M
+1 BIRT
+2 DATE 1968
+2 _UID 97f37b50-88fd-4312-922d-184f7d790d62
+1 FAMC @F42@
+1 FAMS @F137@
+0 @I130@ INDI
+1 _UID f4ed0aea-6480-4e5f-b51a-ef54fc635cf2
+1 NAME Екатерина / (Оськина)/
+2 GIVN Екатерина
+2 SURN Оськина
+1 SEX F
+1 BIRT
+2 DATE 1987
+2 _UID a8c12a8d-1bdd-48b3-b7e8-f7ed8c3c4ea2
+1 FAMC @F67@
+0 @I131@ INDI
+1 _UID 073311da-002d-4251-93ba-b36c6b167d24
+1 NAME Нина /Гончарова (Гончарова)/
+2 GIVN Нина
+2 SURN Гончарова
+2 _MARNM Гончарова
+1 SEX F
+1 BIRT
+2 _UID ba17397f-927a-4bcc-a4ac-be3ea83d71c2
+1 DEAT
+2 DATE ABT 23 FEB 1996
+2 PLAC Саратов, Россия
+2 _UID 0ff390be-bd42-4309-b74f-bab4c0fc1be9
+1 FAMC @F122@
+1 FAMS @F65@
+0 @I132@ INDI
+1 _UID 42843595-58ca-41f3-aaf6-9c92f6547a61
+1 NAME Петр /Мальцев/
+2 GIVN Петр
+1 SEX M
+1 BIRT
+2 _UID 16290b50-0d14-43bf-88e0-756b8e14ca5d
+1 DEAT
+2 _UID 13a0965a-7ef3-4d84-be2f-cd78911f416b
+1 FAMS @F66@
+0 @I133@ INDI
+1 _UID 2ef5e8af-805c-473a-8136-da9ea28a558a
+1 NAME Юрий /Оськин/
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 DATE 1963
+2 PLAC Самара
+2 _UID 3f16db48-05b4-4e19-89cf-54967fcc354b
+1 FAMC @F20@
+1 FAMS @F67@
+0 @I134@ INDI
+1 _UID 4079199f-f4b1-4b4b-b835-63422bfa4c85
+1 NAME Юрий /Пронин/
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 _UID 2e53a874-f6ca-4165-a307-79bacef3bbbd
+1 FAMS @F68@
+0 @I135@ INDI
+1 _UID 66321d0e-d539-401b-8a42-f4ec7ed0edec
+1 NAME Федор /Марков/
+2 GIVN Федор
+1 SEX M
+1 BIRT
+2 _UID b25be6c7-64e4-4123-881f-8dcd1c58327f
+1 DEAT
+2 _UID 17cae3a6-1048-4c2c-9ebc-46042638a466
+1 FAMS @F69@
+0 @I136@ INDI
+1 _UID 724c2bd6-5de1-482f-9a63-b3dbe50102cd
+1 NAME ? /Борзенков/
+2 GIVN ?
+1 SEX M
+1 BIRT
+2 _UID c7316791-735a-44be-bb35-c4263de5825e
+1 FAMS @F35@
+0 @I137@ INDI
+1 _UID dc96a2f3-d131-4470-b650-9b04eb90c000
+1 NAME Валентин /Чередников/
+2 GIVN Валентин
+1 SEX M
+1 BIRT
+2 _UID 8dd293d7-2dad-40d3-819d-a24f1d4b224c
+1 FAMC @F22@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/4bd29439-1089-49ec-bad9-cc5c155ea1eb.jpg
+0 @I138@ INDI
+1 _UID 8d39b2e9-7ec4-42e8-95b1-9a2448db33fb
+1 NAME Юрий /Миронов/
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 _UID 61076ba4-19cf-4fc6-858c-afeff45b0a1c
+1 FAMC @F141@
+0 @I139@ INDI
+1 _UID d81b631c-46fd-44ea-8ba5-dba14e48800f
+1 NAME Валерий /Полухин/
+2 GIVN Валерий
+1 SEX M
+1 BIRT
+2 DATE 7 OCT 1949
+2 PLAC Вытегра, Россия
+2 _UID e8e3f389-6440-4ec9-bf36-4a8a6fb0f748
+1 RESI
+2 PLAC ул. Энтузиастов, 20, кв. 74
+2 _UID 49b67c60-8598-46ba-94e1-2e437e79c906
+1 OCCU
+2 NOTE электрик
+2 _UID b1aec148-ee03-43ca-a187-c4ca80571be9
+1 RESI
+2 _UID 692ec97c-80df-4ae3-aba0-484ea83a6460
+1 FAMC @F77@
+1 FAMS @F6@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/1d0e2112-72cf-4118-aa31-6559947e7088.jpg
+0 @I140@ INDI
+1 _UID 0722fa77-5551-454b-8c8d-c7a05f1fae18
+1 NAME Сергей //
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 _UID 91b88ea7-b27f-4a35-b0ec-7f8a0d93ddd6
+1 FAMS @F70@
+0 @I141@ INDI
+1 _UID ef70603a-9e85-4552-ab2e-000f881030e1
+1 NAME Татьяна /Бабий (Агеев)/
+2 GIVN Татьяна
+2 SURN Агеев
+2 _MARNM Бабий
+1 SEX F
+1 BIRT
+2 DATE 16 JAN 1959
+2 PLAC д. Анхимово
+2 _UID 166b22a2-9314-4d2a-bff0-00bd87e97b2a
+1 RESI
+2 PLAC ул. Жолудева, д.6В, кв.1
+2 _UID 051ed178-ad48-4798-a5a4-0c64b0730d19
+1 OCCU
+2 NOTE торговый работник
+2 _UID da4e94b8-5af7-4a23-929a-9e85620605eb
+1 RESI
+2 _UID 41113687-8655-441b-bfd0-437b7c8480c4
+1 RESI
+2 _UID 814d1faf-0f28-49da-a7a9-af87a7e1a0bd
+1 EDUC
+2 PLAC Вологодский торгово-кооперативный техникум
+2 NOTE среднее
+2 _UID 700d3edd-0328-4df4-8df7-bd7d377d90df
+1 FAMC @F60@
+1 FAMS @F71@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/c28ace1c-8a20-4f2c-9955-bc0c953995d3.jpg
+0 @I142@ INDI
+1 _UID ccf19775-1743-4359-88cd-be21b447938d
+1 NAME Никита /Николаев/
+2 GIVN Никита
+1 SEX M
+1 BIRT
+2 DATE 26 OCT 1958
+2 PLAC Архангельск, Россия
+2 _UID 8e793590-fffb-46d5-b2e7-552ca4ee00ae
+1 DEAT
+2 CAUS Болезнь
+2 DATE 8 FEB 2004
+2 _UID aa989a70-e857-4910-9b9d-a138df5f6cac
+1 FAMC @F45@
+1 FAMS @F72@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/46fe34b9-aa44-4d7b-acbb-12a9b5f78883.jpg
+0 @I143@ INDI
+1 _UID 9477b682-e37a-4407-b868-bd59f6acf672
+1 NAME Иван /Захаренко/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 DATE 17 MAR 1982
+2 PLAC Новосиль, Орловская область
+2 _UID 87f712a9-8a28-4bd4-9b38-6664ccb8a5b1
+1 FAMC @F23@
+1 FAMS @F73@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/079a1fab-dae2-4894-9083-6ff7b68c02a5.jpg
+0 @I144@ INDI
+1 _UID 804a37cd-4bd7-4763-8db5-ac1b459a4cf4
+1 NAME Галина /Малышенко (Миронова)/
+2 GIVN Галина
+2 SURN Миронова
+2 _MARNM Малышенко
+1 SEX F
+1 BIRT
+2 DATE 7 JUL 1939
+2 PLAC Шугино, Россия
+2 _UID af011f6d-a484-43e9-a523-b83c6a30c6b3
+1 RESI
+2 _UID 435137f2-d753-46b5-9cb9-a032d94bb982
+1 FAMC @F53@
+1 FAMS @F10@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/484b65a7-1cb7-4fd4-a214-ecc86098b1f0.jpg
+0 @I145@ INDI
+1 _UID aab9db66-2419-4a92-a71a-ef42056f6dc3
+1 NAME Николай /Нестеров/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 DATE 4 MAY 1930
+2 PLAC Вытегра, Россия
+2 _UID 88a2bed7-d10f-4d7c-85ce-b13d994b1420
+1 OCCU
+2 NOTE каменщик
+2 _UID b07c45b7-da27-4194-ba87-a5c12f1bdc58
+1 FAMC @F15@
+1 FAMS @F74@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/d0691b39-2f21-42e9-8728-1ae4dc3a87cd.jpg
+0 @I146@ INDI
+1 _UID e6b98661-26e2-4d39-91fe-43653afd721e
+1 NAME Александр /Пронин/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 _UID c0fbcf1f-6055-4b9d-b6c2-10828758bd57
+1 FAMC @F126@
+1 FAMS @F75@
+0 @I147@ INDI
+1 _UID acbdc9d7-b093-444a-8aff-a85f96a6288e
+1 NAME Николай /Случанко/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 DATE 14 SEP 1960
+2 PLAC Москва, Россия
+2 _UID e867ea0c-daef-433b-a163-b47c78ec3fcf
+1 FAMS @F76@
+0 @I148@ INDI
+1 _UID 812d423d-26dd-41ec-87b8-bbca9359f207
+1 NAME Иван /Полухин/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 DATE 3 NOV 1921
+2 PLAC д. Голосово Вытегорского р-на
+2 _UID ebf54760-1cf1-4bef-bad1-4b0969b1bcfd
+1 OCCU
+2 NOTE лесоработник
+2 _UID 5a7b5758-b86d-4216-a24c-c4daf67c0d02
+1 EDUC
+2 PLAC Тихвинский лесотехнический техникум
+2 _UID 12abc5d7-ab0a-4580-a46c-51e3926bab6c
+1 DEAT
+2 _UID 5940d959-b26e-411a-ba4b-f52e73d59d16
+1 FAMC @F82@
+1 FAMS @F77@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/7cdedfe2-56f2-4022-8f38-a86bd0564bec.jpg
+0 @I149@ INDI
+1 _UID 47c233cf-9d9d-4faa-9543-3d8bdbbdfe00
+1 NAME Алексей /Нестеров/
+2 GIVN Алексей
+1 SEX M
+1 BIRT
+2 DATE 12 MAR 1985
+2 PLAC Вытегра, Россия
+2 _UID 915b962d-cdc8-47bd-b63a-6318add30491
+1 RESI
+2 _UID b93d83d1-f244-4f8d-a494-c2ab76b24272
+1 OCCU
+2 NOTE телевизионный оператор
+2 _UID f16650d5-cc70-4495-903d-5a73354955c6
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/e04fb2aa-ff0f-429f-a423-c0f1e32c3a97.jpg
+0 @I150@ INDI
+1 _UID ee65268f-8307-4a98-af2d-4688639a8954
+1 NAME Дмитрий /Кузин/
+2 GIVN Дмитрий
+1 SEX M
+1 BIRT
+2 PLAC д.Порог
+2 _UID 435bf349-3652-48e6-89f5-caf1bd15f1f7
+1 DEAT
+2 _UID 44c4f57f-e4b3-4d1b-a49d-88d3b9a47ab8
+1 FAMS @F78@
+0 @I151@ INDI
+1 _UID 10fa3c74-13c1-45de-832c-6e9d1dd12f5e
+1 NAME Александр /Коромыслов/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 DATE 16 JAN 1947
+2 PLAC Тверь
+2 _UID 5c5524e4-e2fc-4fd9-8fdd-1e3a61f0e6a3
+1 OCCU
+2 NOTE водитель
+2 _UID 2cf0334a-7ecb-47a9-8a46-df47900a8750
+1 FAMC @F52@
+1 FAMS @F79@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/ff1b3fab-1bd1-40a5-a14a-6bc0f2c5d223.jpg
+0 @I152@ INDI
+1 _UID ddf9a24d-8c76-4e22-b084-8d7af5e47342
+1 NAME Татьяна /Майорова (Теплова)/
+2 GIVN Татьяна
+2 SURN Теплова
+2 _MARNM Майорова
+1 SEX F
+1 BIRT
+2 DATE 20 JUL 1954
+2 PLAC Саратов, Россия
+2 _UID 8ba5559b-8b14-4473-bb50-ca6c4c40119e
+1 EDUC
+2 NOTE радиофизика
+2 _UID 984ba925-7dbf-4246-8dae-a4a757102ef4
+1 FAMC @F54@
+1 FAMS @F41@
+0 @I153@ INDI
+1 _UID 59927c9b-fdac-426d-8c80-3a7fed18d324
+1 NAME Евгений /Крюков/
+2 GIVN Евгений
+1 SEX M
+1 BIRT
+2 DATE 8 APR 1988
+2 PLAC г. Мытищи
+2 _UID fd878784-8dd0-4493-b459-0370ce37fa50
+1 RESI
+2 _UID bee552bb-7d12-4ed5-86ad-9e6ff49308c4
+1 RESI
+2 _UID c9d1cdad-5070-4568-a931-f65a0b4932b8
+1 FAMC @F90@
+1 FAMS @F80@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/a151e3f2-fe16-4e19-b57b-e81681f9b4e5.jpg
+0 @I154@ INDI
+1 _UID a11639cd-679a-4e2e-8b83-7bc47ee9dd24
+1 NAME Александр /Миронов/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 _UID 7866c925-a20f-435a-83a8-53ff74507d69
+1 RESI
+2 _UID 47476382-7072-44d6-93fd-3e6a2c8521d2
+1 FAMC @F53@
+1 FAMS @F155@
+0 @I155@ INDI
+1 _UID cf47ab16-64f4-4766-8704-b32eb79bc982
+1 NAME Татьяна / (Дронова)/
+2 GIVN Татьяна
+2 SURN Дронова
+1 SEX F
+1 BIRT
+2 PLAC Самара
+2 _UID 942ce34e-78a7-49ff-8d1a-5aaae2b3f635
+1 FAMC @F17@
+1 FAMS @F81@
+0 @I156@ INDI
+1 _UID 7e2512b2-28a8-440f-bc32-5e76514221aa
+1 NAME Алексей /Емельянов (Зеленов)/
+2 GIVN Алексей
+1 SEX M
+1 NOTE старший сын
+1 BIRT
+2 DATE ABT 1900
+2 _UID a7eb733c-9d07-4fa0-83a6-a169410075b6
+1 DEAT
+2 _UID 78021b71-2805-4c59-af3f-80a4ffb48011
+1 FAMC @F61@
+0 @I157@ INDI
+1 _UID cf83d5e2-b1e5-44af-bac8-ca10116c6f6d
+1 NAME Сергей /Худяков/
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 _UID 555e99ef-9717-4e24-aed5-63f71d5c228b
+1 FAMC @F31@
+0 @I158@ INDI
+1 _UID 9550f0b5-ab16-48c4-8256-3cfd88dbfc9d
+1 NAME Евдокия //
+2 GIVN Евдокия
+1 SEX F
+1 BIRT
+2 _UID 211975a2-ff22-42e1-bfba-a5e8148a0d27
+1 DEAT
+2 _UID 0578c17a-389a-4040-b7ed-a3f281384bc6
+1 FAMS @F156@
+0 @I159@ INDI
+1 _UID e4f09884-cbf2-4443-b565-f9173845e7eb
+1 NAME Иван /Хахалин/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 _UID 2b91fe1f-a169-4bd0-b1ed-651e48b32ce9
+1 DEAT
+2 _UID 1747f9e4-1ddb-4351-9f17-6f448fec455d
+1 FAMC @F132@
+1 FAMS @F139@
+0 @I160@ INDI
+1 _UID becb8241-fb96-4ee4-b3e1-c30d75d30eda
+1 NAME Александра Васильевна /Скуридина/
+2 GIVN Александра Васильевна
+2 _MARNM Скуридина
+1 SEX F
+1 BIRT
+2 DATE 1902
+2 _UID 90d974e8-def4-471c-b2a7-3f9c466fa6fe
+1 DEAT
+2 CAUS осложнения после операции (грыжа)
+2 DATE 1951
+2 _UID 114beea0-3695-4cbf-a599-3fda2b0068cc
+1 FAMS @F2@
+0 @I161@ INDI
+1 _UID bea77b3b-0c96-401d-9a44-a4e54bf995c2
+1 NAME Василий /Полухин/
+2 GIVN Василий
+1 SEX M
+1 BIRT
+2 _UID 536e7506-9f19-492f-92f3-70891c50529b
+1 FAMS @F82@
+0 @I162@ INDI
+1 _UID afdc2930-13d2-4f0f-abff-bf6dee113c13
+1 NAME Елизавета /Мишина/
+2 GIVN Елизавета
+2 _MARNM Мишина
+1 SEX F
+1 BIRT
+2 _UID 448eb541-f7bb-4d84-9849-401019204d2b
+1 FAMS @F83@
+0 @I163@ INDI
+1 _UID 35039e68-3041-41f8-a526-45e159b4488b
+1 NAME Антонина / (Петрова)/
+2 GIVN Антонина
+2 SURN Петрова
+1 SEX F
+1 BIRT
+2 DATE 23 FEB 1925
+2 PLAC д. Шугино Вашкинского р-на Вологодской обл.
+2 _UID f4c5df5c-dd74-45c4-a046-1f3e380c5f63
+1 DEAT
+2 DATE 29 JUL 1939
+2 _UID 5040642d-d0d6-4fbb-aa29-6c377ed016ef
+1 FAMC @F95@
+0 @I164@ INDI
+1 _UID c4c302be-86c8-47f4-a61f-130f2bc3e0bf
+1 NAME Муж //
+2 GIVN Муж
+1 SEX M
+1 BIRT
+2 _UID bd6e371c-1443-4431-a35b-f6e0ebd30f16
+1 FAMS @F81@
+0 @I165@ INDI
+1 _UID 524856a8-4085-4d47-82ce-547fd9b02394
+1 NAME Анастасия / (Сторожова)/
+2 GIVN Анастасия
+2 SURN Сторожова
+1 SEX F
+1 BIRT
+2 _UID 61925348-7de1-4d26-a1b5-492f7c32e5c6
+1 DEAT
+2 _UID bf4e9292-0e0f-44e3-afac-d77ac2ad4f4f
+1 FAMC @F118@
+0 @I166@ INDI
+1 _UID f59ad110-524e-4514-bebc-ecfc009f7241
+1 NAME Надежда / (Захаренко)/
+2 GIVN Надежда
+2 SURN Захаренко
+1 SEX F
+1 BIRT
+2 _UID 5d456da3-97b4-4c3e-a419-44ddd102a391
+1 FAMC @F40@
+0 @I167@ INDI
+1 _UID bd0ab1ac-ad8c-4a8a-a4e2-0fb1081c0f99
+1 NAME Марина / (Полухина)/
+2 GIVN Марина
+2 SURN Полухина
+1 SEX F
+1 BIRT
+2 DATE 29 MAR 1979
+2 PLAC Вытегра, Россия
+2 _UID d24b69de-a117-4e36-a73c-4473eccac148
+1 RESI
+2 _UID 7cdab29f-61d6-4b16-a1e1-887909ad3948
+1 RESI
+2 _UID aca6f6eb-be4e-42f5-91df-a3020f0d0b99
+1 OCCU
+2 NOTE преподаватель в техникуме
+2 _UID 45b5e444-e1e4-48e5-9fe2-fa6c640961e9
+1 RESI
+2 _UID 18c9f439-683c-4fb4-ac88-fa85bcba88c3
+1 EDUC
+2 DATE 2004
+2 PLAC Санкт-Петербург, Россия
+2 NOTE высшее СПбГУСЭ \'04
+2 _UID 5e230900-3823-40b2-9b50-d586c3b00e22
+1 FAMC @F6@
+1 FAMS @F157@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/5cb050d6-4c50-4bc6-ad15-aeacae2c6217.jpg
+0 @I168@ INDI
+1 _UID eb8bb5e5-bfe2-44d3-9caa-1d213bd31296
+1 NAME Герасим /Емельянов/
+2 GIVN Герасим
+1 SEX M
+1 BIRT
+2 _UID 13353caf-0024-463d-bbcf-2e750794fe0b
+1 FAMC @F61@
+0 @I169@ INDI
+1 _UID c2d4cd66-b735-4916-8c8f-46c8eaf32bd6
+1 NAME Ольга /Крюкова (Зубкова)/
+2 GIVN Ольга
+2 SURN Зубкова
+2 _MARNM Крюкова
+1 SEX F
+1 BIRT
+2 DATE 6 MAY 1988
+2 _UID 25350c80-d8db-4887-8e3b-d3b35ac37569
+1 FAMS @F84@
+0 @I170@ INDI
+1 _UID 383a98b4-2689-427a-8ff2-6d9385d123ad
+1 NAME Владимир /Пронин/
+2 GIVN Владимир
+1 SEX M
+1 BIRT
+2 DATE 5 JUN 1961
+2 PLAC Белозерск
+2 _UID eb2fdda1-b562-4878-90c0-90d4171038fa
+1 RESI
+2 _UID 813d6793-c007-4f5e-baae-d1ddd656186c
+1 FAMC @F92@
+1 FAMS @F85@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/a479a561-f7b9-4e7d-a033-af5c2571fbc4.jpg
+0 @I171@ INDI
+1 _UID 8d2fbd4a-3387-4915-bf27-7b74a84f5b95
+1 NAME ? /Красова/
+2 GIVN ?
+2 _MARNM Красова
+1 SEX F
+1 BIRT
+2 _UID 31a135a8-2d8c-44c9-b709-131251aed603
+1 FAMS @F146@
+0 @I172@ INDI
+1 _UID 6079d092-427c-47cd-93ee-9dd872770cb4
+1 NAME Наталья Александровна /Миронова (Сорокина)/
+2 GIVN Наталья Александровна
+2 SURN Сорокина
+2 _MARNM Миронова
+1 SEX F
+1 BIRT
+2 DATE 22 APR 1945
+2 PLAC Коростень, Украина
+2 _UID 3de41840-e764-41de-aa3e-07e11ccc79f2
+1 FAMS @F86@
+0 @I173@ INDI
+1 _UID 680209e5-92ca-42a4-b5b2-3d2e05fabcef
+1 NAME Валерий /Носовский/
+2 GIVN Валерий
+1 SEX M
+1 BIRT
+2 _UID ddb2ac4b-b8ec-4c75-a672-e2117915b083
+1 FAMS @F87@
+0 @I174@ INDI
+1 _UID 4b3f6c64-9f22-44ee-9d59-07f8371702e7
+1 NAME Жена //
+2 GIVN Жена
+1 SEX F
+1 BIRT
+2 _UID 47df1faa-fcca-47f1-bedb-bd3515582a8e
+1 FAMS @F88@
+0 @I175@ INDI
+1 _UID 4867d9dc-5c4e-473b-b2db-fb84fdfb4ac4
+1 NAME Валентин /Николаев/
+2 GIVN Валентин
+1 SEX M
+1 BIRT
+2 DATE 5 MAY 1933
+2 PLAC Саратов, Россия
+2 _UID 19141476-e7f9-4be8-8ccd-db0106af1c4d
+1 DEAT
+2 CAUS Естественная смерть / Смерть от старости
+2 DATE 28 NOV 2003
+2 _UID 46a3ba9e-53aa-450a-91fb-1e93cf565404
+1 FAMC @F107@
+1 FAMS @F45@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/daa55093-aad2-43cc-b721-e216b48ad523.jpg
+0 @I176@ INDI
+1 _UID 55ba6760-ad4a-4173-91be-c3f256607da0
+1 NAME Иван /Захаренко/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 _UID 93c90806-7667-424a-bd42-f40de306f599
+1 FAMC @F40@
+1 FAMS @F89@
+0 @I177@ INDI
+1 _UID b7896599-387d-4827-ba66-50e096a58296
+1 NAME Владимир /Миронов/
+2 GIVN Владимир
+1 SEX M
+1 NOTE Есть дочь Вероника (погибла) от второго брака
+1 BIRT
+2 DATE 10 JAN 1942
+2 PLAC д Шульгино, Вологодская область
+2 _UID 164197d8-193f-433b-aea0-c7c1dd07c0c8
+1 FAMC @F53@
+1 FAMS @F86@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/2beee01c-d3d9-460e-8a0e-754ac7df8d72.jpg
+0 @I178@ INDI
+1 _UID d000115b-674c-40c2-89e9-9814b1ca6c55
+1 NAME Елена /Полухина (Седякин)/
+2 GIVN Елена
+2 SURN Седякин
+2 _MARNM Полухина
+1 SEX F
+1 BIRT
+2 DATE 18 JUL 1924
+2 PLAC д. Поджа, Вытегорский район
+2 _UID a897de07-28f5-4a55-82aa-9f58b1678314
+1 DEAT
+2 _UID c276ee0b-390a-4ebe-8838-d5c969527ebe
+1 OCCU
+2 NOTE учительница начальных классов
+2 _UID 318c2894-74fa-46b3-8156-1cb3bde03330
+1 EDUC
+2 PLAC Вытегорское пед училище
+2 NOTE среднее
+2 _UID 29944802-9ef0-4675-b917-33085dcc1a31
+1 FAMC @F110@
+1 FAMS @F77@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/2d4e32c7-3e1b-4853-beb4-7ae84612a1f6.jpg
+0 @I179@ INDI
+1 _UID 4bccb0e1-2415-4b78-914c-216232954039
+1 NAME Гаррий /Крюков/
+2 GIVN Гаррий
+1 SEX M
+1 BIRT
+2 DATE 20 DEC 1964
+2 PLAC Жигулевск
+2 _UID 2f334600-b912-4f52-b433-9797bffe074b
+1 FAMC @F149@
+1 FAMS @F90@
+0 @I180@ INDI
+1 _UID c6c6273f-736b-4cc0-88f5-44c77d304b63
+1 NAME Павел /Хахалин/
+2 GIVN Павел
+1 SEX M
+1 BIRT
+2 _UID 943f5158-4dd8-4988-a39c-473636494d49
+1 DEAT
+2 _UID d4311d14-83a5-4eba-a11f-e6f6335e8d70
+1 FAMC @F132@
+0 @I181@ INDI
+1 _UID 9fa72364-9fd6-4ef8-9da6-4ef45ab1ee94
+1 NAME Светлана /Крюкова (Красильникова)/
+2 GIVN Светлана
+2 SURN Красильникова
+2 _MARNM Крюкова
+1 SEX F
+1 BIRT
+2 DATE 6 APR 1959
+2 PLAC Жигулевск
+2 _UID b8b4c135-e555-4693-a9d9-e30106e54e11
+1 FAMS @F47@
+0 @I182@ INDI
+1 _UID 33d6fd63-a3ca-4a58-bdd1-fd9d220df376
+1 NAME Дмитрий /Теплов/
+2 GIVN Дмитрий
+1 SEX M
+1 NOTE воспитывался в семье богатого помещика. т.к. возможно был его сыном, а мать просто выдали замуж за местного.
+1 BIRT
+2 _UID 4072def8-57fe-497b-9a7d-92e62b895feb
+1 OCCU
+2 NOTE дейстивительный статский советник, Пенза
+2 _UID 9ce41e59-1007-4250-9d17-c569396938bd
+1 FAMC @F18@
+1 FAMS @F91@
+0 @I183@ INDI
+1 _UID 8ede40d7-b53d-4036-9104-b61c20a7ce79
+1 NAME Николай /Пронин/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 DATE 21 SEP 1936
+2 PLAC Белозерск
+2 _UID 1638dc53-4845-4376-a57d-861393fdff05
+1 OCCU
+2 NOTE учитель русского языка и литературы
+2 _UID 5b5edb16-b717-4efa-a7ec-163de772ab50
+1 FAMC @F75@
+1 FAMS @F92@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/9b560236-6c4a-4b64-abea-5ce2829ff220.jpg
+0 @I184@ INDI
+1 _UID 6ec547ff-8f53-4d54-9a8c-01b994da1120
+1 NAME Григорий /Шматов/
+2 GIVN Григорий
+1 SEX M
+1 BIRT
+2 DATE 28 DEC 2007
+2 PLAC Саратов, Россия
+2 _UID 4426a25f-e82c-44f0-9154-5a7c162e7678
+1 FAMC @F33@
+0 @I185@ INDI
+1 _UID 1b09ad15-50e7-4114-b8a0-baf7afd86bd2
+1 NAME Валентина /Петрова (Седякина)/
+2 GIVN Валентина
+2 SURN Седякина
+2 _MARNM Петрова
+1 SEX F
+1 BIRT
+2 DATE 8 FEB 1935
+2 PLAC д. Никольская гора
+2 _UID 6bea23b3-d71d-4545-8b89-e0b8338ef1af
+1 OCCU
+2 NOTE учительница начальных классов
+2 _UID 95ac5e60-aeae-4d64-8ead-481caa3b0add
+1 EDUC
+2 DATE 1965
+2 PLAC МГПИ им Ленина
+2 NOTE высшее
+2 _UID 100e0e72-2afe-48f8-af78-9c61cd6046f8
+1 FAMC @F110@
+1 FAMS @F16@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/526f6165-8301-4c5d-a308-cf1d60a57e3b.jpg
+0 @I186@ INDI
+1 _UID fb497067-466c-4ba3-a39d-9b3555773390
+1 NAME Николай /Скуридин/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 DATE 1938
+2 _UID 2d4ede79-d33e-4d71-b6fb-fed9d8feda8d
+1 RESI
+2 _UID c25bb06a-f0e7-4834-b3d5-b2fdfb599c2e
+1 FAMC @F2@
+1 FAMS @F158@
+0 @I187@ INDI
+1 _UID 35ed9f74-7082-4995-80f2-302e045410b4
+1 NAME Елена / (Пронина)/
+2 GIVN Елена
+2 SURN Пронина
+1 SEX F
+1 BIRT
+2 DATE 13 APR 1963
+2 PLAC Белозерск
+2 _UID 6cda1fd0-1d1e-4ee5-9a40-e0ce86c0b8b8
+1 RESI
+2 _UID 96ff6394-cda1-4f98-a1e8-245425e5f89e
+1 FAMC @F92@
+1 FAMS @F151@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/4f618fed-fe3b-4555-ae7e-10ec469b2321.jpg
+0 @I188@ INDI
+1 _UID 84dae1a9-bae9-4c8d-8b8e-7d4be004105d
+1 NAME Александр /Дронов/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 _UID 4b540813-dbe4-499c-8900-b24a43687ede
+1 FAMS @F17@
+0 @I189@ INDI
+1 _UID d40baa7a-c4af-4370-a392-ccf31ba2a7ef
+1 NAME Андрей /Чередников/
+2 GIVN Андрей
+1 SEX M
+1 BIRT
+2 _UID 404d4024-b6c7-4c45-b56d-91ab77b6d02e
+1 FAMS @F22@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/ce012e12-9660-49cb-a844-3a0f9e6aa6d3.jpg
+0 @I190@ INDI
+1 _UID f686260e-8954-4c49-8560-d34f28889658
+1 NAME Надежда /Колесникова (Колесникова)/
+2 GIVN Надежда
+2 SURN Колесникова
+2 _MARNM Колесникова
+1 SEX F
+1 BIRT
+2 DATE 2 MAY 1933
+2 _UID 6585db0b-5304-43e0-b31c-77f3ddb250e5
+1 DEAT
+2 DATE 6 OCT 1999
+2 _UID 89339d2a-0a07-4b5b-b5b0-71ae98f76507
+1 FAMS @F149@
+0 @I191@ INDI
+1 _UID 930fa7cd-3da8-45db-9d00-7cbd35f39fec
+1 NAME Дочка / (Лазунина)/
+2 GIVN Дочка
+2 SURN Лазунина
+1 SEX F
+1 BIRT
+2 _UID 895267aa-3fba-4888-83c2-7b8255c8336b
+1 FAMC @F147@
+0 @I192@ INDI
+1 _UID c3aa9eea-940d-40a7-8d5c-dd941ce85e6d
+1 NAME Антон /Маратаев/
+2 GIVN Антон
+1 SEX M
+1 BIRT
+2 PLAC Вытегра, Россия
+2 _UID 5313de63-2997-4874-95fa-036f4c83bbcb
+1 FAMC @F144@
+0 @I193@ INDI
+1 _UID 1d8e8e5d-130b-4a93-a494-9fdd9bea025e
+1 NAME Александр /Варнаков/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 _UID a87f2a37-2449-48f9-8f9a-be43e85844ed
+1 FAMC @F63@
+1 FAMS @F93@
+0 @I194@ INDI
+1 _UID 16157836-c940-4442-a7b4-bbad7297f4a2
+1 NAME Андрей /Скуридин/
+2 GIVN Андрей
+1 SEX M
+1 BIRT
+2 _UID 3c43a1a2-68dc-403c-baaf-e8e729f20880
+1 FAMC @F158@
+0 @I195@ INDI
+1 _UID 71efc16d-9436-41b7-b265-58193e72c30a
+1 NAME Александр //
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 _UID a11a4306-4c16-40c8-88cd-91de5eba0ca8
+1 FAMC @F4@
+0 @I196@ INDI
+1 _UID 0287be57-ccc1-411b-98c6-b8bc9f063e02
+1 NAME Константин /Матвеев/
+2 GIVN Константин
+1 SEX M
+1 BIRT
+2 _UID d06b529d-0459-4f11-a3a7-d044823574ca
+1 FAMC @F129@
+1 FAMS @F138@
+0 @I197@ INDI
+1 _UID b783628b-94bb-425d-94d4-5359fc119a0b
+1 NAME Анна /Филлипова (Емельянова)/
+2 GIVN Анна
+2 SURN Емельянова
+2 _MARNM Филлипова
+1 SEX F
+1 BIRT
+2 DATE 16 FEB 1907
+2 _UID 0ef0ea68-331b-4e75-aa46-bf0a477d7670
+1 DEAT
+2 CAUS Естественная смерть/старость
+2 DATE 17 FEB 2000
+2 PLAC Саратов, Россия
+2 _UID 93fca569-bc4a-4f96-a052-48e87c74d93a
+1 BURI
+2 PLAC Елшанка, уч. 106
+2 _UID 6627b077-d998-4286-a973-d6f1dea214ad
+1 FAMC @F61@
+1 FAMS @F94@
+0 @I198@ INDI
+1 _UID b96cddf2-b1a2-49c5-872a-4f20a91480cf
+1 NAME Николай /Петров/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 DATE 8 AUG 1902
+2 PLAC д. Шугино Вашкинского р-на Вологодской обл.
+2 _UID 75ecca1c-68bd-4fe6-894c-1a7761242fb6
+1 DEAT
+2 CAUS несчастный случай
+2 DATE 29 JUL 1939
+2 _UID 184028e8-00f2-47da-8a61-37340544e6ee
+1 OCCU
+2 NOTE главный бухгалтер
+2 _UID d64894c1-012c-4cc7-9085-632db65c6001
+1 BURI
+2 PLAC Вытегра, Россия
+2 _UID 91103cda-309a-45ca-9290-bf30d4bca674
+1 FAMC @F129@
+1 FAMS @F95@
+0 @I199@ INDI
+1 _UID 0b9950df-97b2-40d1-b9ef-0d2e577e4991
+1 NAME Гавриил /Седякин/
+2 GIVN Гавриил
+1 SEX M
+1 BIRT
+2 _UID 63e05ab0-75bb-4ad5-9a2e-f215637814be
+1 DEAT
+2 _UID 96c43dc0-7c01-43c8-9bf9-d379d615d59e
+1 FAMS @F96@
+0 @I200@ INDI
+1 _UID 2671b0b8-27f2-44d2-8d21-4b688dc4e066
+1 NAME Ольга /Вишняк (Захаренко)/
+2 GIVN Ольга
+2 SURN Захаренко
+2 _MARNM Вишняк
+1 SEX F
+1 BIRT
+2 _UID b812b06c-9631-4f63-b805-f5a6f7cc7006
+1 FAMC @F40@
+1 FAMS @F159@
+0 @I201@ INDI
+1 _UID 9ff87ea8-2cf7-472c-b82e-e7f74b7b7512
+1 NAME Игорь /Жуков/
+2 GIVN Игорь
+1 SEX M
+1 BIRT
+2 DATE 11 APR 1957
+2 _UID d652f145-9fcc-4ba1-8081-8298c3badfe9
+1 OCCU
+2 NOTE врач-нарколог сексопатолог
+2 _UID 3593b46d-675c-421f-aa77-c378e6c42ff0
+1 FAMS @F97@
+1 FAMS @F98@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/c5e36ac6-ff54-4373-b4d3-48ec885fa2f5.jpg
+0 @I202@ INDI
+1 _UID 66336130-1eb6-4104-884a-aa0bd9d1de13
+1 NAME Илья /Мишин/
+2 GIVN Илья
+1 SEX M
+1 BIRT
+2 DATE 18 APR 1993
+2 PLAC Вытегра, Россия
+2 _UID 05fa6c76-9939-4d9f-b653-b7ab4838833a
+1 RESI
+2 _UID 29e6f2cb-610f-4553-b7c6-c33f0f114d65
+1 FAMC @F100@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/5007086d-05d4-4c5b-921e-53abf2aad6b7.jpg
+0 @I203@ INDI
+1 _UID bd2bd3f5-3368-499f-a40b-e97159354c86
+1 NAME Матвей /Полухин/
+2 GIVN Матвей
+1 SEX M
+1 BIRT
+2 DATE 5 FEB 2007
+2 PLAC Вытегра, Россия
+2 _UID ac23cc42-5726-428a-a5fc-770702e6b270
+1 FAMC @F157@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/07d07b7a-7de3-4445-a68a-6fe3a621cced.jpg
+0 @I204@ INDI
+1 _UID 207f820a-4128-43c7-98c2-7f9ec2693128
+1 NAME Георгий /Агеев/
+2 GIVN Георгий
+1 SEX M
+1 BIRT
+2 _UID 9fad9e9b-fb97-4905-8416-d55d2936b3d5
+1 FAMS @F99@
+0 @I205@ INDI
+1 _UID 33841dc4-d1fa-4867-a7dc-0fbb2e52ad3c
+1 NAME Владимир /Мишин/
+2 GIVN Владимир
+1 SEX M
+1 BIRT
+2 DATE 13 JUN 1959
+2 PLAC д. Палтога Вытегорского р-на
+2 _UID 44528879-9984-4cc5-a550-7263c780bd49
+1 EDUC
+2 PLAC Речное училище
+2 _UID 16dd6f53-4f5b-4b10-9546-c87a36c2f717
+1 FAMC @F83@
+1 FAMS @F100@
+0 @I206@ INDI
+1 _UID d516f6d1-caa8-4e92-b445-8567501b2300
+1 NAME Юлия /Проскурякова (Проскурякова)/
+2 GIVN Юлия
+2 SURN Проскурякова
+2 _MARNM Проскурякова
+1 SEX F
+1 BIRT
+2 DATE 11 AUG 1982
+2 PLAC Екатеринбург, Россия
+2 _UID 7bee1662-8725-4724-b1ed-6c804b2c946b
+1 EDUC
+2 DATE 2004
+2 PLAC Уральская Государственная Юридическая Академия очное отделение
+2 NOTE Высшее
+2 _UID 1e73f2e8-8fe2-4e2c-a814-996533b2a4e3
+1 FAMS @F101@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/187b08a9-b343-4173-8953-84df9ee27a5c.jpg
+0 @I207@ INDI
+1 _UID fb9b3a29-7bc6-4216-89dc-004ad250bade
+1 NAME Михаил /Оськин/
+2 GIVN Михаил
+1 SEX M
+1 BIRT
+2 _UID a4064ca0-1104-4948-907b-c71c418604e0
+1 DEAT
+2 CAUS На войне
+2 _UID fcf21a1d-2f82-477d-adfe-ee8996dc76ba
+1 FAMS @F131@
+0 @I208@ INDI
+1 _UID 0f417efe-e238-44cd-b1f5-c0933ac4ba3c
+1 NAME Анатолий /Марков/
+2 GIVN Анатолий
+1 SEX M
+1 BIRT
+2 DATE 13 JUL 1957
+2 PLAC Ливны, Россия
+2 _UID 4674a484-94fd-476c-addb-cacea7cfdb71
+1 BURI
+2 PLAC Ливны, Россия
+2 _UID a299524d-82e3-4dca-a9f4-4486d7a6a09f
+1 DEAT
+2 CAUS Несчастный случай
+2 DATE 11 JUN 1998
+2 _UID 0d9b66ee-2bd8-495b-8e8e-b0808d6bcc5a
+1 FAMC @F104@
+1 FAMS @F102@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/d89060bb-50c0-40f1-96a7-caacf9ce6423.jpg
+0 @I209@ INDI
+1 _UID b55abc88-a0fe-4452-ab17-e0769c4df987
+1 NAME Марина /Калинникова (Ефимова)/
+2 GIVN Марина
+2 SURN Ефимова
+2 _MARNM Калинникова
+1 SEX F
+1 BIRT
+2 DATE 7 FEB 1959
+2 PLAC Саратов, Россия
+2 _UID d21f2d0f-82aa-4706-925c-72e833992c15
+1 EDUC
+2 PLAC СГУ, Саратов
+2 NOTE геолог
+2 _UID 9af5b504-6d29-4303-8ff1-913da356b610
+1 OCCU
+2 NOTE научная деятельность
+2 _UID d0602e58-df1a-47ef-9349-9dbc48fde120
+1 FAMC @F25@
+1 FAMS @F38@
+0 @I210@ INDI
+1 _UID 3379f0ce-0992-4d16-acab-14923433567d
+1 NAME Андрей /Миронов/
+2 GIVN Андрей
+1 SEX M
+1 BIRT
+2 DATE 8 FEB 1975
+2 PLAC Великий Новгород, Россия
+2 _UID 375d2da4-713f-4fab-a555-bd37e47e0f58
+1 FAMC @F86@
+1 FAMS @F57@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/52c08377-d036-42e6-9b65-1c780be8c95a.jpg
+0 @I211@ INDI
+1 _UID 7e79b1bd-d734-40f4-bccb-eea270a88d9f
+1 NAME Анна /Случанко/
+2 GIVN Анна
+2 _MARNM Случанко
+1 SEX F
+1 BIRT
+2 DATE 8 NOV 1988
+2 _UID 97a3981e-5b15-41c5-a0ed-531f5759f350
+1 FAMS @F34@
+0 @I212@ INDI
+1 _UID c8157f2f-dcb9-4a41-abba-ccb5478f6650
+1 NAME Юрий /Захаренко/
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 DATE 16 JAN 1957
+2 PLAC Ангарск, Россия
+2 _UID 7938d213-c7b7-4660-87bd-91bdd11b3fd7
+1 OCCU
+2 NOTE Врач-невролог
+2 _UID 4ce2ceb2-fc9d-45e9-86c3-e798bb387c50
+1 EDUC
+2 DATE 15 JUN 1980
+2 PLAC Смоленск, Россия
+2 NOTE врач
+2 _UID 51aaff68-3608-496e-b950-9f1a4541aca0
+1 FAMC @F37@
+1 FAMS @F23@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/3a1158f4-bd9e-4008-87b7-f7ad8e01d799.jpg
+0 @I213@ INDI
+1 _UID 4d207841-b2f9-4069-a91a-44e9b77fda87
+1 NAME Сергей /Гаренчев/
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 _UID 4fb9d08f-e3c0-4134-98ff-74cd05b627b2
+1 FAMC @F160@
+0 @I214@ INDI
+1 _UID 138f1c65-97ce-4ae9-b4b3-87ece7b924fe
+1 NAME Надежда / (Степаненко)/
+2 GIVN Надежда
+2 SURN Степаненко
+1 SEX F
+1 BIRT
+2 DATE 31 DEC 1969
+2 PLAC Орел, Россия
+2 _UID 95e2f18f-efdb-4f7c-a5d3-7fb5bc6989f0
+1 FAMC @F109@
+1 FAMS @F103@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/74b7eab6-03a3-4eef-94d5-29d79b8568d2.jpg
+0 @I215@ INDI
+1 _UID a6c22218-ac63-4220-929e-93a425da4063
+1 NAME Иван /Марков/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 DATE 30 JAN 1927
+2 PLAC Ливны, Россия
+2 _UID 6852e4c2-df81-4a74-b854-e6c75f39ef70
+1 EDUC
+2 NOTE высшее
+2 _UID cdaacb92-7b5c-44a9-b8fb-69e326528c26
+1 DEAT
+2 DATE 10 DEC 2013
+2 _UID 2414d1eb-aed3-47f5-aa52-cecd839ac1da
+1 RESI
+2 _UID 6fbade16-1d49-4177-ab67-36255e5a129d
+1 OCCU
+2 NOTE бухгалтер
+2 _UID bb92b3d0-d6bd-47e5-a606-3e6b325498fa
+1 FAMC @F46@
+1 FAMS @F104@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/4e68edca-04c6-44d3-87ec-1a4ad60368d5.jpg
+0 @I216@ INDI
+1 _UID c76eadf1-394a-4b99-a1f3-c25e916b035a
+1 NAME Анастасия / (Миронова)/
+2 GIVN Анастасия
+2 SURN Миронова
+1 SEX F
+1 BIRT
+2 _UID d9131821-39fa-4700-b251-b178592f796a
+1 RESI
+2 _UID 437404f2-c606-45a0-afcd-1c800ce0295c
+1 FAMC @F136@
+0 @I217@ INDI
+1 _UID 72b625c8-7f9c-42eb-b4ac-2fd83cfafb6b
+1 NAME Степан //
+2 GIVN Степан
+1 SEX M
+1 BIRT
+2 DATE 10 SEP 2011
+2 PLAC Курск, Россия
+2 _UID 3e1501e0-d331-4e5c-aebc-780825d15b99
+1 FAMC @F103@
+0 @I218@ INDI
+1 _UID e6fbf81f-d7dd-4e8f-93e8-d7715f9fa22e
+1 NAME Жанна /Плотникова (Миронова)/
+2 GIVN Жанна
+2 SURN Миронова
+2 _MARNM Плотникова
+1 SEX F
+1 BIRT
+2 DATE 2 JAN 1971
+2 PLAC Самара
+2 _UID 018ae24f-7477-4e10-b662-59c937dcfaae
+1 FAMC @F86@
+0 @I219@ INDI
+1 _UID 6a1c19d0-64cb-42b9-9db9-e3146fc3b268
+1 NAME Татьяна / (Варнакова)/
+2 GIVN Татьяна
+2 SURN Варнакова
+1 SEX F
+1 BIRT
+2 DATE 1952
+2 _UID 4eff329d-6718-4f0a-98e3-7231f2e40811
+1 FAMC @F63@
+1 FAMS @F105@
+0 @I220@ INDI
+1 _UID 95413f0b-a928-432f-8845-9ccd74cad295
+1 NAME Сергей /Миронов/
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 _UID 07b3e625-7b22-4f70-8bb7-5babb545a671
+1 DEAT
+2 DATE 1953
+2 PLAC СА
+2 _UID e02f3b50-a555-4861-867f-bd3775e8855f
+1 FAMC @F53@
+0 @I221@ INDI
+1 _UID c94973f6-2a6c-4f0d-b990-8675737f05ce
+1 NAME Николай /Качанов/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 _UID 8d942fbd-8588-4448-af5c-b5cba35fde9e
+1 DEAT
+2 _UID 7498e3c3-7749-44e5-9c27-29766d99d1a4
+1 FAMS @F106@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/e510a9a2-5e63-4ce9-94f9-e820ba893346.jpg
+0 @I222@ INDI
+1 _UID 208b3a8c-53e2-4f3c-adad-138ea7f4ecab
+1 NAME Нина /Николаева (Гергель)/
+2 GIVN Нина
+2 SURN Гергель
+2 _MARNM Николаева
+1 SEX F
+1 BIRT
+2 DATE @#DJULIAN@ 20 JUN 1959
+2 _UID 691efa5a-2915-40d3-a067-8f7def392772
+1 FAMS @F72@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/f9d8faeb-dad9-4415-8cbc-b656b2047bea.jpg
+0 @I223@ INDI
+1 _UID 202cf157-1de8-4987-af96-9bf4e81f7ee9
+1 NAME Евгения / (Варнакова)/
+2 GIVN Евгения
+2 SURN Варнакова
+1 SEX F
+1 BIRT
+2 PLAC Омск
+2 _UID dd8e8768-3360-4eed-883b-b8e418eaa10d
+1 FAMC @F93@
+0 @I224@ INDI
+1 _UID e8aae678-6dcd-41e6-adb2-e3639da99680
+1 NAME Александр /Скуридин/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 _UID 03f33ae8-c0cb-49b4-bb91-bb7977820224
+1 FAMC @F158@
+0 @I225@ INDI
+1 _UID b5e81681-f4c8-46e8-a465-9384ba7d0d17
+1 NAME Евдокия /Гамаюнова (Емельянова)/
+2 GIVN Евдокия
+2 SURN Емельянова
+2 _MARNM Гамаюнова
+1 SEX F
+1 BIRT
+2 DATE ABT 1905
+2 _UID 49648c88-cde6-4e60-84b6-0fa25b60bfa8
+1 DEAT
+2 DATE 10 NOV 1988
+2 PLAC Москва, Россия
+2 _UID 6e9f944a-5fb9-4492-bb2e-b4fef795a82b
+1 FAMC @F61@
+0 @I226@ INDI
+1 _UID e8331ca5-c5e8-47d5-a15e-9cdb496fd2e7
+1 NAME Никита /Крюков/
+2 GIVN Никита
+1 SEX M
+1 BIRT
+2 DATE 11 MAY 1986
+2 PLAC Жигулевск
+2 _UID f81efd75-3d03-402f-a21e-c2949c357851
+1 FAMC @F90@
+1 FAMS @F84@
+0 @I227@ INDI
+1 _UID 432f5559-39ea-4396-91b6-162ce0fb7def
+1 NAME Дочка / (Крюкова)/
+2 GIVN Дочка
+2 SURN Крюкова
+1 SEX F
+1 BIRT
+2 _UID 296fca31-a169-45b1-be80-6a0abc70a662
+1 FAMC @F88@
+0 @I228@ INDI
+1 _UID 74246b3a-52bf-41e6-a3de-f40fd0c7f373
+1 NAME Наталья / (Череваткин)/
+2 GIVN Наталья
+2 SURN Череваткин
+1 SEX F
+1 BIRT
+2 _UID f16d8235-9ee7-4844-bb9d-af58ac153c27
+1 FAMC @F7@
+0 @I229@ INDI
+1 _UID d7563ab7-9711-4057-b07d-50e45d53dda1
+1 NAME Муж //
+2 GIVN Муж
+1 SEX M
+1 BIRT
+2 _UID a02b3577-5539-46ce-af0b-d6f4a6111aef
+1 FAMS @F143@
+0 @I230@ INDI
+1 _UID 3ce53b8c-b25c-4e95-9bee-23a76c216f64
+1 NAME Любовь /Теплова (Васильева)/
+2 GIVN Любовь
+2 SURN Васильева
+2 _MARNM Теплова
+1 SEX F
+1 NOTE Была сослана вместе с семьей после революции из СПб в Пензу
+1 BIRT
+2 PLAC СПб
+2 _UID ece1a6e9-592d-49b0-ac28-e0a28835ffcc
+1 FAMC @F108@
+1 FAMS @F91@
+0 @I231@ INDI
+1 _UID 6b4f9c96-ed37-4d5b-9012-8da122f1a076
+1 NAME Елена /Варнакова/
+2 GIVN Елена
+2 _MARNM Варнакова
+1 SEX F
+1 BIRT
+2 _UID d8729bef-d597-4ada-a4eb-2f7650f6ad74
+1 DEAT
+2 _UID 813ac466-598d-4347-b19f-ee49f6e386dd
+1 FAMS @F93@
+0 @I232@ INDI
+1 _UID 678c76d6-60cb-43fc-b845-f3bfb367380e
+1 NAME Дочка //
+2 GIVN Дочка
+1 SEX F
+1 BIRT
+2 _UID a2125ee9-6c2d-4058-9999-daeae7241ac2
+1 FAMC @F113@
+0 @I233@ INDI
+1 _UID f37ec806-c1e1-41e6-9ec9-1015014576d2
+1 NAME Петр /Глухов/
+2 GIVN Петр
+1 SEX M
+1 BIRT
+2 _UID 95517cd1-d7bd-4373-b6d8-df00d976148c
+1 DEAT
+2 _UID c0d56426-e588-4294-b568-512632031928
+1 FAMS @F134@
+0 @I234@ INDI
+1 _UID 691424ae-3fcd-4b2d-9565-cc4901942367
+1 NAME Александра /Николаева (Белова)/
+2 GIVN Александра
+2 SURN Белова
+2 _MARNM Николаева
+1 SEX F
+1 BIRT
+2 DATE @#DJULIAN@ 10 MAY 1908
+2 _UID b0bda11e-8fed-417e-9bc0-2a4bdcaa413e
+1 DEAT
+2 _UID 9d7bce0a-0fd5-4aa3-8803-343d05513b02
+1 FAMS @F107@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/40ce2cac-8d03-48b6-8ec2-0fbdb883aa21.jpg
+0 @I235@ INDI
+1 _UID 317c4127-1a6a-4aaa-b31d-6b605d346c93
+1 NAME Зинаида / (Хахалина)/
+2 GIVN Зинаида
+2 SURN Хахалина
+1 SEX F
+1 BIRT
+2 _UID 57fff52e-d63d-4963-b1e0-a6cf65859e78
+1 DEAT
+2 _UID 7a879b1a-f33b-4491-9bf1-8c1a5daf8638
+1 FAMC @F132@
+0 @I236@ INDI
+1 _UID 86b5daf5-7467-4740-be41-466c69ebff88
+1 NAME Даниил /Крюков/
+2 GIVN Даниил
+1 SEX M
+1 BIRT
+2 DATE 16 SEP 2007
+2 PLAC г. Мытищи
+2 _UID 9e8489b1-fe33-4292-99fc-aa5a22b06a9e
+1 FAMC @F84@
+0 @I237@ INDI
+1 _UID 8444beec-57cf-478a-870d-aa187cf2fba0
+1 NAME Василий /Васильев/
+2 GIVN Василий
+1 SEX M
+1 NOTE Убил конюха  и застрелился сам.
+1 BIRT
+2 _UID 4da337cc-5d08-46f1-b201-c77a5d4ada7a
+1 FAMS @F108@
+0 @I238@ INDI
+1 _UID fb1afe2d-cfa9-4574-a0e0-8c163df6577a
+1 NAME Дочка //
+2 GIVN Дочка
+1 SEX F
+1 BIRT
+2 _UID fbfe38de-7981-4a75-86d1-bc1d1314c1eb
+1 FAMC @F143@
+0 @I239@ INDI
+1 _UID f847ce3f-7add-481e-a370-e03eab40377b
+1 NAME Антонина /Степаненко (Пашинина)/
+2 GIVN Антонина
+2 SURN Пашинина
+2 _MARNM Степаненко
+1 SEX F
+1 BIRT
+2 _UID afa763e0-6b03-42c7-ab13-957bdac811fc
+1 FAMC @F124@
+1 FAMS @F109@
+0 @I240@ INDI
+1 _UID c67aec03-445f-4796-9716-cd7bc65f99b6
+1 NAME Анна /Крюкова (Новикова)/
+2 GIVN Анна
+2 SURN Новикова
+2 _MARNM Крюкова
+1 SEX F
+1 BIRT
+2 DATE 1899
+2 _UID 10aba3b7-ae69-4477-8ad7-e05392190057
+1 DEAT
+2 DATE 11 AUG 1985
+2 _UID 87bef6b9-b79e-426e-a11c-30c384d875f0
+1 FAMS @F153@
+0 @I241@ INDI
+1 _UID 9b1f187c-6d3e-4d1b-b641-606ca1a6ed00
+1 NAME Константин /Теплов/
+2 GIVN Константин
+1 SEX M
+1 BIRT
+2 PLAC Саратов, Россия
+2 _UID 075e4a15-1236-4d4a-9fe7-303f936ef1a7
+0 @I242@ INDI
+1 _UID fe966065-43e1-42e3-90eb-f82f429acd52
+1 NAME Мария /Седякина (Кузина)/
+2 GIVN Мария
+2 SURN Кузина
+2 _MARNM Седякина
+1 SEX F
+1 BIRT
+2 DATE 5 AUG 1898
+2 PLAC с. Порог, Вытегорский район
+2 _UID bc0c088a-1772-45a6-a050-d697ea6d520e
+1 OCCU
+2 NOTE работала в колхозе, крестьянка
+2 _UID b3720c2f-49b5-4748-9980-f4afa946a087
+1 DEAT
+2 DATE 10 FEB 1985
+2 PLAC д Анхимово
+2 _UID 351bbb98-4e1d-4375-abc6-0091a374308b
+1 FAMC @F78@
+1 FAMS @F110@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/05b23520-dde5-443a-a3b4-aabf8d00df24.jpg
+0 @I243@ INDI
+1 _UID bd89db56-1fe1-4f46-94a7-79a6bb6b9bbf
+1 NAME Анна /Николаева (Петрова)/
+2 GIVN Анна
+2 SURN Петрова
+2 _MARNM Николаева
+1 SEX F
+1 BIRT
+2 DATE 31 MAR 1967
+2 PLAC ст. Кейла, Эстония
+2 _UID 486eac2a-ae26-48be-b1cc-8dcfc018d6c3
+1 OCCU
+2 NOTE учительница начальных классов
+2 _UID 598859db-d132-4c9e-b6af-c5e53a092cd9
+1 EDUC
+2 DATE 1 JUN 1989
+2 PLAC МГПИ им Ленина
+2 NOTE высшее
+2 _UID 5083645a-437d-4ae4-ad8a-62fdd7fd3d24
+1 FAMC @F16@
+1 FAMS @F43@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/bb632c8b-abd7-41b1-bfd9-a0cfeed3cc2d.jpg
+0 @I244@ INDI
+1 _UID b78b9652-2a86-4974-b66b-17f79ff71226
+1 NAME Александр /Столяров/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 DATE 26 AUG 1989
+2 _UID f7ba3463-d3ec-469b-bbf8-d358d4593681
+1 FAMS @F111@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/e1f456df-cbd4-4e73-bca8-c621e9379527.jpg
+0 @I245@ INDI
+1 _UID 95a6f9ac-b14f-4d9c-b1e8-b7ad28625c4b
+1 NAME Вера / (Хазова)/
+2 GIVN Вера
+2 SURN Хазова
+1 SEX F
+1 BIRT
+2 DATE 1962
+2 PLAC Самара
+2 _UID 354a8b65-7dff-4fdb-b4e2-29293be1cca4
+1 FAMC @F112@
+1 FAMS @F48@
+0 @I246@ INDI
+1 _UID 818e8452-3274-4b53-b298-a241fd57f467
+1 NAME Алексей /Красов/
+2 GIVN Алексей
+1 SEX M
+1 BIRT
+2 _UID e46874d9-535f-41de-9042-60f5ff30256d
+1 FAMS @F42@
+0 @I247@ INDI
+1 _UID 96b1d990-63d0-43c0-9eef-905be66b9234
+1 NAME Отец Николай //
+2 GIVN Отец Николай
+1 SEX M
+1 BIRT
+2 _UID 7d5d10ad-c029-4738-89fd-023c2e8ee55f
+1 FAMS @F150@
+0 @I248@ INDI
+1 _UID 9c9a2fb1-6a4e-47b9-bded-cf61d45ed1af
+1 NAME Александр /Миронов/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 _UID 8dcba3da-4f44-44f8-b0eb-97f9d97dbb58
+1 DEAT
+2 _UID 21f7dfdb-174f-495d-8202-b2593e7fcf14
+1 FAMC @F29@
+0 @I249@ INDI
+1 _UID b717c2ac-5b58-4b80-b707-5814db0b5489
+1 NAME Иван /Николаев/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 DATE 10 MAY 1988
+2 PLAC Москва, Россия
+2 _UID d2761303-65a5-442b-941e-fe66c60c7bda
+1 RESI
+2 _UID 1b582869-89cf-4719-9b58-379d6c4d5788
+1 FAMC @F43@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/198d143d-addf-47b4-8510-0027d95cded2.jpg
+0 @I250@ INDI
+1 _UID aa19e306-8f7a-4cea-be88-b6ff42f58dc1
+1 NAME Тамара /Хазова (Оськина)/
+2 GIVN Тамара
+2 SURN Оськина
+2 _MARNM Хазова
+1 SEX F
+1 BIRT
+2 DATE JUL 1933
+2 _UID 3ec53620-cda4-4be9-81d2-d86ff02cf978
+1 FAMC @F131@
+1 FAMS @F112@
+0 @I251@ INDI
+1 _UID 81ddcfa9-0793-456c-97c6-589261600d5d
+1 NAME Александр /Бабий/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 _UID e861f9d3-8118-4311-ba99-a06632854ad7
+1 FAMC @F62@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/0ff6d798-8f6d-4617-8b69-1604d5cd64cb.jpg
+0 @I252@ INDI
+1 _UID 3a55a05b-7d3c-488a-a781-130f6dd5989e
+1 NAME Николай /Хахалин/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 _UID 6a0e6b47-b991-4c1c-920f-e9ceb93e2809
+1 DEAT
+2 _UID 68644153-bb5a-44fb-a9ae-4cce6eb112c0
+1 FAMC @F132@
+0 @I253@ INDI
+1 _UID 00cfe5ce-2946-4ade-a071-4754f93e3cb3
+1 NAME Елена /Крюкова (Оськина)/
+2 GIVN Елена
+2 SURN Оськина
+2 _MARNM Крюкова
+1 SEX F
+1 BIRT
+2 DATE 3 JUL 1965
+2 PLAC Самара
+2 _UID 40c6685e-ebd1-4e36-88f6-95011b32dbb2
+1 FAMC @F140@
+1 FAMS @F90@
+0 @I254@ INDI
+1 _UID 498d20ff-73a7-414a-8093-222622bfccaf
+1 NAME Владимир /Петров/
+2 GIVN Владимир
+1 SEX M
+1 BIRT
+2 PLAC Кострома
+2 _UID 3ef50b2d-cd81-400f-be95-9e1f551b01b6
+1 FAMC @F36@
+0 @I255@ INDI
+1 _UID c500cf00-00aa-402b-b58c-74d201faa0aa
+1 NAME Василий /Варнаков/
+2 GIVN Василий
+1 SEX M
+1 BIRT
+2 _UID 8353ff12-f484-4b32-afe8-5c5c14da9be3
+1 DEAT
+2 _UID d71ab72f-0001-4c86-af53-50db171b3528
+1 FAMS @F63@
+0 @I256@ INDI
+1 _UID 5f2c25ef-7675-4bcf-bbcf-bf955f30cfb9
+1 NAME Василий /Емельянов/
+2 GIVN Василий
+1 SEX M
+1 NOTE умер в молодости
+1 BIRT
+2 _UID 7486a1b1-4dda-4c48-a7d5-300b3d81aaaf
+1 FAMC @F61@
+0 @I257@ INDI
+1 _UID 918e0950-5ff8-419f-9d0b-6d8ab2494a69
+1 NAME Евгения / (Пронина)/
+2 GIVN Евгения
+2 SURN Пронина
+1 SEX F
+1 BIRT
+2 DATE 22 NOV 1984
+2 PLAC Королев, МО
+2 _UID 4c224771-0ab0-4158-b099-28bdf207e722
+1 FAMC @F85@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/e459fcad-9491-42ab-9bda-6168ac0bd9e0.jpg
+0 @I258@ INDI
+1 _UID 979fae49-c30c-4c5d-9f05-a796e690f6f6
+1 NAME Юрий /Кривоножкин/
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 PLAC Самара
+2 _UID 9501c9f6-3855-47f7-b059-7168a79aab21
+1 FAMS @F105@
+0 @I259@ INDI
+1 _UID ba9ec5c5-7d21-424c-b635-c02f094b62ed
+1 NAME Илья /Николаев/
+2 GIVN Илья
+1 SEX M
+1 BIRT
+2 DATE 12 NOV 1981
+2 PLAC Киев, Украина
+2 _UID c0a3a827-ee36-43f3-bd08-9e6074119aee
+1 FAMC @F72@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/8161e7a5-f759-4554-b486-3a3fac7a0795.jpg
+0 @I260@ INDI
+1 _UID 297cfa00-7c3b-4698-9a44-1cd7ba7afc47
+1 NAME Вера /Гаренчева (Миронова)/
+2 GIVN Вера
+2 SURN Миронова
+2 _MARNM Гаренчева
+1 SEX F
+1 BIRT
+2 _UID 05438c6c-6b44-4bc8-b126-4d2ce6c52295
+1 FAMC @F53@
+1 FAMS @F160@
+0 @I261@ INDI
+1 _UID bd0d2767-49c1-480e-8957-0b3ccb64e972
+1 NAME Алексей /Миронов/
+2 GIVN Алексей
+1 SEX M
+1 BIRT
+2 _UID 7b70d581-8460-4774-bc86-b2e3fe72af14
+1 FAMC @F53@
+1 FAMS @F141@
+0 @I262@ INDI
+1 _UID 6d6640e8-3962-4b82-a467-bce7e47ecdc9
+1 NAME Владимир /Гаренчев/
+2 GIVN Владимир
+1 SEX M
+1 BIRT
+2 _UID 48e7071f-48e1-40cd-a315-1b53a7e84f15
+1 FAMC @F160@
+0 @I263@ INDI
+1 _UID 4608f4f4-0dc8-4d3b-960c-fddf2d5bf206
+1 NAME Сергей /Занин/
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 _UID 99cf5370-7f87-43ed-8435-cfdfa7b1d3e7
+1 FAMC @F11@
+1 FAMS @F154@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/0564da85-d4e2-415e-921d-49b2c0589726.jpg
+0 @I264@ INDI
+1 _UID 5f99fb1c-7e1e-45fc-97e3-3738d55bce50
+1 NAME Екатерина /Бабий (Куприенко)/
+2 GIVN Екатерина
+2 SURN Куприенко
+2 _MARNM Бабий
+1 SEX F
+1 BIRT
+2 DATE 17 NOV 1986
+2 PLAC Киев, Украина
+2 _UID 0105e049-cd02-48c2-b30d-9308bafd07eb
+1 RESI
+2 _UID 7a8d9036-5dab-4fa9-97ed-aceece258b3a
+1 FAMS @F55@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/c5a0a0ff-e9e8-4a96-9603-bfd482ef0f3f.jpg
+0 @I265@ INDI
+1 _UID 88a193ae-5d5c-418a-ba23-d4057fe353f0
+1 NAME Юлия / (Кривоножкина)/
+2 GIVN Юлия
+2 SURN Кривоножкина
+1 SEX F
+1 BIRT
+2 DATE 1970
+2 _UID ccbc54b7-bbc4-4f66-9634-fe7c6f23f7ec
+1 FAMC @F105@
+1 FAMS @F113@
+0 @I266@ INDI
+1 _UID 0c2e9766-e9f4-4dba-829c-2c7ded05bb7a
+1 NAME Андрей /Крюков/
+2 GIVN Андрей
+1 SEX M
+1 BIRT
+2 DATE 1898
+2 _UID 2d6f44b1-c9c5-4338-8468-458802c1c106
+1 DEAT
+2 DATE 1951
+2 _UID c859a59c-af53-4ab3-9ad1-ce296c16a17f
+1 FAMS @F153@
+0 @I267@ INDI
+1 _UID 1f16c8d4-a77c-4956-9822-e434606362e0
+1 NAME Татьяна / (Миронова)/
+2 GIVN Татьяна
+2 SURN Миронова
+1 SEX F
+1 BIRT
+2 _UID 805a5359-b482-41d7-a406-5d0a02b1d8d6
+1 FAMC @F130@
+0 @I268@ INDI
+1 _UID fdd3ed9e-28fe-4dc4-abc8-0f45268b2d16
+1 NAME Николай /Гаренчев/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 _UID 1d31fc78-680e-415f-bae1-1210ea3c97f2
+1 FAMC @F160@
+0 @I269@ INDI
+1 _UID 542be383-df49-4218-b4d5-b06f36daa1ad
+1 NAME Александр /Кривоножкин/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 DATE 1980
+2 _UID 29c7dd3a-6ae2-4776-8bf9-401d1d7e7e9b
+1 FAMC @F105@
+0 @I270@ INDI
+1 _UID 8f472de6-a1ca-4378-9854-36a1685fd0c3
+1 NAME Алена /Бабий/
+2 GIVN Алена
+2 _MARNM Бабий
+1 SEX F
+1 BIRT
+2 _UID bca7760e-f8c0-462f-9a11-1a0306eb6dc0
+1 FAMS @F62@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/d339d9af-5cd0-4ccb-949d-4846b490bc90.jpg
+0 @I271@ INDI
+1 _UID 7960a5a8-0b32-418b-9990-edf01c181137
+1 NAME Анисим /Емельянов/
+2 GIVN Анисим
+1 SEX M
+1 BIRT
+2 _UID 862a4213-4965-421a-91cf-09f922aa8645
+1 DEAT
+2 _UID e0eea308-b21d-4f26-9d8d-548bafac590f
+1 FAMC @F117@
+1 FAMS @F61@
+0 @I272@ INDI
+1 _UID e990d94f-2e9d-4580-b508-96a7fa3f33ba
+1 NAME Жена //
+2 GIVN Жена
+1 SEX F
+1 BIRT
+2 _UID b3d6e8d8-d2c8-44ec-b059-5cc615febf69
+1 DEAT
+2 _UID 2ee9e754-fbcf-4905-86d7-113f910ece45
+1 FAMS @F132@
+0 @I273@ INDI
+1 _UID c5511e5e-9a3b-4bc1-9c38-f9a3de710db2
+1 NAME Дочка //
+2 GIVN Дочка
+1 SEX F
+1 BIRT
+2 _UID 7159b8c6-dc1d-4f0b-bf92-4f0816b511d7
+1 FAMC @F81@
+0 @I274@ INDI
+1 _UID 9396314c-0bb1-40c1-8b8b-7b1e51953c11
+1 NAME Ирина / (Миронова)/
+2 GIVN Ирина
+2 SURN Миронова
+1 SEX F
+1 BIRT
+2 _UID d0fdfa22-58ac-4f25-8ac5-f8b95733aae5
+1 FAMC @F141@
+0 @I275@ INDI
+1 _UID 7906bead-6291-45ff-b093-9d8683bf9895
+1 NAME Елена /Панифодова (Жукова)/
+2 GIVN Елена
+2 SURN Жукова
+2 _MARNM Панифодова
+1 SEX F
+1 BIRT
+2 DATE 30 NOV 1977
+2 PLAC Вологда, Россия
+2 _UID 633bec55-6035-41ba-b8bb-eaaee31ffec2
+1 RESI
+2 _UID c33eb0fd-198e-496f-a4b4-38be93ff34e5
+1 RESI
+2 _UID 06eb6537-e969-4f03-91ee-30ba800e71e5
+1 FAMC @F97@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/6977c4d0-7746-4ed7-a448-17b621578fc8.jpg
+0 @I276@ INDI
+1 _UID 3d9bd037-3613-490a-8abe-e8f0d3be5c9a
+1 NAME Виталий /Миронов/
+2 GIVN Виталий
+1 SEX M
+1 BIRT
+2 _UID 477c6a34-e6f3-4355-94fd-72a896a3c40b
+1 FAMC @F155@
+0 @I277@ INDI
+1 _UID c2d76895-3ec7-441a-a638-a6060b690907
+1 NAME Агафья /Худякова/
+2 GIVN Агафья
+2 _MARNM Худякова
+1 SEX F
+1 BIRT
+2 _UID e700cceb-9410-4f34-b5e1-c43bdcaae82b
+1 DEAT
+2 _UID 9b11795e-6dd8-49a7-b0d0-00e77b43891b
+1 FAMS @F31@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/461e3db2-e13b-49fb-96cf-d93cb179c8d4.jpg
+0 @I278@ INDI
+1 _UID e6a0a271-6f3a-4c3a-a7e9-d506dacf2a5f
+1 NAME Наталья / (Мальцева)/
+2 GIVN Наталья
+2 SURN Мальцева
+1 SEX F
+1 BIRT
+2 DATE AUG 1955
+2 PLAC Ливны, Россия
+2 _UID 961532ca-cac7-484f-aeab-7911e91df251
+1 FAMC @F66@
+0 @I279@ INDI
+1 _UID f36d3e0b-67e7-4947-b593-2558f9f56445
+1 NAME Екатерина / (Кухарцева)/
+2 GIVN Екатерина
+2 SURN Кухарцева
+1 SEX F
+1 BIRT
+2 DATE 19 MAR 1983
+2 _UID 8e304e8c-da01-41f7-acf5-133772dba198
+1 FAMS @F73@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/84bf381d-0c09-448e-9ff4-21ae666625fc.jpg
+0 @I280@ INDI
+1 _UID 9bf6f88f-d016-4ef0-ae72-0a15f282d390
+1 NAME Виктор /Гончаров/
+2 GIVN Виктор
+1 SEX M
+1 BIRT
+2 PLAC Сумы
+2 _UID cc4ece77-bb82-4313-939e-71737338e4ad
+1 FAMC @F122@
+0 @I281@ INDI
+1 _UID 472a9b34-fdf2-42cb-9649-1162e6ecdf7f
+1 NAME Василий /Седякин/
+2 GIVN Василий
+1 SEX M
+1 BIRT
+2 DATE 25 MAR 1891
+2 PLAC д. Поджа, Вытегорский район
+2 _UID af87644b-54f8-44bd-acf1-2f9acd22ab95
+1 DEAT
+2 DATE 13 JUL 1943
+2 PLAC д. Никольская гора
+2 _UID c29ed6c7-0466-4404-a2c6-31a1505c61dc
+1 OCCU
+2 NOTE рабочий, строил плотины
+2 _UID 01046e6e-4589-4907-8b7b-d715049900b8
+1 FAMC @F32@
+1 FAMS @F110@
+0 @I282@ INDI
+1 _UID db599e7a-d0c6-4697-b7f4-81c93be15a66
+1 NAME Надежда / (Петрова)/
+2 GIVN Надежда
+2 SURN Петрова
+1 SEX F
+1 BIRT
+2 DATE 12 APR 1958
+2 PLAC Североморск, Россия
+2 _UID c1cffc95-2dda-41d7-9296-3a6a31f01445
+1 RESI
+2 _UID 5c5a5375-70ec-4587-b075-ea9811e0c55e
+1 RESI
+2 _UID ea8f0a2c-797a-40d5-bc91-0b5d43a923ad
+1 FAMC @F16@
+1 FAMS @F102@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/15db58f0-a5b1-451c-8ae2-2b96aabdcebd.jpg
+0 @I283@ INDI
+1 _UID 3dda74c7-17f5-4c55-8a8b-67a9015217f4
+1 NAME Леонид /Куц/
+2 GIVN Леонид
+1 SEX M
+1 BIRT
+2 _UID c17da72a-cb81-4ca7-8801-87bb1af5af9f
+1 DEAT
+2 PLAC Москва, Россия
+2 _UID f1a8bc08-e6eb-44f7-aa40-a6ae0b57abfa
+1 FAMC @F12@
+1 FAMS @F65@
+0 @I284@ INDI
+1 _UID efddf443-1be3-444e-aae0-9231a8eef20e
+1 NAME Александра /Филлипова (Череваткина)/
+2 GIVN Александра
+2 SURN Череваткина
+2 _MARNM Филлипова
+1 SEX F
+1 NOTE работала прислугой
+1 BIRT
+2 DATE 23 MAR 1890
+2 PLAC Базарный Карбулак
+2 _UID 76e1adc8-b83f-4601-84e8-1467400d22d5
+1 OCCU
+2 NOTE прислуга
+2 _UID dc888892-17c4-475a-9e07-f6c40d3df3dc
+1 BURI
+2 PLAC Энгельс, уч 75
+2 _UID 162e167b-b953-46d3-a610-4fa01c71a36a
+1 DEAT
+2 CAUS Естественная смерть / Смерть от старости
+2 DATE 14 DEC 1978
+2 PLAC Энгельс, дом престарелых
+2 _UID 9b329814-3e4f-41ee-aa57-dd5c840ee567
+1 FAMC @F7@
+1 FAMS @F114@
+0 @I285@ INDI
+1 _UID 3c6495d7-529a-48ae-acc1-c4e1c3fbde25
+1 NAME Петр /Захаренко/
+2 GIVN Петр
+1 SEX M
+1 BIRT
+2 DATE 1956
+2 PLAC Харьков, Украина
+2 _UID 39c3473b-07fd-40a0-98aa-b383e9181d0e
+1 FAMC @F89@
+0 @I286@ INDI
+1 _UID 468a4146-28f8-422e-952e-8edb19399b54
+1 NAME Николай /Мишин/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 _UID 7ec1890a-b365-4ab1-8847-91d9131cf8a3
+1 FAMS @F83@
+0 @I287@ INDI
+1 _UID 8a2f4769-e394-4f90-a922-aee0cde457a3
+1 NAME Сергей /Миронов/
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 _UID c2f67931-b204-40ec-a116-a1ed7cc4ddfd
+1 FAMC @F141@
+0 @I288@ INDI
+1 _UID 5aa94212-5956-4f25-ab2e-6504a90b4e79
+1 NAME Александр /Худяков/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 _UID c49dc460-6c00-4ad2-8db7-d83726ec68e8
+1 FAMC @F31@
+0 @I289@ INDI
+1 _UID bb0eb15b-6629-4bf7-9b37-b1e084634af7
+1 NAME Андрей /Крюков/
+2 GIVN Андрей
+1 SEX M
+1 BIRT
+2 DATE 7 JAN 1982
+2 PLAC Жигулевск
+2 _UID 6e546023-880a-4c4c-983e-58e3408c64e8
+1 FAMC @F47@
+1 FAMS @F88@
+0 @I290@ INDI
+1 _UID 75cc9665-3cc8-42a4-9a62-0deb0d513510
+1 NAME Игорь /Николаев/
+2 GIVN Игорь
+1 SEX M
+1 BIRT
+2 DATE 17 JAN 1960
+2 PLAC Холмск, Россия
+2 _UID 6b519f06-7eb3-4d5e-b847-a2664ff59abb
+1 OCCU
+2 NOTE Певец, поэт, композитор, продюсер
+2 _UID 3e725cac-00fb-4289-894d-cdc9e391ad21
+1 FAMC @F121@
+1 FAMS @F101@
+1 FAMS @F115@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/5b943caa-3036-4dac-8e28-5ee8c46f2bb1.jpg
+0 @I291@ INDI
+1 _UID f696c64b-8ae7-440e-8857-fe81601ade18
+1 NAME Наталья / (Лазунина)/
+2 GIVN Наталья
+2 SURN Лазунина
+1 SEX F
+1 BIRT
+2 _UID a89b7037-542b-43cc-aa45-0f763fab29b1
+1 FAMS @F147@
+0 @I292@ INDI
+1 _UID fa10b13e-a61e-433d-89b2-377388f8b221
+1 NAME Иван /Васильев/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 _UID 44cb9ab0-7b9b-40d2-a527-62168932a032
+1 FAMS @F19@
+0 @I293@ INDI
+1 _UID 0fdce61d-1cdf-4043-beec-37a513df0b4c
+1 NAME Иван /Оськин/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 DATE 8 JUN 1935
+2 PLAC Самара
+2 _UID 79e46b37-3d9f-4cd9-a13e-88d582c5f9fc
+1 FAMC @F131@
+1 FAMS @F140@
+0 @I294@ INDI
+1 _UID 4c765694-e0bb-4428-b3de-21258f37c3f8
+1 NAME Галина /Оськина/
+2 GIVN Галина
+2 _MARNM Оськина
+1 SEX F
+1 BIRT
+2 PLAC Самара
+2 _UID 04449a9b-05bb-45a8-b240-c0c2293cdb8c
+1 FAMS @F67@
+0 @I295@ INDI
+1 _UID 86b3b5de-1313-4cfc-8539-7cec742c76bf
+1 NAME Николай /Миронов/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 _UID 0263d830-b768-4c5a-9ca3-a865d9b040d8
+1 DEAT
+2 PLAC Шугино
+2 _UID 2f7ddc24-0963-4e35-b579-8b6aa9428644
+1 FAMC @F53@
+0 @I296@ INDI
+1 _UID fd3add01-f2c4-4829-8b94-8afdb32724ea
+1 NAME Анна /Случанко (Шеромова)/
+2 GIVN Анна
+2 SURN Шеромова
+2 _MARNM Случанко
+1 SEX F
+1 BIRT
+2 DATE 7 AUG 1989
+2 PLAC г. Тула
+2 _UID 44503e74-2097-4646-b945-eb07210e4605
+1 FAMS @F50@
+0 @I297@ INDI
+1 _UID e98584dd-7368-4280-9d1e-7453cafcb103
+1 NAME Тимофей /Марков/
+2 GIVN Тимофей
+1 SEX M
+1 BIRT
+2 DATE 21 MAR 2008
+2 PLAC Москва, Россия
+2 _UID a70d1509-4bf0-4621-bdc8-88f6d1fa15e7
+1 FAMC @F125@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/48bcfedc-ca20-4f12-af5f-538c89a4f97f.jpg
+0 @I298@ INDI
+1 _UID 3db0d4a9-81d2-43d8-9572-c987a7bba4f8
+1 NAME Мария / (Степанова)/
+2 GIVN Мария
+2 SURN Степанова
+1 SEX F
+1 BIRT
+2 _UID 799f00fa-8ca5-4ad1-8bb5-80d91fcb49ae
+1 DEAT
+2 PLAC Мурманск
+2 _UID 9ebf85e3-8aeb-418a-8e34-7ae828bf6ee3
+1 FAMC @F119@
+0 @I299@ INDI
+1 _UID cb030a34-61fc-448f-a492-e42936f18d59
+1 NAME Любовь / (Миронова)/
+2 GIVN Любовь
+2 SURN Миронова
+1 SEX F
+1 BIRT
+2 _UID 7885cb32-6ed0-4ce4-89b4-fbda3936e059
+1 FAMC @F53@
+0 @I300@ INDI
+1 _UID 94d56a89-80eb-4fe0-9125-75da4f230840
+1 NAME Сергей /Мальцев/
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 PLAC Ливны, Россия
+2 _UID dc98279d-ab3d-4713-ab3b-60b86755355b
+1 FAMC @F66@
+0 @I301@ INDI
+1 _UID 72cc89d9-7e68-49da-945f-c5825d048127
+1 NAME Юлия / (Николаева)/
+2 GIVN Юлия
+2 SURN Николаева
+1 SEX F
+1 BIRT
+2 DATE 1978
+2 PLAC Южно-Сахалинск, Россия
+2 _UID d8cad54a-b726-43a5-b4ff-b6b470a0e359
+1 OCCU
+2 NOTE Певица, композитор, актриса мюзикла
+2 _UID 90843163-d7ed-447c-ab90-e549dd02b0ce
+1 EDUC
+2 NOTE Музыкальная школа по классу фортепиано, всемирная школа искусств города Майями (США).
+2 _UID bf1d5487-d2ee-45c7-ac51-295758c67743
+1 FAMC @F115@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/ce282e00-07cd-44f7-8ae4-a158a443ace3.jpg
+0 @I302@ INDI
+1 _UID a9d5b061-a6c4-4b90-a98a-1bf60666c768
+1 NAME Фекла /Череваткин/
+2 GIVN Фекла
+2 _MARNM Череваткин
+1 SEX F
+1 BIRT
+2 _UID 825ced95-31f8-4f76-9899-12914f383064
+1 DEAT
+2 _UID a0fbfbb5-8a4b-416c-b2d5-616cfcb8676c
+1 FAMC @F127@
+1 FAMS @F7@
+0 @I303@ INDI
+1 _UID 583886d0-9ddf-482d-8c76-db4dada393f3
+1 NAME Елена / (Захаренко)/
+2 GIVN Елена
+2 SURN Захаренко
+1 SEX F
+1 BIRT
+2 DATE 29 MAR 1960
+2 PLAC Харьков, Украина
+2 _UID 9aa9142b-8d14-4feb-a501-799a17b23130
+1 RESI
+2 _UID 5269db21-1f8a-4964-ae26-5e3b990116c3
+1 FAMC @F89@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/7d9b4c77-05ad-4aee-bbec-5621f44be307.jpg
+0 @I304@ INDI
+1 _UID 3b2912a4-4ba5-45c1-b104-dc27408d0e9d
+1 NAME Сергей /Усыпнин/
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 PLAC Пермь, Россия
+2 _UID 54fa27f2-02ec-4469-bc16-1914a7370fe9
+1 FAMS @F116@
+0 @I305@ INDI
+1 _UID 4008c8f9-de53-4c41-ac45-74e08bc0ed3b
+1 NAME Игорь /Лазунин/
+2 GIVN Игорь
+1 SEX M
+1 BIRT
+2 DATE 1967
+2 PLAC Тольятти
+2 _UID d446ead4-aa21-4b54-a59d-0df3c17cd971
+1 DEAT
+2 DATE 11 AUG 2010
+2 _UID 44b79eac-3c47-4839-9297-bfd06341690c
+1 FAMC @F39@
+1 FAMS @F147@
+0 @I306@ INDI
+1 _UID 0d12ad67-3925-44bc-9e48-ae5391569a9b
+1 NAME Виктор /Ефимов/
+2 GIVN Виктор
+1 SEX M
+1 BIRT
+2 DATE 22 JUN 1937
+2 _UID 154b1bd5-bc3f-4882-a859-d5749db27146
+1 FAMS @F25@
+0 @I307@ INDI
+1 _UID 1ef6c08f-c390-46f7-891f-bc62d3db0ca1
+1 NAME Максим /Крюков/
+2 GIVN Максим
+1 SEX M
+1 BIRT
+2 DATE 24 MAY 1985
+2 PLAC Жигулевск
+2 _UID 199c92d3-f2fd-475c-ad7a-b5d9b389dd41
+1 FAMC @F47@
+0 @I308@ INDI
+1 _UID d87f72dc-44f3-47f6-936c-a26f04e3f13c
+1 NAME Андрей //
+2 GIVN Андрей
+1 SEX M
+1 BIRT
+2 _UID 5cccc64b-38db-4443-afaf-0536713a0b87
+1 FAMS @F44@
+0 @I309@ INDI
+1 _UID d714a9a2-585a-4cee-94ea-63c068360b25
+1 NAME Елена /Николаева/
+2 GIVN Елена
+2 _MARNM Николаева
+1 SEX F
+1 BIRT
+2 _UID c5e41ddf-2648-4f05-b694-fbe78b5668e7
+1 FAMS @F115@
+0 @I310@ INDI
+1 _UID c207a0af-75f9-4d83-8969-142629522831
+1 NAME Ефим /Емельянов/
+2 GIVN Ефим
+1 SEX M
+1 BIRT
+2 _UID 0606c953-eaa6-479b-a58d-ca2c760dc051
+1 DEAT
+2 _UID 79da5ab2-8dac-40a7-a25b-3fe0fee464b8
+1 FAMS @F117@
+0 @I311@ INDI
+1 _UID e6a03318-4412-4166-af17-3bbfc4dde4bd
+1 NAME Антонина /Агеева (Седякина)/
+2 GIVN Антонина
+2 SURN Седякина
+2 _MARNM Агеева
+1 SEX F
+1 BIRT
+2 DATE 25 JUN 1929
+2 PLAC д. Поджа, Вытегорский район
+2 _UID 8bedd8fb-89cd-4147-b3dc-efe819873940
+1 OCCU
+2 NOTE бухгалтер-кассир в вытегорском лесхозе
+2 _UID 1ed82fc2-8640-4e7f-8594-7c5395160227
+1 EDUC
+2 NOTE 7 классов образование
+2 _UID 0b681372-9f55-443d-975b-d6e76f8015b7
+1 FAMC @F110@
+1 FAMS @F60@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/53ccc684-1a5d-428d-a5d1-843664951767.jpg
+0 @I312@ INDI
+1 _UID 34c08b10-11cb-4d51-8b1c-3e652eb385bd
+1 NAME Итальянец //
+2 GIVN Итальянец
+1 SEX M
+1 BIRT
+2 PLAC Италия
+2 _UID 6b907ab4-e7a4-423a-b6bb-f8f48bad7f3e
+1 FAMS @F113@
+0 @I313@ INDI
+1 _UID cb726d4c-fa07-4ead-a328-2d14bf65795e
+1 NAME Муж /Сторожов/
+2 GIVN Муж
+1 SEX M
+1 BIRT
+2 _UID 24c9b1e1-3652-4258-a94e-8ffc8e2487cb
+1 DEAT
+2 _UID ed5eca84-f30a-4f5b-817b-23d2e38f499e
+1 FAMS @F118@
+0 @I314@ INDI
+1 _UID 0fc386dd-008e-46a8-ac67-7e379ad0a11e
+1 NAME Ольга / (Носовская)/
+2 GIVN Ольга
+2 SURN Носовская
+1 SEX F
+1 BIRT
+2 _UID 30c29ecf-9c80-4d22-98b8-966dc0049704
+1 RESI
+2 _UID 736b7016-3312-4cc7-a075-462aabfd8a0f
+1 FAMC @F87@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/4dffa924-8ca3-4944-a30e-b679b144e1d0.jpg
+0 @I315@ INDI
+1 _UID 306c541c-52bb-4237-8d31-67243b65a34c
+1 NAME Лилия / (Красова)/
+2 GIVN Лилия
+2 SURN Красова
+1 SEX F
+1 BIRT
+2 DATE 1996
+2 _UID 34a4a62e-78d4-4bbd-a7cd-8bed1646af28
+1 FAMC @F146@
+0 @I316@ INDI
+1 _UID 5b5a6a01-846a-436c-a8be-415d632cc43f
+1 NAME Алексей /Степанов/
+2 GIVN Алексей
+1 SEX M
+1 BIRT
+2 _UID 15851bee-a13f-406d-9347-857400c2a4b7
+1 DEAT
+2 _UID 57bc73a7-1443-408b-ba39-69455971835b
+1 FAMS @F119@
+0 @I317@ INDI
+1 _UID a2a649cd-5bdb-4a3d-bf81-bc6f0981cff6
+1 NAME Надежда / (Миронова)/
+2 GIVN Надежда
+2 SURN Миронова
+1 SEX F
+1 BIRT
+2 _UID 8c5cde3a-674b-414a-94a9-491d681355e1
+1 RESI
+2 _UID 3a6b1cc2-3664-4ec4-b2b3-fc4a118a4370
+1 FAMC @F53@
+1 FAMS @F136@
+0 @I318@ INDI
+1 _UID 565ba5f6-a613-484d-b863-af7b5dd8cea5
+1 NAME Владимир //
+2 GIVN Владимир
+1 SEX M
+1 BIRT
+2 _UID b72221c9-f4c7-4f21-8018-3e1aa9bca1ef
+1 FAMS @F103@
+0 @I319@ INDI
+1 _UID e81471c1-ef40-421b-92b7-ab48c6cee53a
+1 NAME Варвара / (Череваткин)/
+2 GIVN Варвара
+2 SURN Череваткин
+1 SEX F
+1 BIRT
+2 _UID c7612bdc-c717-458a-bdf3-553a652eb9f2
+1 FAMC @F7@
+0 @I320@ INDI
+1 _UID 4df8c6cb-ae43-4094-8dd7-08cc74a07d2c
+1 NAME Володя /Федоров/
+2 GIVN Володя
+1 SEX M
+1 BIRT
+2 PLAC Самара
+2 _UID 1ffe16f1-1dc4-4d89-8da3-0b011b472ce7
+1 FAMC @F5@
+1 FAMS @F152@
+0 @I321@ INDI
+1 _UID 651f67cb-0dec-4553-a55a-111f5e67a02a
+1 NAME Людмила /Пронина (Петрова)/
+2 GIVN Людмила
+2 SURN Петрова
+2 _MARNM Пронина
+1 SEX F
+1 BIRT
+2 DATE 22 JUL 1936
+2 PLAC с. Андома Андомский р-н
+2 _UID ef052c67-ac4d-46d1-9793-d860172009ac
+1 RESI
+2 PLAC ул. Орлова
+2 _UID 25b15bc7-65ca-4435-9009-376f0d8f21e3
+1 OCCU
+2 NOTE учитель немецкого языка
+2 _UID 35cc07ba-d527-43c1-9e74-12f031b33edc
+1 DEAT
+2 DATE DEC 2014
+2 PLAC Белозерск
+2 _UID 8ba56ec5-5eec-41b0-88f3-bdab969fb964
+1 EDUC
+2 DATE 1958
+2 PLAC Череповецкий пед инст
+2 NOTE высшее
+2 _UID 5aaa04c2-4ff8-40a9-a511-35b2e051e790
+1 FAMC @F95@
+1 FAMS @F92@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/2920e188-06fe-4b7d-bb03-ea36006fee46.jpg
+0 @I322@ INDI
+1 _UID 59e9734b-de09-4d90-b557-eeb3de86c33d
+1 NAME Мария /Столярова (Николаева)/
+2 GIVN Мария
+2 SURN Николаева
+2 _MARNM Столярова
+1 SEX F
+1 BIRT
+2 DATE 8 JAN 1991
+2 PLAC Москва, Россия
+2 _UID b8fcdc03-9e50-4763-96cc-3ac722e2b5fe
+1 FAMC @F43@
+1 FAMS @F111@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/4848d17a-f595-41be-b417-cb77d4995815.jpg
+0 @I323@ INDI
+1 _UID 1bc70ed6-d42c-4362-99b5-b7162c62c774
+1 NAME Андрей /Череваткин/
+2 GIVN Андрей
+1 SEX M
+1 NOTE пропал без вести
+1 BIRT
+2 _UID 1054a46b-adc3-4c49-803d-d9020909606f
+1 FAMC @F7@
+0 @I324@ INDI
+1 _UID 9c7c8610-b956-4e5c-b276-243f2005f3ae
+1 NAME Василий /Фочкин (Куцъ)/
+2 GIVN Василий
+1 SEX M
+1 BIRT
+2 DATE ABT 1986
+2 PLAC Саратов, Россия
+2 _UID c3d7652b-b49f-4482-a254-fbc692bf308b
+1 FAMC @F142@
+0 @I325@ INDI
+1 _UID e5d836ca-f471-4ea5-81bf-95c154651f29
+1 NAME Нина /Коромыслова (Полухина)/
+2 GIVN Нина
+2 SURN Полухина
+2 _MARNM Коромыслова
+1 SEX F
+1 BIRT
+2 DATE 15 OCT 1948
+2 PLAC д. Никольская гора
+2 _UID f98c0682-afd5-4646-8f06-e543d760d371
+1 RESI
+2 PLAC ул. Гоголя, 2
+2 _UID c6a964c6-0428-4ed4-9309-0dd1a76b2207
+1 OCCU
+2 NOTE медсестра
+2 _UID 81554ca3-5963-4365-9bc1-80e9fd54a7ae
+1 RESI
+2 _UID f0c012ac-f908-4907-b04c-f2343bc62bea
+1 EDUC
+2 PLAC Ленинградское медучилище
+2 _UID b3c1d14f-2cb6-4dc6-be23-89b64853fa04
+1 FAMC @F77@
+1 FAMS @F79@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/ea803603-a354-4639-b8f5-2e61c4b1a2e7.jpg
+0 @I326@ INDI
+1 _UID 21a8cd16-f5de-4107-b7a8-0d3d75fcf717
+1 NAME Ксения / (Гончарова)/
+2 GIVN Ксения
+2 SURN Гончарова
+1 SEX F
+1 NOTE |  Пепельный Brown 58 175
+1 BIRT
+2 DATE 9 APR 1979
+2 PLAC Саратов, Россия
+2 _UID 88f6a4c4-17b6-446b-91b9-1364e0ed7121
+1 OCCU
+2 NOTE аналитик
+2 _UID 11194686-bb6f-4510-a69c-1c3623765648
+1 RESI
+2 _UID 3e53e551-b0be-49bb-b601-f3e5ba234f5c
+1 EDUC
+2 DATE 25 JUN 2001
+2 PLAC СГУ им. Н.Г. Чернышевского
+2 NOTE физика
+2 _UID 55b7354b-f627-427a-891e-94e4e14d53ba
+1 RESI
+2 _UID 6ebb8d88-a01d-46d9-892e-9daae1e2005b
+1 FAMC @F41@
+1 FAMS @F120@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/33b21bcd-3d0c-459f-ba00-634738bb14aa.jpg
+0 @I327@ INDI
+1 _UID 3b3b2afc-379e-4f09-8d6a-a534ccf78c1a
+1 NAME Татьяна /Усыпнина (Булатникова)/
+2 GIVN Татьяна
+2 SURN Булатникова
+2 _MARNM Усыпнина
+1 SEX F
+1 BIRT
+2 DATE 9 DEC 1970
+2 PLAC Ливны, Россия
+2 _UID f4f6ae7d-80b7-4dd9-a07b-6ee618b89954
+1 RESI
+2 _UID 29864db7-32c1-4154-8e7e-52830c16e32b
+1 RESI
+2 _UID cc0f8181-b0e4-45d6-9c8e-ce7db5ecb26a
+1 RESI
+2 _UID 89c07c65-d28c-4599-82aa-90e3bd448b6e
+1 FAMC @F1@
+1 FAMS @F116@
+0 @I328@ INDI
+1 _UID db94e4bb-337f-40b8-9f77-880afefd841e
+1 NAME Прасковья /Теплов/
+2 GIVN Прасковья
+2 _MARNM Теплов
+1 SEX F
+1 BIRT
+2 _UID d9b39c56-507c-430a-ac18-d5a929ada8ff
+1 FAMS @F18@
+0 @I329@ INDI
+1 _UID 212d00bc-877a-4b77-b531-7ea0e249531e
+1 NAME Николай /Захаренко/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 DATE 25 MAY 1929
+2 PLAC с. Остапье, Полтавская обл., Украина
+2 _UID 4bef8299-e695-427a-a8c4-910ac8f4e388
+1 FAMC @F40@
+1 FAMS @F37@
+0 @I330@ INDI
+1 _UID 1527111b-e70b-4db8-9b56-f37aab81fd2f
+1 NAME Николай /Хазов/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 _UID 8ab51f8d-7623-4f98-b9e3-d6976381ca78
+1 DEAT
+2 _UID c0af280e-442d-4d45-b74c-18a4b6d45767
+1 FAMS @F112@
+0 @I331@ INDI
+1 _UID 3c6959c5-124a-4cff-aac9-2c5884878961
+1 NAME Светлана /Николаева/
+2 GIVN Светлана
+2 _MARNM Николаева
+1 SEX F
+1 BIRT
+2 DATE @#DJULIAN@ 12 JUN 1936
+2 _UID f06913dc-bc12-49cc-a1cb-b6d263f7c721
+1 FAMS @F121@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/434e8d66-ceb6-4065-9b7c-70d502f39979.jpg
+0 @I332@ INDI
+1 _UID 61d6036e-fdb0-4db9-9dc1-1fceba03b39a
+1 NAME Олег //
+2 GIVN Олег
+1 SEX M
+1 BIRT
+2 _UID 1f0d81d9-4a85-4220-98f0-87db0205942e
+1 FAMC @F150@
+0 @I333@ INDI
+1 _UID 76aaebfc-739d-4dc3-8ce0-d2a74072d431
+1 NAME Антонина /Носовская (Петрова)/
+2 GIVN Антонина
+2 SURN Петрова
+2 _MARNM Носовская
+1 SEX F
+1 BIRT
+2 DATE 29 JAN 1956
+2 PLAC Вытегра, Россия
+2 _UID 0840ef48-627d-4665-9e3a-94fa0205db23
+1 OCCU
+2 NOTE техник на строительстве дорог
+2 _UID 2dcca219-dbf0-4209-ad63-4e34057a015a
+1 RESI
+2 _UID d2658287-d46a-4406-92c2-957299b8fc61
+1 FAMC @F36@
+1 FAMS @F87@
+0 @I334@ INDI
+1 _UID 69a2028c-2af7-47ee-a127-4bbaadbc9673
+1 NAME Марина /Случанко (Оськина)/
+2 GIVN Марина
+2 SURN Оськина
+2 _MARNM Случанко
+1 SEX F
+1 BIRT
+2 DATE 16 AUG 1960
+2 PLAC Самара
+2 _UID 20e2c5b8-8f5d-4198-9acc-3e0d37292c48
+1 FAMC @F140@
+1 FAMS @F76@
+0 @I335@ INDI
+1 _UID 7033177a-276d-4358-8fd7-0c063be84207
+1 NAME ? / (Федоров)/
+2 GIVN ?
+2 SURN Федоров
+1 SEX F
+1 BIRT
+2 _UID fa1b079c-a145-47ae-a7be-d2c1c5e55b8d
+1 FAMS @F152@
+0 @I336@ INDI
+1 _UID 1f792789-b683-4d79-b6d3-8e9bed47956a
+1 NAME Андрей /Теплов/
+2 GIVN Андрей
+1 SEX M
+1 BIRT
+2 DATE 10 DEC 1960
+2 PLAC Саратов, Россия
+2 _UID 6a722677-974b-4ca8-8fee-cd730e0f4725
+1 OCCU
+2 NOTE музыкант
+2 _UID b734e79b-1811-40ab-9396-df758f382f38
+1 FAMC @F54@
+1 FAMS @F59@
+1 FAMS @F135@
+0 @I337@ INDI
+1 _UID 091284d7-fb8d-4a22-afb6-bb6aedfe0762
+1 NAME Анастасия /Никитина (Арчегова)/
+2 GIVN Анастасия
+2 SURN Арчегова
+2 _MARNM Никитина
+1 SEX F
+1 BIRT
+2 DATE 27 MAR 1983
+2 _UID 7d3cd8b9-c362-40f6-a32b-4d05543797c9
+1 FAMC @F161@
+1 FAMS @F49@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/0ec7738f-8374-425a-98b9-157fa74e9411.jpg
+0 @I338@ INDI
+1 _UID b2e28780-330e-4412-9f66-bfdba2cb7351
+1 NAME Семен /Гончаров/
+2 GIVN Семен
+1 SEX M
+1 BIRT
+2 _UID 649f7686-df98-4dfc-a3c6-0161b2e8889d
+1 FAMS @F122@
+0 @I339@ INDI
+1 _UID 40a237da-8e15-4437-b5fd-2941c3d0ad2b
+1 NAME Екатерина / (Сторожова)/
+2 GIVN Екатерина
+2 SURN Сторожова
+1 SEX F
+1 BIRT
+2 PLAC Самара
+2 _UID 4d052ff6-4214-4327-b0ef-b4c3d7fb9fef
+1 DEAT
+2 _UID ee4455cc-38d0-44a8-ad02-a2f2e3a7c3e7
+1 FAMC @F118@
+0 @I340@ INDI
+1 _UID 03e6f760-ec2d-49c3-ae0a-78e1f14c3887
+1 NAME Иван /Вишняк/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 _UID ca8fed1b-d51e-4503-9e89-0443c082152e
+1 FAMC @F159@
+0 @I341@ INDI
+1 _UID f5f29e02-5d9b-4b0d-8670-14bfc38e0dbd
+1 NAME Светлана / (Малышенко)/
+2 GIVN Светлана
+2 SURN Малышенко
+1 SEX F
+1 BIRT
+2 DATE 27 SEP 1966
+2 _UID 1835696f-f0c5-4ec2-b3ec-7d9ca8e3733d
+1 DEAT
+2 DATE 1 AUG 1979
+2 PLAC Вознесение, Россия
+2 _UID cd0c9d0c-0598-4af0-a489-e3e2e53ad94f
+1 FAMC @F10@
+0 @I342@ INDI
+1 _UID 93c6c6e1-7d0e-4863-b11d-894ee2d74ca9
+1 NAME Елена /Крюкова (Маркова)/
+2 GIVN Елена
+2 SURN Маркова
+2 _MARNM Крюкова
+1 SEX F
+1 BIRT
+2 DATE 29 MAY 1989
+2 _UID 82f774de-ba15-4c5f-afdc-484dac138ca5
+1 FAMC @F102@
+1 FAMS @F80@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/d438d183-735e-491d-9467-cf67af0dd4c5.jpg
+0 @I343@ INDI
+1 _UID eea80cd5-e264-4b6d-8f9d-0a72f4fae8f0
+1 NAME Александра /Мальцева (Маркова)/
+2 GIVN Александра
+2 SURN Маркова
+2 _MARNM Мальцева
+1 SEX F
+1 BIRT
+2 _UID f17a19cb-87b3-4c10-b145-36146906e7ff
+1 FAMC @F46@
+1 FAMS @F66@
+0 @I344@ INDI
+1 _UID c2b156c8-de16-45d5-be53-2d7870d650a2
+1 NAME Константин /Филлипов/
+2 GIVN Константин
+1 SEX M
+1 BIRT
+2 DATE 16 MAR 1905
+2 _UID e518fb7f-47f9-4486-83af-a5563ef3b0e0
+1 BURI
+2 PLAC Елшанка, уч.106
+2 _UID 0cd9362b-b142-40db-b582-233254bea239
+1 DEAT
+2 CAUS Рак
+2 DATE 30 OCT 1983
+2 PLAC Саратов, Россия
+2 _UID 332efcb9-64a3-45d4-b352-078517cfcc45
+1 FAMC @F114@
+1 FAMS @F94@
+0 @I345@ INDI
+1 _UID 682e5c6a-929a-41f5-9051-684e27ff8b88
+1 NAME Юрий /Николаев/
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 DATE 28 JUL 1935
+2 _UID 64250d8b-04d8-4682-93e7-2d94b26a88a3
+1 DEAT
+2 DATE 5 JUL 1981
+2 _UID 8c47d8a6-666f-42c7-9c93-11d7bc71a488
+1 FAMC @F107@
+1 FAMS @F121@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/bc1664bf-35eb-46d7-b70e-130cb7814803.jpg
+0 @I346@ INDI
+1 _UID cc4d637f-74c4-4ecf-a472-4b8128991241
+1 NAME Ирина / (Федорова)/
+2 GIVN Ирина
+2 SURN Федорова
+1 SEX F
+1 BIRT
+2 PLAC Самара
+2 _UID 1f7e1cae-55b8-4496-bc57-051da24dd116
+1 FAMC @F5@
+0 @I347@ INDI
+1 _UID 09c4a61a-a6e6-473c-b849-3fe85a72dcd2
+1 NAME Андрей /Агеев/
+2 GIVN Андрей
+1 SEX M
+1 BIRT
+2 DATE 2 NOV 1988
+2 PLAC с. Белоусово
+2 _UID ade33462-9904-42c4-a5ae-0bdccabbdb53
+1 EDUC
+2 DATE 2011
+2 PLAC Петрозаводский государственный университет
+2 NOTE высшее
+2 _UID 2a83f910-2706-422d-bc72-ac3a0ab00de8
+1 RESI
+2 _UID 28031323-15b4-4d0f-97f3-f06c4cb9076a
+1 RESI
+2 _UID 00bb70ea-1942-4b08-a3fe-08762fcdc2e2
+1 FAMC @F123@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/479f3d38-6875-42d0-9b87-a2323c7f5c13.jpg
+0 @I348@ INDI
+1 _UID fdd37490-2567-4088-b2ed-fefba14f2006
+1 NAME Прохор Миронович /Миронов/
+2 GIVN Прохор Миронович
+1 SEX M
+1 BIRT
+2 _UID 872204a8-85ed-4320-8e9d-5038b1cd7bc2
+1 DEAT
+2 PLAC д. Масеево
+2 _UID f1189edf-a8bd-4ed5-9bd3-0202951be688
+1 FAMS @F29@
+0 @I349@ INDI
+1 _UID b4068422-9288-4a3d-bf52-68ef6513f69a
+1 NAME Миша //
+2 GIVN Миша
+1 SEX M
+1 BIRT
+2 _UID ff6e6755-69c9-493b-ab46-9568a1970415
+1 FAMC @F150@
+0 @I350@ INDI
+1 _UID 69fb4851-c3a2-4645-bedb-5d781a39f096
+1 NAME Светлана /Агеева/
+2 GIVN Светлана
+2 _MARNM Агеева
+1 SEX F
+1 BIRT
+2 DATE 6 JUL 1953
+2 _UID 9a9d99e6-2fbe-4559-871c-a5bf72e5adf0
+1 OCCU
+2 NOTE медсестра
+2 _UID 65e4399e-3659-4694-85e4-a1b757daa01e
+1 FAMS @F123@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/94811efa-5be1-4883-bc44-26302145a3c7.jpg
+0 @I351@ INDI
+1 _UID 4f3ccc60-9800-490a-9ef6-db95d8fd59f7
+1 NAME Ирина /Пронина (Мороз)/
+2 GIVN Ирина
+2 SURN Мороз
+2 _MARNM Пронина
+1 SEX F
+1 BIRT
+2 DATE 12 JUL 1960
+2 PLAC Березняки, Пермская область
+2 _UID 07e06dd6-c585-4671-9ee6-1281144877db
+1 FAMS @F85@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/b8558fc2-053f-483d-8617-796b7ae474dc.jpg
+0 @I352@ INDI
+1 _UID 00b436c0-e839-4582-946a-6c21137c018c
+1 NAME Таисия /Нестерова (Седякина)/
+2 GIVN Таисия
+2 SURN Седякина
+2 _MARNM Нестерова
+1 SEX F
+1 BIRT
+2 DATE 27 OCT 1926
+2 PLAC д. Поджа, Вытегорский район
+2 _UID 7a0e9818-23bc-4a09-be12-039d32659245
+1 OCCU
+2 NOTE учительница начальных классов
+2 _UID 73bbcfd9-5516-4ba4-a281-abeb6a03c84e
+1 DEAT
+2 CAUS Сердечный приступ
+2 DATE 11 OCT 1997
+2 PLAC Вытегра, Россия
+2 _UID c1884601-a130-4531-a638-7387b95b2e56
+1 EDUC
+2 PLAC Вытегорское пед училище
+2 NOTE среднее
+2 _UID 94148a66-ca40-481e-bbb5-8745e01a1125
+1 FAMC @F110@
+1 FAMS @F74@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/fd3a167f-1164-4ee5-94f1-5c516d23f64c.jpg
+0 @I353@ INDI
+1 _UID 0506bdf6-3933-4056-bb4f-a2963128b687
+1 NAME Татьяна /Пашинина/
+2 GIVN Татьяна
+2 _MARNM Пашинина
+1 SEX F
+1 BIRT
+2 _UID edee48c0-a3a9-408b-b12b-add7f340dfa4
+1 FAMS @F124@
+0 @I354@ INDI
+1 _UID 916cbd4a-ca75-41cf-8fa9-144ebbb92342
+1 NAME Ольга /Жукова (Нестерова)/
+2 GIVN Ольга
+2 SURN Нестерова
+2 _MARNM Жукова
+1 SEX F
+1 BIRT
+2 DATE 16 FEB 1957
+2 PLAC Вытегра, Россия
+2 _UID 0621a39d-42e8-4f3c-ac8d-47f8b80afa9d
+1 RESI
+2 _UID 489ef426-67c5-4830-8efb-59a381db52f5
+1 OCCU
+2 NOTE учитель английского
+2 _UID 6df26d4a-0f0d-497e-9b52-b5f8a5734450
+1 RESI
+2 _UID 9fffa8ad-d2f0-4ce5-9a2c-5159aedcddf5
+1 RESI
+2 PLAC ул. Клюквина, д.3 кв.77
+2 _UID eb2ea3ec-4660-4c36-b0c5-19404f925bc7
+1 EDUC
+2 PLAC Вологодский ПедИнст
+2 NOTE высшее
+2 _UID 85a30060-31cd-4807-a105-50ca9847c2e3
+1 FAMC @F74@
+1 FAMS @F98@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/0a67e0d5-445a-45c9-8664-3df15dcdc1f9.jpg
+0 @I355@ INDI
+1 _UID f368d3ec-3549-4728-a948-ab0c671e8ab1
+1 NAME Мария /Занина (Маркова)/
+2 GIVN Мария
+2 SURN Маркова
+2 _MARNM Занина
+1 SEX F
+1 BIRT
+2 _UID 4e64d7b5-10ed-4f1a-baf2-c385c9fe5052
+1 FAMC @F46@
+1 FAMS @F11@
+0 @I356@ INDI
+1 _UID f5d00e2b-7a18-4316-ba57-d9be663c4594
+1 NAME Олег /Красов/
+2 GIVN Олег
+1 SEX M
+1 BIRT
+2 DATE 1964
+2 _UID 597ad978-827d-4a12-b844-b6077920fb1f
+1 FAMC @F42@
+1 FAMS @F146@
+0 @I357@ INDI
+1 _UID 57448045-4876-4d33-acfb-cea1ab17dfda
+1 NAME Петр /Агеев/
+2 GIVN Петр
+1 SEX M
+1 BIRT
+2 DATE 6 APR 1957
+2 PLAC д. Анхимово
+2 _UID 5629bb9d-54b7-43d5-8959-934c1d449a04
+1 OCCU
+2 NOTE водитель
+2 _UID 8466266b-c656-4036-8333-c7ec6aaeb3e1
+1 EDUC
+2 NOTE среднее
+2 _UID cb1865d3-9a58-472c-936b-746131135a8c
+1 RESI
+2 _UID f09df425-7786-41f1-863c-924fc40eae9c
+1 FAMC @F60@
+1 FAMS @F123@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/d6039c67-a675-48d8-8758-2b7a973f6edb.jpg
+0 @I358@ INDI
+1 _UID fb879f1d-64aa-408a-b2d1-58662c1e9237
+1 NAME Неизвестно /Васильев (Неизвестно)/
+2 GIVN Неизвестно
+2 SURN Неизвестно
+2 _MARNM Васильев
+1 SEX F
+1 NOTE Сидела в тюрьме, там ослепла, конце отравилась
+1 BIRT
+2 _UID 9f39dd94-31e9-4585-acf8-d1c31f2f6f40
+1 FAMS @F108@
+0 @I359@ INDI
+1 _UID 11202cfc-70ee-4321-b3dd-917645174646
+1 NAME Нина / (Емельянова)/
+2 GIVN Нина
+2 SURN Емельянова
+1 SEX F
+1 NOTE умерла подростком - заболевание
+1 BIRT
+2 _UID 8b809e72-fcdd-49ce-8b26-9a29c6b27443
+1 FAMC @F61@
+0 @I360@ INDI
+1 _UID 5a538f9e-0f83-40e4-8055-bb31fdd4d7eb
+1 NAME Григорий /Филлипов/
+2 GIVN Григорий
+1 SEX M
+1 BIRT
+2 PLAC Базарный Карбулак
+2 _UID dfd26b44-aea8-43f2-8430-b3c270383b9f
+1 OCCU
+2 NOTE волостной писарь, служил в Саратове
+2 _UID 940ddf9c-8152-47ed-b49e-8a87ebfcc6f5
+1 DEAT
+2 CAUS Причина неизвестна
+2 DATE 2 JAN 1906
+2 _UID 6d6d1de1-f985-4fe5-a4f2-31e9c442559f
+1 FAMC @F51@
+1 FAMS @F114@
+0 @I361@ INDI
+1 _UID 5bafff27-e124-4e46-a804-81a3547890bf
+1 NAME Елена / (Кардаш)/
+2 GIVN Елена
+2 SURN Кардаш
+1 SEX F
+1 BIRT
+2 DATE 4 JAN 1994
+2 PLAC Вытегра, Россия
+2 _UID f94cb92a-d116-4f7f-b59d-ce403daa0921
+1 RESI
+2 _UID 2421c843-5ab9-4287-be1a-a6c58fe6379d
+1 FAMC @F162@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/2260e285-6588-44a4-b82a-af06cb9b54ad.jpg
+0 @I362@ INDI
+1 _UID e688e0dd-4347-4045-a397-1bf7d45675d6
+1 NAME Илья /Пашинин/
+2 GIVN Илья
+1 SEX M
+1 BIRT
+2 _UID a8553b5b-d4bc-460e-b109-1f34ccd6e77b
+1 FAMS @F124@
+0 @I363@ INDI
+1 _UID 24e77518-fe66-4cf4-911a-e1a428e9445b
+1 NAME Виталий /Потюпкин/
+2 GIVN Виталий
+1 SEX M
+1 BIRT
+2 DATE 26 SEP 1952
+2 PLAC Санкт-Петербург, Россия
+2 _UID e8cb4791-237e-42ba-b12e-9af4e7207bc5
+1 FAMS @F64@
+0 @I364@ INDI
+1 _UID 2fe9b6b2-67ea-4c7f-af43-27998bfa6532
+1 NAME Иван /Череваткин/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 _UID e2889de3-b749-4f56-aec4-8b88c6bf0b36
+1 FAMC @F7@
+0 @I365@ INDI
+1 _UID 05a42365-1e1f-452e-ac21-1b5a80cfeb92
+1 NAME Дмитрий /Марков/
+2 GIVN Дмитрий
+1 SEX M
+1 NOTE |  Brown 92 185
+1 BIRT
+2 DATE 9 JUN 1979
+2 PLAC Москва, Россия
+2 _UID 3319ab2f-5e96-4b96-b877-754bd24a720c
+1 RESI
+2 _UID 558de82c-9194-4166-a0d6-7f95d310f941
+1 RESI
+2 _UID 91b6c41b-ad1f-4756-b355-82866782a172
+1 OCCU
+2 NOTE Специалист по информационным технологиям
+2 _UID 77461811-4586-4293-b7b8-80b6f58df5da
+1 EDUC
+2 DATE 1 MAR 2002
+2 PLAC Московский Институт Радитехники, Электроники и Автоматики
+2 NOTE Инженер-системотехник
+2 _UID 92c6d728-ce3a-40ea-bdca-df67f07eaee7
+1 RESI
+2 _UID aa738a09-0844-4fce-9cc4-6445d693a642
+1 RESI
+2 _UID 778ac82c-b435-404a-85b6-15b4c2b342ae
+1 FAMC @F102@
+1 FAMS @F120@
+1 FAMS @F125@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/8a67e10b-1db2-49db-9089-996dd55551cf.jpg
+0 @I366@ INDI
+1 _UID 6650fa63-1ef1-493b-869a-66ef347bce2b
+1 NAME ? / (Акимова)/
+2 GIVN ?
+2 SURN Акимова
+1 SEX F
+1 BIRT
+2 _UID 8ab0ab42-d638-4d86-bb97-a0935f9b3a19
+1 DEAT
+2 _UID 9c00b71a-724c-44ed-98c3-7b38ade3bdbe
+1 FAMS @F118@
+0 @I367@ INDI
+1 _UID 50c69ebf-63f0-4987-b34e-8474cd51221e
+1 NAME Ксюша / (Пронина)/
+2 GIVN Ксюша
+2 SURN Пронина
+1 SEX F
+1 BIRT
+2 DATE 27 JUL 1986
+2 PLAC Королев, МО
+2 _UID 9c650b47-c1cd-4923-bb1a-de47b5d71a27
+1 RESI
+2 _UID 12694f71-059d-47ab-8797-15fc4217bc79
+1 FAMC @F85@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/8dfb121e-b8ec-4067-9e18-84fb21d9643b.jpg
+0 @I368@ INDI
+1 _UID 909d930a-218f-4c8a-a3df-3962c33cf444
+1 NAME Анна /Степанова (Миронова)/
+2 GIVN Анна
+2 SURN Миронова
+2 _MARNM Степанова
+1 SEX F
+1 BIRT
+2 DATE 1900
+2 PLAC д. Косино
+2 _UID 8e8b25df-fb0f-46ed-8d70-5f4bfc6e821f
+1 DEAT
+2 PLAC Лыткарино
+2 _UID 312ddb07-7a6d-4c01-8414-6be9fb2e8526
+1 FAMC @F29@
+1 FAMS @F119@
+0 @I369@ INDI
+1 _UID dffc5408-de4a-4add-992b-66d2adcc8782
+1 NAME Николай /Оськин/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 DATE 12 FEB 1937
+2 PLAC Самара
+2 _UID 934a82ea-5b9f-49f6-8606-dba9248cd495
+1 FAMC @F131@
+1 FAMS @F20@
+0 @I370@ INDI
+1 _UID 1bec1a16-47ea-4a5e-9d1d-d576a8ed7d75
+1 NAME Владимир /Коромыслов/
+2 GIVN Владимир
+1 SEX M
+1 BIRT
+2 DATE 20 JAN 1976
+2 PLAC Вытегра, Россия
+2 _UID 807b64e8-5e88-46e4-981b-c314975def24
+1 RESI
+2 _UID 1bd91814-990a-4455-a78d-62c1fc025eb8
+1 FAMC @F79@
+1 FAMS @F3@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/a37c84dc-edc9-4f2b-a92c-63bf40ddbe54.jpg
+0 @I371@ INDI
+1 _UID 8644d050-a48b-40a9-9936-5c2a34f7a657
+1 NAME Иван /Пронин/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 _UID b6c0eff8-8ae1-4170-923a-08a4a43c4221
+1 FAMS @F126@
+0 @I372@ INDI
+1 _UID 1d7fbbd6-9385-42d4-9a6e-f789262a9d98
+1 NAME Лидия / (Усыпнина)/
+2 GIVN Лидия
+2 SURN Усыпнина
+1 SEX F
+1 BIRT
+2 PLAC Пермь, Россия
+2 _UID fb803765-079d-4dd8-a564-805dca90bed8
+1 FAMC @F116@
+0 @I373@ INDI
+1 _UID 549aac1b-4a43-400a-99bc-279ea5a4f195
+1 NAME Полина / (Коромыслова)/
+2 GIVN Полина
+2 SURN Коромыслова
+1 SEX F
+1 BIRT
+2 DATE 20 APR 1999
+2 PLAC Вытегра, Россия
+2 _UID ae1bda18-0f2a-4270-87ca-c57c30dc40ae
+1 RESI
+2 _UID b8ec425c-6c49-470f-a8a2-c1e86cbaf8a3
+1 FAMC @F3@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/ec29fda6-15b6-4d0e-bfec-0fc14ae8f474.jpg
+0 @I374@ INDI
+1 _UID ec502851-d65f-46c7-8c54-6fa0d89878d6
+1 NAME Денис /Бабий/
+2 GIVN Денис
+1 SEX M
+1 BIRT
+2 _UID 0c1ca2e9-07c8-4175-a4a0-9f2a32b17f47
+1 FAMC @F55@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/a5671743-0d54-4fd5-b8af-82afb7d1d87f.jpg
+0 @I375@ INDI
+1 _UID 2ad359c1-f27e-409a-90eb-14927b42d196
+1 NAME Ирина /Кардаш (Коромыслова)/
+2 GIVN Ирина
+2 SURN Коромыслова
+2 _MARNM Кардаш
+1 SEX F
+1 BIRT
+2 DATE 22 OCT 1969
+2 PLAC Вытегра, Россия
+2 _UID d491f1c5-5b0a-4e52-8d62-1843f5c395eb
+1 RESI
+2 _UID a60ff151-b0f3-4d64-9198-a40af5bc42d1
+1 OCCU
+2 NOTE учитель истории и права
+2 _UID 0bfdd482-9d7a-41c4-823c-c18d89e5d317
+1 RESI
+2 PLAC ул. Колюрова, 22/17
+2 _UID d910b499-a0b3-4e28-aae5-5624b6e36229
+1 RESI
+2 _UID b293df9d-9ecb-4602-89bc-dc5d350a3654
+1 FAMC @F79@
+1 FAMS @F162@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/93a88805-5201-4259-9b8d-b82059b0726a.jpg
+0 @I376@ INDI
+1 _UID dc076bd5-6a57-43ed-b398-a64d2c6ad5f1
+1 NAME Иван /Николаев/
+2 GIVN Иван
+1 SEX M
+1 BIRT
+2 DATE 1 SEP 1900
+2 _UID e579a564-f0cb-4434-afa2-d227fcdd0a3a
+1 DEAT
+2 _UID be4110b2-a3e3-4c12-8aa7-759db26fff78
+1 FAMC @F106@
+1 FAMS @F107@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/65c5b91b-4734-41fd-9223-21a0fe990375.jpg
+0 @I377@ INDI
+1 _UID 33344ed4-e63e-4bbf-9395-8c2695a23b6f
+1 NAME Татьяна / (Степанова)/
+2 GIVN Татьяна
+2 SURN Степанова
+1 SEX F
+1 BIRT
+2 _UID 1aa45ad6-1ce7-4b8d-aada-4aa2123ded6b
+1 RESI
+2 _UID 87594cc9-7f0a-422f-a663-1aeb47be22c3
+1 FAMC @F163@
+0 @I378@ INDI
+1 _UID 3c44c9e1-09c0-405c-a7b9-61e7cb689696
+1 NAME Юрий /Степаненко/
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 _UID 0e9e609f-0018-40ca-a2e3-166f68347f6b
+1 FAMS @F109@
+0 @I379@ INDI
+1 _UID 27250463-c4cb-4b21-a93f-a121899a1e6d
+1 NAME Алина / (Миронов)/
+2 GIVN Алина
+2 SURN Миронов
+1 SEX F
+1 BIRT
+2 DATE 17 MAR 2002
+2 PLAC Тюмень, Россия
+2 _UID 0e7d874d-e222-43d1-9a46-869ce7d1e3c8
+1 FAMC @F57@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/35fed909-0f34-463d-b71e-8e6ddb810140.jpg
+0 @I380@ INDI
+1 _UID bb0ca78e-e036-4882-9884-f5cec5fe37fa
+1 NAME Первая Супруга //
+2 GIVN Первая Супруга
+1 SEX F
+1 BIRT
+2 _UID 12a3be4d-27f2-46a7-82c5-00b2a714b07b
+1 FAMS @F97@
+0 @I381@ INDI
+1 _UID f608458f-70d7-486f-ab7a-f0f0319f59a2
+1 NAME Екатерина /Захаренко/
+2 GIVN Екатерина
+2 _MARNM Захаренко
+1 SEX F
+1 BIRT
+2 _UID 29c52cdd-2834-4ad8-8f34-b4d23d09de8c
+1 FAMS @F89@
+0 @I382@ INDI
+1 _UID c58d3fb3-1c3a-4b14-af41-6adbbacc99cc
+1 NAME Михаил /Степанов/
+2 GIVN Михаил
+1 SEX M
+1 BIRT
+2 _UID 9ab61510-37fd-4df9-9c2b-72fbf96d5702
+1 DEAT
+2 _UID 8d251cab-6060-4ac5-9373-24422c8514e3
+1 FAMC @F148@
+1 FAMS @F163@
+0 @I383@ INDI
+1 _UID 011ab9f3-c278-4d74-a0e4-f50d9d20d76b
+1 NAME Анна /Маркова (Жолкина)/
+2 GIVN Анна
+2 SURN Жолкина
+2 _MARNM Маркова
+1 SEX F
+1 BIRT
+2 _UID 7cd97428-5d7a-4264-b836-23fbb1e2c80d
+1 DEAT
+2 _UID 6ddcbe74-ccb2-4843-bb3b-fd7b6fd8d2c8
+1 FAMC @F13@
+1 FAMS @F46@
+0 @I384@ INDI
+1 _UID 0c31a60f-43a6-4676-a53d-5f800331e617
+1 NAME Александр /Захаренко/
+2 GIVN Александр
+1 SEX M
+1 BIRT
+2 DATE 24 JUN 1959
+2 PLAC Красное, Россия
+2 _UID 9bc8faae-d960-418d-b3a7-4e63d3478a4a
+1 FAMC @F37@
+1 FAMS @F161@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/b964c77e-7512-403d-9651-c3e5ef03528e.jpg
+0 @I385@ INDI
+1 _UID 7a1b0c6c-34b9-44ba-8eac-8c4b0f744204
+1 NAME Оксана / (Дронова)/
+2 GIVN Оксана
+2 SURN Дронова
+1 SEX F
+1 BIRT
+2 _UID 80a6d69d-14a2-4277-8f89-2893bd399a3c
+1 FAMC @F17@
+1 FAMS @F143@
+0 @I386@ INDI
+1 _UID 197d972b-551a-49c4-ad3f-ce48f80fa3c2
+1 NAME Евдокия / (Степанова)/
+2 GIVN Евдокия
+2 SURN Степанова
+1 SEX F
+1 BIRT
+2 _UID 7e543aeb-5533-4729-9da8-f2fae6671783
+1 DEAT
+2 PLAC Брянск
+2 _UID 27c711a5-bcd2-4617-ad27-cbef0fa9435f
+1 FAMC @F119@
+0 @I387@ INDI
+1 _UID 9bdce90f-6b47-4bff-a9d9-179a9f71efa0
+1 NAME Валерий /Лахман/
+2 GIVN Валерий
+1 SEX M
+1 BIRT
+2 _UID 48c8f3ba-3f21-4471-ac3b-a0c72e0c6e5b
+1 FAMS @F21@
+0 @I388@ INDI
+1 _UID f0ff9472-de35-4e03-9e94-2f8f1dd53cdb
+1 NAME Дарья /Захаренко/
+2 GIVN Дарья
+2 _MARNM Захаренко
+1 SEX F
+1 BIRT
+2 _UID 93809dcf-8e11-4399-96c4-27de678406fd
+1 FAMS @F40@
+0 @I389@ INDI
+1 _UID 6e2ba100-6786-4848-8e5d-7309cd907ffe
+1 NAME Алексей /Теплов/
+2 GIVN Алексей
+1 SEX M
+1 BIRT
+2 DATE ABT 1986
+2 PLAC Саратов, Россия
+2 _UID 79be38d3-43c5-4618-9986-2357a2e75e06
+1 FAMC @F59@
+0 @I390@ INDI
+1 _UID a4cb7004-d91e-42a6-b2a7-cd5552aa9930
+1 NAME Владимир /Абрамов/
+2 GIVN Владимир
+1 SEX M
+1 NOTE отец Николай
+1 BIRT
+2 DATE ABT 1949
+2 PLAC Дубна
+2 _UID 741c2684-7f96-427b-a9bd-06b98680a8f0
+1 DEAT
+2 CAUS Несчастный случай | Пожар
+2 DATE 26 APR 2013
+2 PLAC Тверская область
+2 _UID 2bf8e647-327d-49c1-8e0c-fcfe45dd4cb7
+1 FAMC @F145@
+0 @I391@ INDI
+1 _UID e1582354-ba13-45fe-8730-a804bf8f5e80
+1 NAME Василий //
+2 GIVN Василий
+1 SEX M
+1 BIRT
+2 _UID 6827e25e-52f6-4ffd-94ca-36d594d33a51
+1 DEAT
+2 _UID d4ec87c3-33ed-4f27-98d4-2a8cb012e0c4
+1 FAMS @F127@
+0 @I392@ INDI
+1 _UID 4cd28f54-fc72-43b6-9eed-bfbba4b1bfac
+1 NAME Елена / (Миронова)/
+2 GIVN Елена
+2 SURN Миронова
+1 SEX F
+1 BIRT
+2 _UID b9a97f3f-d7d6-4cd3-8438-643af29033b3
+1 FAMC @F155@
+0 @I393@ INDI
+1 _UID ff3a0749-5af6-444f-bd85-c2fff0a9e1de
+1 NAME Сергей /Варнаков/
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 PLAC Омск
+2 _UID ad2b3d69-56fc-4a22-8707-82d675cc1937
+1 FAMC @F93@
+0 @I394@ INDI
+1 _UID 323dc438-c0b1-48b2-81d5-ebe0ad5a366a
+1 NAME Дочка //
+2 GIVN Дочка
+1 SEX F
+1 BIRT
+2 _UID 6a563fa2-d497-4df7-8a5f-1a09706ab220
+1 FAMC @F143@
+0 @I395@ INDI
+1 _UID c088518b-d17b-467b-a801-fcc77a07a830
+1 NAME Виктор /Бабий/
+2 GIVN Виктор
+1 SEX M
+1 BIRT
+2 DATE 25 NOV 1955
+2 PLAC Винницкая обл.
+2 _UID 3f14b54c-8641-4863-923e-8ad3ebf29bfb
+1 OCCU
+2 NOTE строитель
+2 _UID 79e70a61-c1ae-450b-80a1-fb7bd37d63e7
+1 FAMS @F71@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/0c621c26-5719-4ce7-909a-937ed06b779b.jpg
+0 @I396@ INDI
+1 _UID f75f62a5-3db1-4de9-a370-1014558d7f84
+1 NAME Яков /Емельянов/
+2 GIVN Яков
+1 SEX M
+1 BIRT
+2 _UID a5f892b0-c23b-4c95-aca8-c74960fd90b7
+1 FAMC @F61@
+0 @I397@ INDI
+1 _UID 734dae4e-9673-4761-8818-b21f89fc7640
+1 NAME Василиса /Оськина/
+2 GIVN Василиса
+2 _MARNM Оськина
+1 SEX F
+1 BIRT
+2 DATE 1907
+2 _UID f6200b77-00aa-4f2d-ae5e-b599d8f7efbd
+1 DEAT
+2 CAUS Естественная смерть/старость
+2 DATE 19 MAR 1975
+2 _UID 609b33ab-336b-45c1-8c56-861d9f5a0f38
+1 FAMC @F156@
+1 FAMS @F131@
+0 @I398@ INDI
+1 _UID 2c3b047c-0f34-4dd8-a96b-1a19bb32b1d1
+1 NAME Евгения /Хахалина (Сторожова)/
+2 GIVN Евгения
+2 SURN Сторожова
+2 _MARNM Хахалина
+1 SEX F
+1 BIRT
+2 DATE 6 JAN 1910
+2 PLAC Саратов, Россия
+2 _UID c7ba58ae-4b2b-4ec4-a928-40bcda8e2350
+1 DEAT
+2 DATE 3 APR 1987
+2 PLAC Жигулевск
+2 _UID 65a7487d-4358-44e2-9165-a2c82832e6d8
+1 FAMC @F118@
+1 FAMS @F139@
+0 @I399@ INDI
+1 _UID a2d3659e-1c03-480d-99f6-2789cbebaf45
+1 NAME Светлана /Шматова (Пронина)/
+2 GIVN Светлана
+2 SURN Пронина
+2 _MARNM Шматова
+1 SEX F
+1 BIRT
+2 DATE 20 MAY 1979
+2 PLAC Саратов, Россия
+2 _UID 206efc78-e13e-4564-9cc3-ef34ff59de58
+1 OCCU
+2 NOTE кардиотерапевт
+2 _UID 80e3266e-7ef4-4910-9569-3024ef30c94d
+1 FAMC @F38@
+1 FAMS @F33@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/0a144ac6-7c54-4359-a55e-9560ab67ca0d.jpg
+0 @I400@ INDI
+1 _UID a7480c3e-42d2-4587-9df3-56fd65fda165
+1 NAME Юлия / (Столярова)/
+2 GIVN Юлия
+2 SURN Столярова
+1 SEX F
+1 BIRT
+2 DATE 25 FEB 2014
+2 _UID 06797b1c-88e4-4ad0-a5f5-26a4cc4f8cbe
+1 FAMC @F111@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/1fce61d9-ffe1-4329-9c5d-dff6efffec09.jpg
+0 @I401@ INDI
+1 _UID 893444bb-59d2-4c31-a23a-e886143ca6d3
+1 NAME Агафья Александровна /Зыбина (Нестерова)/
+2 GIVN Агафья Александровна
+2 SURN Нестерова
+2 _MARNM Зыбина
+1 SEX F
+1 BIRT
+2 DATE 18 FEB 1892
+2 _UID 2d20c31d-6563-406a-beb3-c99e9b348c60
+1 DEAT
+2 DATE 18 JUL 1976
+2 _UID 7dc6c6d5-05b3-4097-a97b-3981c955cdc6
+1 FAMS @F15@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/b6a1eb59-216d-4042-8a38-78fef44c53ca.jpg
+0 @I402@ INDI
+1 _UID 5af10f02-758e-4075-a25f-bc8d65702d93
+1 NAME Наталья /Полухина (Федосова)/
+2 GIVN Наталья
+2 SURN Федосова
+2 _MARNM Полухина
+1 SEX F
+1 BIRT
+2 DATE 8 SEP 1986
+2 PLAC Череповец
+2 _UID 8337fa16-6b6e-4df2-9f00-40de29e3168b
+1 RESI
+2 _UID ecabd33b-43be-4004-acee-d6750d1f28f8
+1 RESI
+2 _UID 027cbaf8-7bf0-4566-9676-8f97c7084797
+1 FAMS @F56@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/3e5650ba-3346-418a-8ceb-7f8c2ac4ec02.jpg
+0 @I403@ INDI
+1 _UID bebe52d8-808c-46c4-8b24-07ca5de6c65b
+1 NAME Федор /Миронов/
+2 GIVN Федор
+1 SEX M
+1 BIRT
+2 _UID 1a0ad1e7-6ac2-49e9-87be-af90e0ed4b8b
+1 FAMC @F29@
+1 FAMS @F53@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/e473fb3e-32b1-4829-b876-647105453f44.jpg
+0 @I404@ INDI
+1 _UID 917c13e2-ce9f-44b1-8d1f-82321b1e50ba
+1 NAME Юрий /Маратаев/
+2 GIVN Юрий
+1 SEX M
+1 BIRT
+2 _UID dcef0f11-3dff-41cc-8de3-5fc93624de11
+1 FAMS @F128@
+0 @I405@ INDI
+1 _UID 43047254-42cb-4db4-82df-e95318a66ba6
+1 NAME Степан //
+2 GIVN Степан
+1 SEX M
+1 BIRT
+2 _UID 666a26ea-789b-4fbd-82a2-345878581ab4
+1 DEAT
+2 _UID 11f2615a-1b15-4fce-96d7-0bb1c0f57ee9
+1 FAMS @F156@
+0 @I406@ INDI
+1 _UID 830cdecd-d8f7-4446-8a2f-afceb449ecc8
+1 NAME Степан /Петров/
+2 GIVN Степан
+1 SEX M
+1 BIRT
+2 _UID 36a1e10c-f35b-47b1-abc1-5b09e1a6a801
+1 DEAT
+2 _UID caec0d54-ea00-489f-bdca-6667e0ee68f3
+1 FAMS @F129@
+0 @I407@ INDI
+1 _UID 47db1d19-29e7-4ee9-a98e-d7af6854c7a0
+1 NAME Константин /Теплов/
+2 GIVN Константин
+1 SEX M
+1 BIRT
+2 DATE 31 AUG 2007
+2 PLAC Саратов, Россия
+2 _UID 0b4a0ab3-c03c-477d-bf05-3a0480a83066
+1 FAMC @F135@
+0 @I408@ INDI
+1 _UID 0b4a2e8c-5488-4407-9658-468bb567451d
+1 NAME Николай /Теплов/
+2 GIVN Николай
+1 SEX M
+1 BIRT
+2 _UID 5eee1e6b-275e-4f9d-b8b4-41f7c7c184c1
+1 FAMC @F18@
+0 @I409@ INDI
+1 _UID 7eb7c9a7-0897-4422-91b7-f061b48f7db2
+1 NAME Дарья /Маркова (Шматова)/
+2 GIVN Дарья
+2 SURN Шматова
+2 _MARNM Маркова
+1 SEX F
+1 BIRT
+2 DATE 1 MAR 1981
+2 _UID 0c56703e-7442-4d70-8290-cddb199af94c
+1 FAMS @F125@
+0 @I410@ INDI
+1 _UID 39f3073b-1b91-4276-8da8-c26d09e36701
+1 NAME Галина /Мишина (Нестерова)/
+2 GIVN Галина
+2 SURN Нестерова
+2 _MARNM Мишина
+1 SEX F
+1 BIRT
+2 DATE 3 JAN 1964
+2 PLAC Вытегра, Россия
+2 _UID 736eb96e-15b8-4100-b8e4-6add323ca634
+1 RESI
+2 _UID 48a3b332-3b4f-47c9-8e55-57daa6ca9b75
+1 RESI
+2 PLAC ул. Розы Люксембург, 9А, кв.6
+2 _UID 51193ea6-f8eb-4e66-8aac-3c0d1ddb6ce3
+1 EDUC
+2 PLAC Вологодский Пед Инст
+2 _UID 83849f2c-1e77-4b7a-b52b-3825fe35842b
+1 OCCU
+2 NOTE учитель английского
+2 _UID de8af203-c5c1-45c3-bd25-20e5dec1b543
+1 RESI
+2 _UID 4a58b46f-2485-4ab8-88e6-8452b82e413f
+1 FAMC @F74@
+1 FAMS @F100@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/d7a0a267-357e-427b-ab61-fc56db50df9b.jpg
+0 @I411@ INDI
+1 _UID 78ce2d8a-3c3c-470a-9589-b1d15b8dcf46
+1 NAME Сергей /Миронов/
+2 GIVN Сергей
+1 SEX M
+1 BIRT
+2 _UID 0da305ca-f709-4ded-8a9a-6b1b85284844
+1 FAMC @F155@
+0 @I412@ INDI
+1 _UID dfa11069-508d-488c-a3fa-e174ca93fcda
+1 NAME Нина /Маркова (Скуридина)/
+2 GIVN Нина
+2 SURN Скуридина
+2 _MARNM Маркова
+1 SEX F
+1 BIRT
+2 DATE 29 JAN 1933
+2 PLAC с. Беломестное
+2 _UID c9c7aea4-1dcc-41b6-8c63-515849e194b1
+1 DEAT
+2 DATE 1 MAY 2007
+2 PLAC Ливны, Россия
+2 _UID 4ee201f7-617f-449a-bacc-257d6201c34d
+1 FAMC @F2@
+1 FAMS @F104@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/28b85963-5459-481f-b2b5-fc2c7d3d0577.jpg
+0 @I413@ INDI
+1 _UID 0a2852d0-8669-4323-a702-ff6b87048a60
+1 NAME Елена /Петрова (Миронова)/
+2 GIVN Елена
+2 SURN Миронова
+2 _MARNM Петрова
+1 SEX F
+1 BIRT
+2 DATE 3 JUN 1902
+2 PLAC д. Шугино Вашкинского р-на Вологодской обл.
+2 _UID 5bc56e5d-ea0d-4e62-b961-33e22e086588
+1 BURI
+2 PLAC Вытегра, Россия
+2 _UID e5c1b2ed-0a8e-4db6-ab51-e04bc4c707b2
+1 DEAT
+2 DATE 17 OCT 1967
+2 _UID 6fd98817-b338-4f02-9bd8-f10c2d861446
+1 FAMC @F29@
+1 FAMS @F95@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/29e1c5f1-27b2-4424-afff-059ab3582caf.jpg
+0 @I414@ INDI
+1 _UID 295bee11-1614-42c1-a29a-70a4cda74083
+1 NAME Людмила /Маратаева (Седякина)/
+2 GIVN Людмила
+2 SURN Седякина
+2 _MARNM Маратаева
+1 SEX F
+1 BIRT
+2 DATE 15 DEC 1937
+2 PLAC д. Никольская гора
+2 _UID ad9c3e4f-1c8e-40dc-956b-2b0f61d4cd0e
+1 RESI
+2 _UID 622530f1-61ee-4410-9d87-9c0bf24cc2f9
+1 EDUC
+2 PLAC Ярославский финансовый институт (филиал ленинграда)
+2 NOTE высшее
+2 _UID 9e95959f-d54d-4a7a-b092-cdd34db21659
+1 OCCU
+2 NOTE финансист
+2 _UID 7d36ea71-7b2e-4f58-a08d-803458bdd7c0
+1 FAMC @F110@
+1 FAMS @F128@
+1 OBJE
+2 FORM jpg
+2 FILE https://familio.org/api/v1/images/user_files/fbda4aab-bc1e-44dc-b341-c51e81dad77e/persons/9fce7874-fbf7-4fd6-9b7c-d54c0be5d093.jpg
+0 @F1@ FAM
+1 HUSB @I34@
+1 WIFE @I1@
+1 MARR
+2 _UID c4af293f-bf7b-449d-8709-c8cad46c0329
+1 CHIL @I327@
+0 @F2@ FAM
+1 HUSB @I2@
+1 WIFE @I160@
+1 MARR
+2 _UID e4e27d34-0e9b-4bd9-8765-b3e2d3b0e7b2
+1 CHIL @I80@
+1 CHIL @I121@
+1 CHIL @I124@
+1 CHIL @I186@
+1 CHIL @I412@
+0 @F3@ FAM
+1 HUSB @I370@
+1 WIFE @I3@
+1 MARR
+2 _UID 31ed8cf5-85d9-4a28-b5a3-3108b7baaada
+1 CHIL @I373@
+0 @F4@ FAM
+1 HUSB @I5@
+1 WIFE @I63@
+1 MARR
+2 _UID d0100412-618e-4489-a565-dcead9568e28
+1 CHIL @I195@
+0 @F5@ FAM
+1 HUSB @I71@
+1 WIFE @I7@
+1 MARR
+2 _UID 2b4e45d1-54e3-426b-84c0-99ec06758d9f
+1 CHIL @I320@
+1 CHIL @I346@
+0 @F6@ FAM
+1 HUSB @I139@
+1 WIFE @I8@
+1 MARR
+2 _UID d2720bdb-72d3-4dbe-90cb-3ac70ea68946
+1 CHIL @I107@
+1 CHIL @I167@
+0 @F7@ FAM
+1 HUSB @I9@
+1 WIFE @I302@
+1 MARR
+2 _UID 2f558f4e-7de4-4ed5-8b1f-c356cafedb84
+1 CHIL @I228@
+1 CHIL @I284@
+1 CHIL @I319@
+1 CHIL @I323@
+1 CHIL @I364@
+0 @F8@ FAM
+1 HUSB @I58@
+1 WIFE @I10@
+1 MARR
+2 _UID 6c2508ff-b832-4c65-8f84-8dbd18432eed
+1 CHIL @I64@
+1 CHIL @I128@
+0 @F9@ FAM
+1 HUSB @I11@
+1 WIFE @I36@
+1 MARR
+2 _UID 74abfa06-a8e7-4e45-a0a1-9a43871ced5b
+1 CHIL @I31@
+0 @F10@ FAM
+1 HUSB @I12@
+1 WIFE @I144@
+1 MARR
+2 _UID 2544f90d-8e06-40af-b219-349f5c865a74
+1 CHIL @I35@
+1 CHIL @I341@
+0 @F11@ FAM
+1 HUSB @I13@
+1 WIFE @I355@
+1 MARR
+2 _UID 9d934e1e-2603-4f5b-9a9c-f91df3ca8697
+1 CHIL @I263@
+0 @F12@ FAM
+1 HUSB @I15@
+1 MARR
+2 _UID 8514a1f2-31e2-4223-9b9b-aaffe6df6d73
+1 CHIL @I283@
+0 @F13@ FAM
+1 HUSB @I16@
+1 MARR
+2 _UID d4e40a4f-f949-47ef-bfc7-5462471502c5
+1 CHIL @I383@
+0 @F14@ FAM
+1 HUSB @I18@
+1 MARR
+2 _UID 5b8f3028-96ac-4787-b466-e201540aee47
+1 CHIL @I46@
+0 @F15@ FAM
+1 HUSB @I19@
+1 WIFE @I401@
+1 MARR
+2 _UID 5a97f03a-f230-4915-b3b8-f198c86612b2
+1 CHIL @I145@
+0 @F16@ FAM
+1 HUSB @I21@
+1 WIFE @I185@
+1 MARR
+2 _UID 6cc1c404-409d-42cd-be1d-a26553fe2e97
+1 CHIL @I243@
+1 CHIL @I282@
+0 @F17@ FAM
+1 HUSB @I188@
+1 WIFE @I23@
+1 MARR
+2 _UID e02c6de2-cec3-4e7c-9608-e0f917eb91aa
+1 DIV
+2 _UID a4f0928e-10ac-422d-90cc-105c98438ac4
+1 CHIL @I155@
+1 CHIL @I385@
+0 @F18@ FAM
+1 HUSB @I24@
+1 WIFE @I328@
+1 MARR
+2 _UID 71a49264-90fb-4ea4-9fb6-79d6e8eb41c1
+1 CHIL @I182@
+1 CHIL @I408@
+0 @F19@ FAM
+1 HUSB @I292@
+1 WIFE @I26@
+1 MARR
+2 _UID e98a68fe-e4ed-4021-9037-3c8f72b53510
+1 CHIL @I1@
+0 @F20@ FAM
+1 HUSB @I369@
+1 WIFE @I27@
+1 MARR
+2 _UID e7833fd4-1f08-4dce-959a-6be93d8976a9
+1 CHIL @I133@
+0 @F21@ FAM
+1 HUSB @I387@
+1 WIFE @I30@
+1 MARR
+2 _UID ef557494-6c57-4883-ae10-19b8815cf20a
+1 CHIL @I28@
+0 @F22@ FAM
+1 HUSB @I189@
+1 WIFE @I31@
+1 MARR
+2 _UID f10f6781-1f70-4d6f-89be-36e48ccb6af3
+1 CHIL @I79@
+1 CHIL @I137@
+0 @F23@ FAM
+1 HUSB @I212@
+1 WIFE @I33@
+1 MARR
+2 _UID 74b24a08-2053-49ce-a4a5-fa8cbaf4c76c
+1 CHIL @I143@
+0 @F24@ FAM
+1 HUSB @I68@
+1 WIFE @I35@
+1 MARR
+2 _UID 39d2f7b4-65ee-4a99-8705-3aee351af879
+1 CHIL @I82@
+0 @F25@ FAM
+1 HUSB @I306@
+1 WIFE @I40@
+1 MARR
+2 PLAC Саратов, Россия
+2 _UID 066c5801-2081-40ed-a937-1d5934732940
+1 CHIL @I209@
+0 @F26@ FAM
+1 HUSB @I42@
+1 MARR
+2 _UID c5d37f5d-44d7-4b4a-a331-66613500baa1
+1 CHIL @I123@
+0 @F27@ FAM
+1 HUSB @I121@
+1 WIFE @I43@
+1 MARR
+2 _UID 7367d032-97bb-443d-8296-b5fa9879833f
+1 CHIL @I95@
+0 @F28@ FAM
+1 HUSB @I46@
+1 MARR
+2 _UID 3b036e4e-1d74-47e3-b05a-1ad52a28d325
+1 CHIL @I56@
+0 @F29@ FAM
+1 HUSB @I348@
+1 WIFE @I48@
+1 MARR
+2 _UID 3878fe3e-6f9a-48da-bb1f-cd5c7dd18d5b
+1 CHIL @I248@
+1 CHIL @I368@
+1 CHIL @I403@
+1 CHIL @I413@
+0 @F30@ FAM
+1 WIFE @I52@
+1 MARR
+2 _UID 733c448e-2f3e-4765-b1fd-8606d0ee7aef
+1 CHIL @I85@
+0 @F31@ FAM
+1 HUSB @I54@
+1 WIFE @I277@
+1 MARR
+2 _UID 68fd1436-261a-4b3f-ac0d-bddc61eec549
+1 CHIL @I50@
+1 CHIL @I52@
+1 CHIL @I70@
+1 CHIL @I84@
+1 CHIL @I125@
+1 CHIL @I157@
+1 CHIL @I288@
+0 @F32@ FAM
+1 HUSB @I72@
+1 WIFE @I56@
+1 MARR
+2 _UID f842e457-736c-474c-abf3-ed7012ede71e
+1 CHIL @I281@
+0 @F33@ FAM
+1 HUSB @I59@
+1 WIFE @I399@
+1 MARR
+2 PLAC Саратов, Россия
+2 _UID a7f46c2d-0537-4b72-a832-303aae3044ab
+1 CHIL @I37@
+1 CHIL @I184@
+0 @F34@ FAM
+1 HUSB @I62@
+1 WIFE @I211@
+1 MARR
+2 _UID 8741b210-496e-407d-afde-7a7867a7ad9d
+0 @F35@ FAM
+1 HUSB @I136@
+1 WIFE @I63@
+1 MARR
+2 _UID b2589dfb-8efc-482a-bc32-765efdd7e3dc
+1 DIV
+2 _UID ef0125cb-dbb5-4412-a390-2635c4f6f840
+1 CHIL @I102@
+0 @F36@ FAM
+1 HUSB @I89@
+1 WIFE @I65@
+1 MARR
+2 _UID f25d3d3a-6574-4606-937e-373e03e134e8
+1 CHIL @I254@
+1 CHIL @I333@
+0 @F37@ FAM
+1 HUSB @I329@
+1 WIFE @I66@
+1 MARR
+2 PLAC Ангарск, Россия
+2 _UID c1b743b2-6d43-4fcc-8a02-84d113fbcb5c
+1 CHIL @I212@
+1 CHIL @I384@
+0 @F38@ FAM
+1 HUSB @I67@
+1 WIFE @I209@
+1 MARR
+2 PLAC Саратов, Россия
+2 _UID 71c82b82-0c45-4d99-8f75-e18fc86a9d90
+1 DIV
+2 _UID ebbed80e-41bf-4f06-a7f3-e58f2b49c41a
+1 CHIL @I399@
+0 @F39@ FAM
+1 HUSB @I73@
+1 WIFE @I115@
+1 MARR
+2 _UID 900f3dee-72f1-4355-947b-9d2c69c8a866
+1 CHIL @I61@
+1 CHIL @I305@
+0 @F40@ FAM
+1 HUSB @I76@
+1 WIFE @I388@
+1 MARR
+2 _UID 65676fee-58a4-4bd5-8f23-af998ebfb516
+1 CHIL @I166@
+1 CHIL @I176@
+1 CHIL @I200@
+1 CHIL @I329@
+0 @F41@ FAM
+1 HUSB @I77@
+1 WIFE @I152@
+1 MARR
+2 DATE 25 AUG 1978
+2 PLAC Саратов, Россия
+2 _UID 8a3f3d95-ad13-410b-aa0c-59859bfe6668
+1 CHIL @I326@
+0 @F42@ FAM
+1 HUSB @I246@
+1 WIFE @I80@
+1 MARR
+2 _UID 6c6ead5e-b4ae-4cfc-a456-8e185d830fdf
+1 CHIL @I129@
+1 CHIL @I356@
+0 @F43@ FAM
+1 HUSB @I83@
+1 WIFE @I243@
+1 MARR
+2 DATE 24 MAY 1986
+2 PLAC Москва, Россия
+2 _UID 2cb96392-49cb-457b-815e-3e4331af0fd6
+1 CHIL @I249@
+1 CHIL @I322@
+0 @F44@ FAM
+1 HUSB @I308@
+1 WIFE @I84@
+1 MARR
+2 _UID 31a72719-0cfa-4336-a131-68b8cc8b2ecf
+1 CHIL @I30@
+0 @F45@ FAM
+1 HUSB @I175@
+1 WIFE @I85@
+1 MARR
+2 _UID 3cf24183-6a64-4ba8-8fc9-25ec3081509a
+1 CHIL @I83@
+1 CHIL @I142@
+0 @F46@ FAM
+1 HUSB @I86@
+1 WIFE @I383@
+1 MARR
+2 _UID c3a41483-ab7f-4d00-91a5-f78e9b971082
+1 CHIL @I26@
+1 CHIL @I58@
+1 CHIL @I105@
+1 CHIL @I215@
+1 CHIL @I343@
+1 CHIL @I355@
+0 @F47@ FAM
+1 HUSB @I88@
+1 WIFE @I181@
+1 MARR
+2 _UID f8c9d396-bb67-4a65-ad59-ad711ec65baa
+1 CHIL @I289@
+1 CHIL @I307@
+0 @F48@ FAM
+1 HUSB @I91@
+1 WIFE @I245@
+1 MARR
+2 _UID 6c171dc4-37b2-4405-8ba1-5f9910ff46d3
+1 CHIL @I57@
+0 @F49@ FAM
+1 HUSB @I93@
+1 WIFE @I337@
+1 MARR
+2 _UID 3b014e31-1935-465a-9160-eab8b0e2d3d3
+0 @F50@ FAM
+1 HUSB @I96@
+1 WIFE @I296@
+1 MARR
+2 DATE 22 AUG 2014
+2 _UID cbd6ac20-611f-4e8e-b8dc-9ad9b9cb722c
+0 @F51@ FAM
+1 HUSB @I97@
+1 MARR
+2 _UID 00010810-6d40-4bdf-ac4d-be743ea4075c
+1 CHIL @I360@
+0 @F52@ FAM
+1 HUSB @I100@
+1 MARR
+2 _UID 6ceb6d6d-3dd0-4289-b1ef-6dd960ecc93b
+1 CHIL @I151@
+0 @F53@ FAM
+1 HUSB @I403@
+1 WIFE @I101@
+1 MARR
+2 _UID 5eebfd54-9d65-4e77-8782-5ec2d6065185
+1 CHIL @I53@
+1 CHIL @I98@
+1 CHIL @I113@
+1 CHIL @I144@
+1 CHIL @I154@
+1 CHIL @I177@
+1 CHIL @I220@
+1 CHIL @I260@
+1 CHIL @I261@
+1 CHIL @I295@
+1 CHIL @I299@
+1 CHIL @I317@
+0 @F54@ FAM
+1 HUSB @I103@
+1 WIFE @I118@
+1 MARR
+2 _UID 6c56f25e-39f1-4f10-b99d-56e9c23c5b73
+1 DIV
+2 _UID aaffcde8-3ad9-44c1-aa33-6cc4c5d70958
+1 CHIL @I152@
+1 CHIL @I336@
+0 @F55@ FAM
+1 HUSB @I104@
+1 WIFE @I264@
+1 MARR
+2 _UID bb0526f4-1e6e-46ff-aa83-2487289b9f87
+1 CHIL @I374@
+0 @F56@ FAM
+1 HUSB @I107@
+1 WIFE @I402@
+1 MARR
+2 _UID 5d550d39-11ae-47ef-95be-9e2407480a71
+0 @F57@ FAM
+1 HUSB @I210@
+1 WIFE @I108@
+1 MARR
+2 DATE 17 DEC 1999
+2 PLAC Кузнецк, Россия
+2 _UID 7e30b624-afe9-4c76-bece-3eb6e31751c3
+1 CHIL @I379@
+0 @F58@ FAM
+1 HUSB @I109@
+1 MARR
+2 _UID cf9a012d-7b03-4fd4-83aa-052a98df8de1
+1 CHIL @I59@
+0 @F59@ FAM
+1 HUSB @I336@
+1 WIFE @I117@
+1 MARR
+2 PLAC Саратов, Россия
+2 _UID bd5f27c0-311d-44fd-a28a-3231ad6d4963
+1 DIV
+2 _UID fb56ff45-05f5-4acd-8963-104732628976
+1 CHIL @I389@
+0 @F60@ FAM
+1 HUSB @I119@
+1 WIFE @I311@
+1 MARR
+2 _UID 020bd6dc-9822-4744-9e76-cdf54332efb5
+1 CHIL @I141@
+1 CHIL @I357@
+0 @F61@ FAM
+1 HUSB @I271@
+1 WIFE @I123@
+1 MARR
+2 _UID aa06be1a-d59b-4cb5-909a-2d409b856851
+1 CHIL @I99@
+1 CHIL @I156@
+1 CHIL @I168@
+1 CHIL @I197@
+1 CHIL @I225@
+1 CHIL @I256@
+1 CHIL @I359@
+1 CHIL @I396@
+0 @F62@ FAM
+1 HUSB @I126@
+1 WIFE @I270@
+1 MARR
+2 _UID 4d5bf96b-37fc-46e4-9881-4406f1a6e4c0
+1 CHIL @I251@
+0 @F63@ FAM
+1 HUSB @I255@
+1 WIFE @I127@
+1 MARR
+2 _UID 59cce86e-71bc-4238-a609-2779cdd51ab7
+1 CHIL @I23@
+1 CHIL @I193@
+1 CHIL @I219@
+0 @F64@ FAM
+1 HUSB @I363@
+1 WIFE @I128@
+1 MARR
+2 _UID 4e035252-2e18-42e5-8ecb-c5443583c6e7
+1 CHIL @I55@
+1 CHIL @I94@
+0 @F65@ FAM
+1 HUSB @I283@
+1 WIFE @I131@
+1 MARR
+2 _UID 59517273-9431-401a-af3b-798408f2b505
+1 DIV
+2 _UID 84c9cea4-3ca8-4c4f-9318-7dd9bc6bd08b
+1 CHIL @I47@
+1 CHIL @I77@
+0 @F66@ FAM
+1 HUSB @I132@
+1 WIFE @I343@
+1 MARR
+2 _UID b773e747-89e8-46a5-a6df-8a971bc6d62e
+1 CHIL @I278@
+1 CHIL @I300@
+0 @F67@ FAM
+1 HUSB @I133@
+1 WIFE @I294@
+1 MARR
+2 _UID 284e306d-ec4b-438e-a60e-e12ecfcd0bbd
+1 CHIL @I130@
+0 @F68@ FAM
+1 HUSB @I134@
+1 MARR
+2 _UID 824bf53f-78cd-4b34-9e33-e450c05a613c
+1 CHIL @I67@
+0 @F69@ FAM
+1 HUSB @I135@
+1 MARR
+2 _UID f0fb1d7c-cf49-49cb-9ef9-bc7cafdfb856
+1 CHIL @I86@
+0 @F70@ FAM
+1 HUSB @I140@
+1 MARR
+2 _UID e0c148a8-35b0-4af6-80a0-002878a11026
+1 CHIL @I10@
+0 @F71@ FAM
+1 HUSB @I395@
+1 WIFE @I141@
+1 MARR
+2 _UID 3faedc39-da78-4545-a3e0-7d94a064ae57
+1 CHIL @I104@
+1 CHIL @I126@
+0 @F72@ FAM
+1 HUSB @I142@
+1 WIFE @I222@
+1 MARR
+2 _UID e94f6583-db13-4e9b-8eab-a5051ff6a88b
+1 CHIL @I259@
+0 @F73@ FAM
+1 HUSB @I143@
+1 WIFE @I279@
+1 MARR
+2 DATE 10 AUG 2013
+2 PLAC Таллин
+2 _UID 523e1aaf-e684-4d35-8f0a-c69390a15e83
+1 CHIL @I4@
+0 @F74@ FAM
+1 HUSB @I145@
+1 WIFE @I352@
+1 MARR
+2 _UID 357212d1-8ed6-4a06-9d37-1dc18efa5c55
+1 CHIL @I354@
+1 CHIL @I410@
+0 @F75@ FAM
+1 HUSB @I146@
+1 MARR
+2 _UID 94ae68b5-288e-4ffe-9388-64765b490973
+1 CHIL @I183@
+0 @F76@ FAM
+1 HUSB @I147@
+1 WIFE @I334@
+1 MARR
+2 _UID 6064b722-76e7-41a9-b9ee-5b7bd7f2e34a
+1 CHIL @I62@
+1 CHIL @I96@
+0 @F77@ FAM
+1 HUSB @I148@
+1 WIFE @I178@
+1 MARR
+2 _UID 1b7ba362-edf4-41f1-8808-1d6be12a0a7a
+1 CHIL @I139@
+1 CHIL @I325@
+0 @F78@ FAM
+1 HUSB @I150@
+1 MARR
+2 _UID f873c859-1d27-4815-9db9-0fcfd4dc22e7
+1 CHIL @I242@
+0 @F79@ FAM
+1 HUSB @I151@
+1 WIFE @I325@
+1 MARR
+2 _UID e4b299dc-01f2-40de-8c5e-3d842607a079
+1 CHIL @I370@
+1 CHIL @I375@
+0 @F80@ FAM
+1 HUSB @I153@
+1 WIFE @I342@
+1 MARR
+2 DATE 28 JUL 2012
+2 PLAC г. Мытищи
+2 _UID 5c5cf192-3f2f-49dc-a208-794c03be8b8a
+0 @F81@ FAM
+1 HUSB @I164@
+1 WIFE @I155@
+1 MARR
+2 _UID ecbe6d48-a14e-43e9-86fe-a46821fdeb40
+1 CHIL @I273@
+0 @F82@ FAM
+1 HUSB @I161@
+1 MARR
+2 _UID 623ce1b8-a7ce-4e10-a4c9-486466a725aa
+1 CHIL @I148@
+0 @F83@ FAM
+1 HUSB @I286@
+1 WIFE @I162@
+1 MARR
+2 _UID 1e53685d-397d-406f-8753-596d3684f88e
+1 CHIL @I205@
+0 @F84@ FAM
+1 HUSB @I226@
+1 WIFE @I169@
+1 MARR
+2 _UID 05633638-78e2-44e4-a6dc-4b948c12e432
+1 DIV
+2 _UID 2b0a6960-1187-4fd3-b711-3e93b00f6cfb
+1 CHIL @I236@
+0 @F85@ FAM
+1 HUSB @I170@
+1 WIFE @I351@
+1 MARR
+2 _UID d99949c8-8ad1-4648-bd26-8f1694adfacf
+1 CHIL @I257@
+1 CHIL @I367@
+0 @F86@ FAM
+1 HUSB @I177@
+1 WIFE @I172@
+1 MARR
+2 _UID 414ed8a5-889c-461d-96bc-6284a0ed8dd6
+1 DIV
+2 _UID baa1a591-bb76-4238-bb38-103363980cbd
+1 CHIL @I210@
+1 CHIL @I218@
+0 @F87@ FAM
+1 HUSB @I173@
+1 WIFE @I333@
+1 MARR
+2 _UID 00ff53a8-c22b-4655-a201-414fe9a7defd
+1 CHIL @I44@
+1 CHIL @I314@
+0 @F88@ FAM
+1 HUSB @I289@
+1 WIFE @I174@
+1 MARR
+2 _UID 0cbd12bd-f062-462d-ae0f-4b1761998b3a
+1 CHIL @I227@
+0 @F89@ FAM
+1 HUSB @I176@
+1 WIFE @I381@
+1 MARR
+2 _UID 737cf27b-37e1-413e-9b72-77f5152378f3
+1 CHIL @I285@
+1 CHIL @I303@
+0 @F90@ FAM
+1 HUSB @I179@
+1 WIFE @I253@
+1 MARR
+2 DATE 3 AUG 1985
+2 PLAC Самара
+2 _UID ca846f2f-cee9-4abb-8318-2191df808081
+1 CHIL @I153@
+1 CHIL @I226@
+0 @F91@ FAM
+1 HUSB @I182@
+1 WIFE @I230@
+1 MARR
+2 _UID d48496b3-4b54-4c05-9b70-322e1a2bf2db
+1 CHIL @I74@
+1 CHIL @I103@
+0 @F92@ FAM
+1 HUSB @I183@
+1 WIFE @I321@
+1 MARR
+2 _UID c00056b7-d4c5-414b-b745-41bdbca1b4bd
+1 CHIL @I170@
+1 CHIL @I187@
+0 @F93@ FAM
+1 HUSB @I193@
+1 WIFE @I231@
+1 MARR
+2 _UID 1884d0e3-d7d5-4a96-a7df-7cbafd68f1ef
+1 CHIL @I223@
+1 CHIL @I393@
+0 @F94@ FAM
+1 HUSB @I344@
+1 WIFE @I197@
+1 MARR
+2 _UID 5e6f13bb-320f-4f31-8080-2a8fca0270ec
+1 CHIL @I40@
+1 CHIL @I118@
+0 @F95@ FAM
+1 HUSB @I198@
+1 WIFE @I413@
+1 MARR
+2 _UID 25840dcb-a7a8-4f0b-98dd-65191ffc0574
+1 CHIL @I21@
+1 CHIL @I89@
+1 CHIL @I163@
+1 CHIL @I321@
+0 @F96@ FAM
+1 HUSB @I199@
+1 MARR
+2 _UID ea55f7fb-bba2-4394-97f4-1bf98c952fd7
+1 CHIL @I72@
+0 @F97@ FAM
+1 HUSB @I201@
+1 WIFE @I380@
+1 MARR
+2 _UID 39e79723-a9dc-44d1-8976-2c3defbf4310
+1 DIV
+2 _UID cec6c157-2462-4d3e-bc08-b4501a3a13c9
+1 CHIL @I275@
+0 @F98@ FAM
+1 HUSB @I201@
+1 WIFE @I354@
+1 MARR
+2 _UID 0ef0d70a-5982-4568-8277-8cf88d323d75
+1 CHIL @I45@
+0 @F99@ FAM
+1 HUSB @I204@
+1 MARR
+2 _UID 4f9c0b01-89a5-4ffb-aedc-fe73ae0b9717
+1 CHIL @I119@
+0 @F100@ FAM
+1 HUSB @I205@
+1 WIFE @I410@
+1 MARR
+2 _UID 7d4aa698-0545-4e80-af0b-7098e1edcd0d
+1 CHIL @I51@
+1 CHIL @I202@
+0 @F101@ FAM
+1 HUSB @I290@
+1 WIFE @I206@
+1 MARR
+2 DATE 23 SEP 2010
+2 _UID 3e014818-ca75-4f30-9eda-3606490dccd0
+0 @F102@ FAM
+1 HUSB @I208@
+1 WIFE @I282@
+1 MARR
+2 DATE 3 FEB 1979
+2 PLAC Москва, Россия
+2 _UID 3822e839-c54d-4832-b39b-ce5c072a8842
+1 DIV
+2 _UID 5df7f0b3-1d24-418e-887a-e642231f5a01
+1 CHIL @I342@
+1 CHIL @I365@
+0 @F103@ FAM
+1 HUSB @I318@
+1 WIFE @I214@
+1 MARR
+2 _UID 5f85d603-c90d-482d-8865-f552ce088638
+1 CHIL @I116@
+1 CHIL @I217@
+0 @F104@ FAM
+1 HUSB @I215@
+1 WIFE @I412@
+1 MARR
+2 PLAC Ливны, Россия
+2 _UID 9c72f52e-30ad-464e-aec4-45d0003a42d9
+1 CHIL @I33@
+1 CHIL @I208@
+0 @F105@ FAM
+1 HUSB @I258@
+1 WIFE @I219@
+1 MARR
+2 _UID 3d8b49ac-0c87-4695-913c-8307bb7eddce
+1 CHIL @I265@
+1 CHIL @I269@
+0 @F106@ FAM
+1 HUSB @I221@
+1 MARR
+2 _UID 039c7939-a586-41fa-b701-2c01d71528a8
+1 CHIL @I376@
+0 @F107@ FAM
+1 HUSB @I376@
+1 WIFE @I234@
+1 MARR
+2 _UID 989315ea-ad34-4e6b-9f7b-dcfe16ae4817
+1 CHIL @I175@
+1 CHIL @I345@
+0 @F108@ FAM
+1 HUSB @I237@
+1 WIFE @I358@
+1 MARR
+2 _UID fbceaf28-12c7-4e30-aa26-eab5efa27ea5
+1 CHIL @I230@
+0 @F109@ FAM
+1 HUSB @I378@
+1 WIFE @I239@
+1 MARR
+2 _UID 12e2c229-2fb9-41ab-a7d6-d02c8f59e4ad
+1 CHIL @I214@
+0 @F110@ FAM
+1 HUSB @I281@
+1 WIFE @I242@
+1 MARR
+2 _UID 9847811a-cd43-4b2a-ae73-773101236f5c
+1 CHIL @I178@
+1 CHIL @I185@
+1 CHIL @I311@
+1 CHIL @I352@
+1 CHIL @I414@
+0 @F111@ FAM
+1 HUSB @I244@
+1 WIFE @I322@
+1 MARR
+2 DATE 14 SEP 2013
+2 PLAC г. Мытищи
+2 _UID db6d1e0e-69e1-4fe7-9bf7-d443ac4fc57b
+1 CHIL @I400@
+0 @F112@ FAM
+1 HUSB @I330@
+1 WIFE @I250@
+1 MARR
+2 _UID 7ace42d3-6a6f-4e72-95bb-8b59ac3ca6c8
+1 CHIL @I245@
+0 @F113@ FAM
+1 HUSB @I312@
+1 WIFE @I265@
+1 MARR
+2 _UID aadb80e2-c701-4b9f-a217-436e622dc463
+1 CHIL @I232@
+0 @F114@ FAM
+1 HUSB @I360@
+1 WIFE @I284@
+1 MARR
+2 _UID c915e499-1618-4462-a74c-41c82741014e
+1 CHIL @I344@
+0 @F115@ FAM
+1 HUSB @I290@
+1 WIFE @I309@
+1 MARR
+2 _UID 42390b42-18ab-4766-8e30-fcb7515d99e5
+1 DIV
+2 _UID 52e5a057-7eb9-4e7b-8ecf-04c658799901
+1 CHIL @I301@
+0 @F116@ FAM
+1 HUSB @I304@
+1 WIFE @I327@
+1 MARR
+2 _UID dd0743c9-ed00-459d-92cb-9600da58e904
+1 CHIL @I372@
+0 @F117@ FAM
+1 HUSB @I310@
+1 MARR
+2 _UID 84daafe8-9fe9-4b80-986f-3c7daeb990a6
+1 CHIL @I271@
+0 @F118@ FAM
+1 HUSB @I313@
+1 WIFE @I366@
+1 MARR
+2 _UID f22356ed-4b59-4776-bcb6-7abb90384994
+1 CHIL @I165@
+1 CHIL @I339@
+1 CHIL @I398@
+0 @F119@ FAM
+1 HUSB @I316@
+1 WIFE @I368@
+1 MARR
+2 _UID 736a7bfb-623c-4037-8371-645d43b7f0fd
+1 CHIL @I106@
+1 CHIL @I298@
+1 CHIL @I386@
+0 @F120@ FAM
+1 HUSB @I365@
+1 WIFE @I326@
+1 MARR
+2 DATE 7 OCT 2011
+2 PLAC Prague 8, Libensky zamichek
+2 NOTE Witnesses:Михаил Кормышев, Татьяна Эрнст
+2 _UID 1066c6d9-c815-4659-b5af-4fa71d5111ba
+1 DIV
+2 DATE 1 MAY 2021
+2 _UID 1aa387bd-63c0-4bc7-a5f8-147a573608e8
+1 CHIL @I17@
+0 @F121@ FAM
+1 HUSB @I345@
+1 WIFE @I331@
+1 MARR
+2 _UID a4e0b688-a584-49a6-a52e-73bc6db37aae
+1 CHIL @I290@
+0 @F122@ FAM
+1 HUSB @I338@
+1 MARR
+2 _UID 0766e6bc-5b8e-491a-b3f6-2142a1bb906b
+1 CHIL @I131@
+1 CHIL @I280@
+0 @F123@ FAM
+1 HUSB @I357@
+1 WIFE @I350@
+1 MARR
+2 _UID ceb45ff7-7c45-4370-962f-69f8a59c8f2d
+1 CHIL @I90@
+1 CHIL @I347@
+0 @F124@ FAM
+1 HUSB @I362@
+1 WIFE @I353@
+1 MARR
+2 _UID 63f4cfce-5ec0-4788-acbd-78d3c6ac79eb
+1 CHIL @I63@
+1 CHIL @I66@
+1 CHIL @I239@
+0 @F125@ FAM
+1 HUSB @I365@
+1 WIFE @I409@
+1 MARR
+2 DATE 5 MAY 2000
+2 PLAC Солнцевский ЗАГС г. Москвы
+2 _UID 32e96184-1d80-4104-937b-eb093e3bc1dc
+1 DIV
+2 _UID 5a583582-4579-41f7-ae87-a43c09c9b34f
+1 CHIL @I297@
+0 @F126@ FAM
+1 HUSB @I371@
+1 MARR
+2 _UID 862da166-c25c-417f-ac33-637750c67b08
+1 CHIL @I146@
+0 @F127@ FAM
+1 HUSB @I391@
+1 MARR
+2 _UID 329f3056-f973-4054-8bfa-5ec30ae98820
+1 CHIL @I302@
+0 @F128@ FAM
+1 HUSB @I404@
+1 WIFE @I414@
+1 MARR
+2 _UID 112e390b-89b1-4223-b13d-0969df10331f
+1 CHIL @I69@
+0 @F129@ FAM
+1 HUSB @I406@
+1 MARR
+2 _UID d8949921-fba0-458c-b7d2-453a497f4b03
+1 CHIL @I196@
+1 CHIL @I198@
+0 @F130@ FAM
+1 HUSB @I113@
+1 CHIL @I6@
+1 CHIL @I267@
+0 @F131@ FAM
+1 HUSB @I207@
+1 WIFE @I397@
+1 CHIL @I7@
+1 CHIL @I22@
+1 CHIL @I127@
+1 CHIL @I250@
+1 CHIL @I293@
+1 CHIL @I369@
+0 @F132@ FAM
+1 HUSB @I78@
+1 WIFE @I272@
+1 CHIL @I14@
+1 CHIL @I49@
+1 CHIL @I159@
+1 CHIL @I180@
+1 CHIL @I235@
+1 CHIL @I252@
+0 @F133@ FAM
+1 HUSB @I95@
+1 CHIL @I20@
+0 @F134@ FAM
+1 HUSB @I233@
+1 WIFE @I22@
+1 CHIL @I73@
+0 @F135@ FAM
+1 HUSB @I336@
+1 WIFE @I25@
+1 CHIL @I407@
+0 @F136@ FAM
+1 WIFE @I317@
+1 CHIL @I29@
+1 CHIL @I216@
+0 @F137@ FAM
+1 HUSB @I129@
+1 WIFE @I38@
+1 CHIL @I32@
+0 @F138@ FAM
+1 HUSB @I196@
+1 CHIL @I36@
+0 @F139@ FAM
+1 HUSB @I159@
+1 WIFE @I398@
+1 CHIL @I39@
+1 CHIL @I111@
+0 @F140@ FAM
+1 HUSB @I293@
+1 WIFE @I39@
+1 CHIL @I253@
+1 CHIL @I334@
+0 @F141@ FAM
+1 HUSB @I261@
+1 CHIL @I41@
+1 CHIL @I138@
+1 CHIL @I274@
+1 CHIL @I287@
+0 @F142@ FAM
+1 WIFE @I47@
+1 CHIL @I92@
+1 CHIL @I324@
+0 @F143@ FAM
+1 HUSB @I229@
+1 WIFE @I385@
+1 CHIL @I60@
+1 CHIL @I238@
+1 CHIL @I394@
+0 @F144@ FAM
+1 HUSB @I69@
+1 CHIL @I192@
+0 @F145@ FAM
+1 WIFE @I74@
+1 CHIL @I390@
+0 @F146@ FAM
+1 HUSB @I356@
+1 WIFE @I171@
+1 CHIL @I75@
+1 CHIL @I315@
+0 @F147@ FAM
+1 HUSB @I305@
+1 WIFE @I291@
+1 CHIL @I81@
+1 CHIL @I191@
+0 @F148@ FAM
+1 WIFE @I106@
+1 CHIL @I87@
+1 CHIL @I382@
+0 @F149@ FAM
+1 HUSB @I120@
+1 WIFE @I190@
+1 CHIL @I88@
+1 CHIL @I179@
+0 @F150@ FAM
+1 HUSB @I247@
+1 WIFE @I105@
+1 CHIL @I110@
+1 CHIL @I332@
+1 CHIL @I349@
+0 @F151@ FAM
+1 WIFE @I187@
+1 CHIL @I112@
+0 @F152@ FAM
+1 HUSB @I320@
+1 WIFE @I335@
+1 CHIL @I114@
+0 @F153@ FAM
+1 HUSB @I266@
+1 WIFE @I240@
+1 CHIL @I120@
+0 @F154@ FAM
+1 HUSB @I263@
+1 CHIL @I122@
+0 @F155@ FAM
+1 HUSB @I154@
+1 CHIL @I276@
+1 CHIL @I392@
+1 CHIL @I411@
+0 @F156@ FAM
+1 HUSB @I405@
+1 WIFE @I158@
+1 CHIL @I397@
+0 @F157@ FAM
+1 WIFE @I167@
+1 CHIL @I203@
+0 @F158@ FAM
+1 HUSB @I186@
+1 CHIL @I194@
+1 CHIL @I224@
+0 @F159@ FAM
+1 WIFE @I200@
+1 CHIL @I340@
+0 @F160@ FAM
+1 WIFE @I260@
+1 CHIL @I213@
+1 CHIL @I262@
+1 CHIL @I268@
+0 @F161@ FAM
+1 HUSB @I384@
+1 CHIL @I337@
+0 @F162@ FAM
+1 WIFE @I375@
+1 CHIL @I361@
+0 @F163@ FAM
+1 HUSB @I382@
+1 CHIL @I377@
+0 TRLR
