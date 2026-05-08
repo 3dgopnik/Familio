@@ -317,7 +317,7 @@
 1 FAMS @F56@
 0 @I28@ INDI
 1 _UID b104f007-031c-47b5-8e5e-d9fb536e499b
-1 NAME сергей /грибов/
+1 NAME Сергей /Грибов/
 2 GIVN сергей
 1 SEX M
 1 BIRT
@@ -554,7 +554,7 @@
 2 FILE https://familio.org/api/v1/images/user_files/b1556117-c090-43ea-8f96-e6d616feb010/persons/8ab6ba12-01a6-424f-b48e-daa154b26fdb.jpg
 0 @I49@ INDI
 1 _UID 05e54033-b36d-46a2-8d52-64f13ed7ef39
-1 NAME Наталия Сегреевна /Чередникова (Беляева)/
+1 NAME Наталия Сергеевна /Чередникова (Беляева)/
 2 GIVN Наталия Сегреевна
 2 SURN Беляева
 2 _MARNM Чередникова
@@ -580,7 +580,7 @@
 1 FAMC @F43@
 0 @I51@ INDI
 1 _UID 9190aecc-158d-4fc2-8158-1326ca1ecbbf
-1 NAME клавдия петровна //
+1 NAME Клавдия Петровна //
 2 GIVN клавдия петровна
 1 SEX F
 1 BIRT
@@ -789,7 +789,7 @@
 1 FAMS @F24@
 0 @I71@ INDI
 1 _UID 07a19320-71cf-42ee-87c8-9f8a3ed77bb3
-1 NAME Борис Ивановичь /Караташин/
+1 NAME Борис Иванович /Караташин/
 2 GIVN Борис Ивановичь
 1 SEX M
 1 BIRT
@@ -916,7 +916,7 @@
 1 FAMS @F30@
 0 @I83@ INDI
 1 _UID 54b7a313-8bf5-4c40-9a96-523b3d940110
-1 NAME игорь грибов //
+1 NAME Игорь Грибов //
 2 GIVN игорь грибов
 1 SEX M
 1 BIRT
@@ -1027,7 +1027,7 @@
 2 FILE https://familio.org/api/v1/images/user_files/b1556117-c090-43ea-8f96-e6d616feb010/persons/c4247a22-acb4-4fac-9605-0d4b5bab58d7.jpg
 0 @I93@ INDI
 1 _UID be396dc6-b1b4-4253-97cd-9919b2bb0ddf
-1 NAME николай кириллович /Климов/
+1 NAME Николай Кириллович /Климов/
 2 GIVN николай кириллович
 1 SEX M
 1 BIRT
@@ -1126,7 +1126,7 @@
 1 FAMS @F34@
 0 @I101@ INDI
 1 _UID 4d53fc9d-4ba7-4291-ad69-d503e5f3e4a6
-1 NAME Елена Адександровна / (Копейкина)/
+1 NAME Елена Александровна / (Копейкина)/
 2 GIVN Елена Адександровна
 2 SURN Копейкина
 1 SEX F
@@ -1185,7 +1185,7 @@
 1 FAMS @F80@
 0 @I107@ INDI
 1 _UID a29cd564-b1ec-4786-99be-4aaa6a9ab169
-1 NAME андрей /норков/
+1 NAME Андрей /Норков/
 2 GIVN андрей
 1 SEX M
 1 BIRT
@@ -1594,7 +1594,7 @@
 1 FAMS @F73@
 0 @I137@ INDI
 1 _UID 4543961b-2c74-4d88-b1ef-24dbbe1da630
-1 NAME Николай Викторовичь /Богданов/
+1 NAME Николай Викторович /Богданов/
 2 GIVN Николай Викторовичь
 1 SEX M
 1 BIRT
@@ -1689,7 +1689,7 @@
 1 FAMS @F45@
 0 @I146@ INDI
 1 _UID 44573330-6383-4f2e-b337-5fda2bb642d0
-1 NAME нина николаевна /грибова/
+1 NAME Нина Николаевна /Грибова/
 2 GIVN нина николаевна
 2 _MARNM грибова
 1 SEX F
@@ -1860,7 +1860,7 @@
 1 FAMS @F52@
 0 @I162@ INDI
 1 _UID 7bf5f327-2eed-496c-bdaf-d42ec9799418
-1 NAME Елена николаевна /дорофеева/
+1 NAME Елена Николаевна /Дорофеева/
 2 GIVN Елена николаевна
 2 _MARNM дорофеева
 1 SEX F
@@ -1981,7 +1981,7 @@
 2 _UID 2813af7e-8ceb-49ea-87b0-4dcb9137c286
 0 @I173@ INDI
 1 _UID d051fa6e-bf4e-4238-bc12-e89acbb225ed
-1 NAME ольга александровна /грибова (гагарина)/
+1 NAME Ольга Александровна /Грибова (Гагарина)/
 2 GIVN ольга александровна
 2 SURN гагарина
 2 _MARNM грибова
@@ -2052,7 +2052,7 @@
 1 FAMS @F27@
 0 @I180@ INDI
 1 _UID a8eafbae-52a9-492e-a5a0-c40ce942a55c
-1 NAME евдокия кузьминична /норкова/
+1 NAME Евдокия Кузьминична /Норкова/
 2 GIVN евдокия кузьминична
 2 _MARNM норкова
 1 SEX F
@@ -2090,7 +2090,7 @@
 2 FILE https://familio.org/api/v1/images/user_files/b1556117-c090-43ea-8f96-e6d616feb010/persons/c236d696-4075-4e18-a105-6702e3c4ae54.jpg
 0 @I183@ INDI
 1 _UID d6cf4250-7f0f-4b31-9139-eef8b8e8a521
-1 NAME Екатерина Алексеевна /климова (Грибова)/
+1 NAME Екатерина Алексеевна /Климова (Грибова)/
 2 GIVN Екатерина Алексеевна
 2 SURN Грибова
 2 _MARNM климова
@@ -2186,7 +2186,7 @@
 2 FILE https://familio.org/api/v1/images/user_files/b1556117-c090-43ea-8f96-e6d616feb010/persons/0507198d-7fb6-410a-b2ee-ebac83b329d6.jpg
 0 @I192@ INDI
 1 _UID 8a9b5006-8e43-4214-94f9-f9ab857a8c11
-1 NAME ? /райдна/
+1 NAME ? /Райдна/
 2 GIVN ?
 1 SEX M
 1 BIRT
